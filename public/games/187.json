@@ -1,0 +1,6485 @@
+{
+	"platform": "Playstation 5",
+	"games": [
+		{
+			"slug": "13-sentinels-aegis-rim",
+			"name": "13 Sentinels: Aegis Rim",
+			"id": 408286
+		},
+		{
+			"slug": "a-jugglers-tale",
+			"name": "A Juggler's Tale",
+			"id": 452664
+		},
+		{
+			"slug": "a-little-lily-princess",
+			"name": "A Little Lily Princess",
+			"id": 14295
+		},
+		{
+			"slug": "a-little-to-the-left-cupboards-drawers",
+			"name": "A Little to the Left: Cupboards & Drawers",
+			"id": 995451
+		},
+		{
+			"slug": "a-little-to-the-left-seeing-stars",
+			"name": "A Little to the Left: Seeing Stars",
+			"id": 995452
+		},
+		{
+			"slug": "a-memoir-blue",
+			"name": "A Memoir Blue",
+			"id": 678592
+		},
+		{
+			"slug": "a-musical-story",
+			"name": "A Musical Story",
+			"id": 615478
+		},
+		{
+			"slug": "a-plague-tale-innocence",
+			"name": "A Plague Tale: Innocence",
+			"id": 59359
+		},
+		{
+			"slug": "a-plague-tale-requiem",
+			"name": "A Plague Tale: Requiem",
+			"id": 616697
+		},
+		{
+			"slug": "a-quiet-place-the-road-ahead",
+			"name": "A Quiet Place: The Road Ahead",
+			"id": 989330
+		},
+		{
+			"slug": "a-year-of-springs",
+			"name": "A YEAR OF SPRINGS",
+			"id": 605414
+		},
+		{
+			"slug": "abandoned-2021",
+			"name": "Abandoned (2021)",
+			"id": 580971
+		},
+		{
+			"slug": "abandoned-ps5",
+			"name": "Abandoned (PS5)",
+			"id": 646279
+		},
+		{
+			"slug": "ace-combat-5-the-unsung-war",
+			"name": "Ace Combat 5: The Unsung War",
+			"id": 59315
+		},
+		{
+			"slug": "ad-infinitum-2",
+			"name": "Ad Infinitum",
+			"id": 966228
+		},
+		{
+			"slug": "add-game",
+			"name": "Add Game",
+			"id": 1003016
+		},
+		{
+			"slug": "aero-the-acro-bat",
+			"name": "Aero the Acro-Bat",
+			"id": 53124
+		},
+		{
+			"slug": "aero-the-acro-bat-2",
+			"name": "Aero the Acro-Bat 2",
+			"id": 56909
+		},
+		{
+			"slug": "aeterna-noctis",
+			"name": "Aeterna Noctis",
+			"id": 650664
+		},
+		{
+			"slug": "after-us-2",
+			"name": "After Us",
+			"id": 892900
+		},
+		{
+			"slug": "afterdream",
+			"name": "Afterdream",
+			"id": 965412
+		},
+		{
+			"slug": "afterimage-2",
+			"name": "Afterimage",
+			"id": 857611
+		},
+		{
+			"slug": "afterlove-ep",
+			"name": "Afterlove EP",
+			"id": 712696
+		},
+		{
+			"slug": "aftermath-2022",
+			"name": "Aftermath (2022)",
+			"id": 704636
+		},
+		{
+			"slug": "age-of-wonders-4",
+			"name": "Age of Wonders 4",
+			"id": 912009
+		},
+		{
+			"slug": "agent-intercept",
+			"name": "Agent Intercept",
+			"id": 375198
+		},
+		{
+			"slug": "ai-limit",
+			"name": "AI Limit",
+			"id": 476120
+		},
+		{
+			"slug": "aikano-snow-sky-triangle",
+			"name": "Aikano ~ Snow Sky Triangle ~",
+			"id": 520302
+		},
+		{
+			"slug": "air-twister",
+			"name": "Air Twister",
+			"id": 902898
+		},
+		{
+			"slug": "airborne-kingdom",
+			"name": "Airborne Kingdom",
+			"id": 295068
+		},
+		{
+			"slug": "alan-wake-2",
+			"name": "Alan Wake 2",
+			"id": 580972
+		},
+		{
+			"slug": "alan-wake-2-night-springs",
+			"name": "Alan Wake 2: Night Springs",
+			"id": 983203
+		},
+		{
+			"slug": "alan-wake-2-the-lake-house",
+			"name": "Alan Wake 2: The Lake House",
+			"id": 990568
+		},
+		{
+			"slug": "alan-wake-remastered",
+			"name": "Alan Wake Remastered",
+			"id": 654591
+		},
+		{
+			"slug": "alex-kidd-in-miracle-world-dx",
+			"name": "Alex Kidd in Miracle World DX",
+			"id": 600906
+		},
+		{
+			"slug": "alfred-hitchcock-vertigo",
+			"name": "Alfred Hitchcock – Vertigo",
+			"id": 622518
+		},
+		{
+			"slug": "aliens-4",
+			"name": "Aliens",
+			"id": 816343
+		},
+		{
+			"slug": "aliens-dark-descent",
+			"name": "Aliens: Dark Descent",
+			"id": 799267
+		},
+		{
+			"slug": "aliens-fireteam",
+			"name": "Aliens: Fireteam Elite",
+			"id": 566454
+		},
+		{
+			"slug": "alisa",
+			"name": "Alisa",
+			"id": 650639
+		},
+		{
+			"slug": "alone-in-the-dark-2022",
+			"name": "Alone in the Dark",
+			"id": 849517
+		},
+		{
+			"slug": "alone-in-the-dark-prologue",
+			"name": "Alone in the Dark Prologue",
+			"id": 961310
+		},
+		{
+			"slug": "amerzone-the-explorers-legacy-2025",
+			"name": "Amerzone - The Explorer's Legacy (2025)",
+			"id": 997546
+		},
+		{
+			"slug": "among-us",
+			"name": "Among Us",
+			"id": 356714
+		},
+		{
+			"slug": "animal-well",
+			"name": "Animal Well",
+			"id": 783856
+		},
+		{
+			"slug": "ankora-lost-days",
+			"name": "Ankora: Lost Days",
+			"id": 846311
+		},
+		{
+			"slug": "anno-mutationem",
+			"name": "Anno: Mutationem",
+			"id": 455580
+		},
+		{
+			"slug": "another-crabs-treasure",
+			"name": "Another Crab's Treasure",
+			"id": 977219
+		},
+		{
+			"slug": "antarctic-base",
+			"name": "Antarctic Base",
+			"id": 545014
+		},
+		{
+			"slug": "ape-escape",
+			"name": "Ape Escape",
+			"id": 52670
+		},
+		{
+			"slug": "apex-legendstm-ascension-pack",
+			"name": "Apex Legends - Ascension Pack",
+			"id": 795358
+		},
+		{
+			"slug": "apex-legends-bangalore-edition",
+			"name": "Apex Legends - Bangalore Edition",
+			"id": 795351
+		},
+		{
+			"slug": "apex-legends-emergence-pack",
+			"name": "Apex Legends - Emergence Pack",
+			"id": 795352
+		},
+		{
+			"slug": "apex-legends-escape-pack",
+			"name": "Apex Legends - Escape Pack",
+			"id": 795355
+		},
+		{
+			"slug": "apex-legends-gibraltar-edition",
+			"name": "Apex Legends - Gibraltar Edition",
+			"id": 795357
+		},
+		{
+			"slug": "apex-legends-legacy-pack",
+			"name": "Apex Legends - Legacy Pack",
+			"id": 795353
+		},
+		{
+			"slug": "apex-legends-loba-edition",
+			"name": "Apex Legends - Loba Edition",
+			"id": 795350
+		},
+		{
+			"slug": "apex-legends-mayhem-pack",
+			"name": "Apex Legends - Mayhem Pack",
+			"id": 795354
+		},
+		{
+			"slug": "apex-legends-mirage-edition",
+			"name": "Apex Legends - Mirage Edition",
+			"id": 795356
+		},
+		{
+			"slug": "apex-legends-defiance-pack",
+			"name": "Apex Legends – Defiance Pack",
+			"id": 795349
+		},
+		{
+			"slug": "apex-legends-saviors-pack",
+			"name": "Apex Legends – Saviors Pack",
+			"id": 795348
+		},
+		{
+			"slug": "apsulov-end-of-gods",
+			"name": "Apsulov: End of Gods",
+			"id": 254652
+		},
+		{
+			"slug": "aragami-2",
+			"name": "Aragami 2",
+			"id": 486727
+		},
+		{
+			"slug": "arc-raiders",
+			"name": "ARC Raiders",
+			"id": 704787
+		},
+		{
+			"slug": "arcade-paradise",
+			"name": "Arcade Paradise",
+			"id": 637473
+		},
+		{
+			"slug": "arcade-spirits-the-new-challengers",
+			"name": "Arcade Spirits: The New Challengers",
+			"id": 580700
+		},
+		{
+			"slug": "arcadegeddon",
+			"name": "Arcadegeddon",
+			"id": 633391
+		},
+		{
+			"slug": "archeage-2",
+			"name": "ArcheAge 2",
+			"id": 881685
+		},
+		{
+			"slug": "arcvened",
+			"name": "Arcvened",
+			"id": 947970
+		},
+		{
+			"slug": "arkanoid-eternal-battle",
+			"name": "Arkanoid: Eternal Battle",
+			"id": 857780
+		},
+		{
+			"slug": "armored-core-vi",
+			"name": "Armored Core VI: Fires of Rubicon",
+			"id": 892902
+		},
+		{
+			"slug": "arrog",
+			"name": "Arrog",
+			"id": 430220
+		},
+		{
+			"slug": "art-of-rally",
+			"name": "art of rally",
+			"id": 319120
+		},
+		{
+			"slug": "assassins-creed-mirage",
+			"name": "Assassin's Creed Mirage",
+			"id": 845261
+		},
+		{
+			"slug": "assassins-creed-shadows",
+			"name": "Assassin's Creed Shadows",
+			"id": 981791
+		},
+		{
+			"slug": "assassins-creed-shadows-claws-of-awaji",
+			"name": "Assassin's Creed Shadows: Claws of Awaji",
+			"id": 1007217
+		},
+		{
+			"slug": "assassins-creed-valhalla",
+			"name": "Assassin's Creed Valhalla",
+			"id": 437059
+		},
+		{
+			"slug": "assassins-creed-valhalla-dawn-of-ragnarok",
+			"name": "Assassin's Creed Valhalla - Dawn Of Ragnarok",
+			"id": 799247
+		},
+		{
+			"slug": "assassins-creed-valhalla-the-siege-of-paris",
+			"name": "Assassin's Creed Valhalla - The Siege Of Paris",
+			"id": 799246
+		},
+		{
+			"slug": "assassins-creed-valhalla-wrath-of-the-druids-2",
+			"name": "Assassin's Creed Valhalla - Wrath Of The Druids",
+			"id": 799245
+		},
+		{
+			"slug": "assassins-creed-valhalla-wrath-of-the-druids",
+			"name": "Assassin's Creed Valhalla: Wrath of the Druids",
+			"id": 595182
+		},
+		{
+			"slug": "asterigos-curse-of-the-stars",
+			"name": "Asterigos: Curse of the Stars",
+			"id": 804850
+		},
+		{
+			"slug": "asterix-obelix-slap-them-all",
+			"name": "Asterix & Obelix: Slap them All!",
+			"id": 635388
+		},
+		{
+			"slug": "astral-ascent-2",
+			"name": "Astral Ascent",
+			"id": 566464
+		},
+		{
+			"slug": "astro-bot",
+			"name": "Astro Bot",
+			"id": 982817
+		},
+		{
+			"slug": "astros-playroom",
+			"name": "Astro's Playroom",
+			"id": 452646
+		},
+		{
+			"slug": "at-fates-end",
+			"name": "At Fate's End",
+			"id": 1005413
+		},
+		{
+			"slug": "atelier-marie-remake-the-alchemist-of-salburg",
+			"name": "Atelier Marie Remake: The Alchemist of Salburg",
+			"id": 960259
+		},
+		{
+			"slug": "atelier-resleriana-the-red-alchemist-the-white-gua",
+			"name": "Atelier Resleriana: The Red Alchemist & the White Guardian",
+			"id": 1006333
+		},
+		{
+			"slug": "atelier-ryza-2-lost-legends-the-secret-fairy",
+			"name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+			"id": 520300
+		},
+		{
+			"slug": "atelier-ryza-3-alchemist-of-the-end-the-secret-key",
+			"name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+			"id": 850691
+		},
+		{
+			"slug": "atelier-yumia-the-alchemist-of-memories-the-envisi",
+			"name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
+			"id": 998146
+		},
+		{
+			"slug": "atlas-fallen",
+			"name": "Atlas Fallen",
+			"id": 840781
+		},
+		{
+			"slug": "atomfall",
+			"name": "Atomfall",
+			"id": 983214
+		},
+		{
+			"slug": "atomic-heart",
+			"name": "Atomic Heart",
+			"id": 50576
+		},
+		{
+			"slug": "atomic-heart-2",
+			"name": "Atomic Heart 2",
+			"id": 1004512
+		},
+		{
+			"slug": "atomic-heart-annihilation-instinct",
+			"name": "Atomic Heart: Annihilation Instinct",
+			"id": 964508
+		},
+		{
+			"slug": "atomic-heart-trapped-in-limbo",
+			"name": "Atomic Heart: Trapped in Limbo",
+			"id": 976607
+		},
+		{
+			"slug": "avatar-frontiers-of-pandora",
+			"name": "Avatar: Frontiers of Pandora",
+			"id": 616677
+		},
+		{
+			"slug": "avatar-the-last-airbender-quest-for-balance",
+			"name": "Avatar: The Last Airbender - Quest for Balance",
+			"id": 966679
+		},
+		{
+			"slug": "awaken-astral-blade",
+			"name": "AWAKEN: Astral Blade",
+			"id": 748655
+		},
+		{
+			"slug": "axiom-verge-2",
+			"name": "Axiom Verge 2",
+			"id": 397479
+		},
+		{
+			"slug": "aztech-forgotten-gods",
+			"name": "Aztech: Forgotten Gods",
+			"id": 586043
+		},
+		{
+			"slug": "azuras-crystals",
+			"name": "Azura's Crystals",
+			"id": 994490
+		},
+		{
+			"slug": "babylons-fall",
+			"name": "Babylon's Fall",
+			"id": 58799
+		},
+		{
+			"slug": "back-4-blood",
+			"name": "Back 4 Blood",
+			"id": 397473
+		},
+		{
+			"slug": "balan-wonderworld",
+			"name": "Balan Wonderworld",
+			"id": 471021
+		},
+		{
+			"slug": "balatro",
+			"name": "Balatro",
+			"id": 977316
+		},
+		{
+			"slug": "baldurs-gate-3",
+			"name": "Baldur's Gate III",
+			"id": 324997
+		},
+		{
+			"slug": "baldurs-gate-dark-alliance",
+			"name": "Baldur's Gate: Dark Alliance",
+			"id": 53146
+		},
+		{
+			"slug": "ballad-of-antara",
+			"name": "Ballad of Antara",
+			"id": 982605
+		},
+		{
+			"slug": "bang-on-balls-chronicles",
+			"name": "Bang-On Balls: Chronicles",
+			"id": 566448
+		},
+		{
+			"slug": "banishers-ghosts-of-new-eden",
+			"name": "Banishers: Ghosts of New Eden",
+			"id": 898351
+		},
+		{
+			"slug": "battle-brothers",
+			"name": "Battle Brothers",
+			"id": 10872
+		},
+		{
+			"slug": "battlefield-6",
+			"name": "Battlefield 2042",
+			"id": 614954
+		},
+		{
+			"slug": "beat-saber",
+			"name": "Beat Saber",
+			"id": 58325
+		},
+		{
+			"slug": "beholder-3",
+			"name": "Beholder 3",
+			"id": 678695
+		},
+		{
+			"slug": "beyond-a-steel-sky",
+			"name": "Beyond a Steel Sky",
+			"id": 304182
+		},
+		{
+			"slug": "beyond-galaxyland",
+			"name": "Beyond Galaxyland",
+			"id": 988102
+		},
+		{
+			"slug": "beyond-good-evil-20th-anniversary-edition",
+			"name": "Beyond Good & Evil - 20th Anniversary Edition",
+			"id": 972785
+		},
+		{
+			"slug": "beyond-good-and-evil-2",
+			"name": "Beyond Good and Evil 2",
+			"id": 58729
+		},
+		{
+			"slug": "bilkins-folly",
+			"name": "Bilkins' Folly",
+			"id": 930976
+		},
+		{
+			"slug": "bio-inc-redemption",
+			"name": "Bio Inc. Redemption",
+			"id": 23417
+		},
+		{
+			"slug": "biohazard-village-z-version",
+			"name": "BIOHAZARD VILLAGE Z Version",
+			"id": 690207
+		},
+		{
+			"slug": "biomorph",
+			"name": "BIOMORPH",
+			"id": 979836
+		},
+		{
+			"slug": "biomutant",
+			"name": "Biomutant",
+			"id": 45775
+		},
+		{
+			"slug": "black-bird",
+			"name": "BLACK BIRD",
+			"id": 249985
+		},
+		{
+			"slug": "black-book",
+			"name": "Black Book",
+			"id": 366083
+		},
+		{
+			"slug": "black-myth-wukong",
+			"name": "Black Myth: Wu Kong",
+			"id": 987537
+		},
+		{
+			"slug": "black-myth-wu-kong",
+			"name": "Black Myth: Wukong",
+			"id": 481913
+		},
+		{
+			"slug": "blacktail",
+			"name": "Blacktail",
+			"id": 616690
+		},
+		{
+			"slug": "blackwind",
+			"name": "Blackwind",
+			"id": 662415
+		},
+		{
+			"slug": "blade-2024",
+			"name": "Blade (2024)",
+			"id": 973381
+		},
+		{
+			"slug": "blasphemous-2",
+			"name": "Blasphemous II",
+			"id": 650621
+		},
+		{
+			"slug": "bleak-faith-forsaken",
+			"name": "Bleak Faith: Forsaken",
+			"id": 513033
+		},
+		{
+			"slug": "blinnk-and-the-vacuum-of-space",
+			"name": "BLINNK and the Vacuum of Space",
+			"id": 911483
+		},
+		{
+			"slug": "blizzard-arcade-collection",
+			"name": "Blizzard Arcade Collection",
+			"id": 560734
+		},
+		{
+			"slug": "blood-bowl-3",
+			"name": "Blood Bowl 3",
+			"id": 548035
+		},
+		{
+			"slug": "blood-message",
+			"name": "Blood Message",
+			"id": 1005409
+		},
+		{
+			"slug": "bloodrayne-betrayal-fresh-bites",
+			"name": "BloodRayne Betrayal: Fresh Bites",
+			"id": 622673
+		},
+		{
+			"slug": "bloodshore",
+			"name": "Bloodshore",
+			"id": 684909
+		},
+		{
+			"slug": "blue-prince",
+			"name": "Blue Prince",
+			"id": 1001007
+		},
+		{
+			"slug": "bo-path-of-the-teal-lotus",
+			"name": "Bo: Path of the Teal Lotus",
+			"id": 844467
+		},
+		{
+			"slug": "bomb-rush-cyberfunk",
+			"name": "Bomb Rush Cyberfunk",
+			"id": 471018
+		},
+		{
+			"slug": "borderlands-3",
+			"name": "Borderlands 3",
+			"id": 58617
+		},
+		{
+			"slug": "borderlands-4",
+			"name": "Borderlands 4",
+			"id": 988615
+		},
+		{
+			"slug": "braid-anniversary-edition",
+			"name": "Braid Anniversary Edition",
+			"id": 479669
+		},
+		{
+			"slug": "bramble-the-mountain-king",
+			"name": "Bramble: The Mountain King",
+			"id": 616687
+		},
+		{
+			"slug": "breakers-collection",
+			"name": "Breakers Collection",
+			"id": 846158
+		},
+		{
+			"slug": "breakout-recharged",
+			"name": "Breakout: Recharged",
+			"id": 732479
+		},
+		{
+			"slug": "bridge-constructor-the-walking-dead",
+			"name": "Bridge Constructor: The Walking Dead",
+			"id": 517383
+		},
+		{
+			"slug": "bridge-constructor-twd",
+			"name": "Bridge Constructor: TWD",
+			"id": 525714
+		},
+		{
+			"slug": "bright-memory-infinite-guang-ming-ji-yi-wu-xian",
+			"name": "Bright Memory: Infinite",
+			"id": 430464
+		},
+		{
+			"slug": "broken-pieces",
+			"name": "Broken Pieces",
+			"id": 484654
+		},
+		{
+			"slug": "bugsnax",
+			"name": "Bugsnax",
+			"id": 452657
+		},
+		{
+			"slug": "burnhouse-lane",
+			"name": "Burnhouse Lane",
+			"id": 889887
+		},
+		{
+			"slug": "bus-simulator-21-next-stop",
+			"name": "Bus Simulator 21 Next Stop",
+			"id": 989156
+		},
+		{
+			"slug": "button-city",
+			"name": "Button City",
+			"id": 647590
+		},
+		{
+			"slug": "buzz-lightyear-of-star-command",
+			"name": "Buzz Lightyear of Star Command",
+			"id": 52776
+		},
+		{
+			"slug": "c-smash-vrs",
+			"name": "C-Smash VRS",
+			"id": 964929
+		},
+		{
+			"slug": "c14-dating",
+			"name": "C14 Dating",
+			"id": 19946
+		},
+		{
+			"slug": "call-of-duty-black-ops-6",
+			"name": "Call of Duty: Black Ops 6",
+			"id": 983212
+		},
+		{
+			"slug": "call-of-duty-black-ops-cold-war",
+			"name": "Call of Duty: Black Ops Cold War",
+			"id": 481910
+		},
+		{
+			"slug": "call-of-duty-modern-warfare-ii",
+			"name": "Call of Duty: Modern Warfare II",
+			"id": 791636
+		},
+		{
+			"slug": "call-of-duty-modern-warfare-iii",
+			"name": "Call of Duty: Modern Warfare III",
+			"id": 964285
+		},
+		{
+			"slug": "call-of-duty-vanguard",
+			"name": "Call of Duty: Vanguard",
+			"id": 647552
+		},
+		{
+			"slug": "call-of-duty-warzone-20",
+			"name": "Call of Duty: Warzone 2.0",
+			"id": 872778
+		},
+		{
+			"slug": "call-of-the-sea",
+			"name": "Call of the Sea",
+			"id": 440083
+		},
+		{
+			"slug": "cant-drive-this",
+			"name": "Can't Drive This",
+			"id": 14252
+		},
+		{
+			"slug": "cannon-fodder-2",
+			"name": "Cannon Fodder 2",
+			"id": 22901
+		},
+		{
+			"slug": "age-of-pirates-captain-blood",
+			"name": "Captain Blood",
+			"id": 35814
+		},
+		{
+			"slug": "caravan-sandwitch",
+			"name": "Caravan Sandwitch",
+			"id": 576361
+		},
+		{
+			"slug": "carmen-sandiego",
+			"name": "Carmen Sandiego",
+			"id": 998796
+		},
+		{
+			"slug": "carx-street",
+			"name": "CarX Street",
+			"id": 883058
+		},
+		{
+			"slug": "catan-console-edition",
+			"name": "CATAN: Console Edition",
+			"id": 965807
+		},
+		{
+			"slug": "catlateral-damage-remeowstered",
+			"name": "Catlateral Damage: Remeowstered",
+			"id": 650647
+		},
+		{
+			"slug": "centipede-recharged",
+			"name": "Centipede: Recharged",
+			"id": 667781
+		},
+		{
+			"slug": "chained-echoes",
+			"name": "Chained Echoes",
+			"id": 484971
+		},
+		{
+			"slug": "chains-of-lukomorye",
+			"name": "Chains of Lukomorye",
+			"id": 1005606
+		},
+		{
+			"slug": "charons-staircase",
+			"name": "Charon's Staircase",
+			"id": 857617
+		},
+		{
+			"slug": "chef-life-a-restaurant-simulator",
+			"name": "Chef Life: A Restaurant Simulator",
+			"id": 816301
+		},
+		{
+			"slug": "chenso-club",
+			"name": "Chenso Club",
+			"id": 844372
+		},
+		{
+			"slug": "chernobylite",
+			"name": "Chernobylite",
+			"id": 290894
+		},
+		{
+			"slug": "children-of-silentown",
+			"name": "Children of Silentown",
+			"id": 350748
+		},
+		{
+			"slug": "chivalry-2",
+			"name": "Chivalry 2",
+			"id": 327203
+		},
+		{
+			"slug": "chorus",
+			"name": "Chorus",
+			"id": 440084
+		},
+		{
+			"slug": "circus-electrique",
+			"name": "Circus Electrique",
+			"id": 844362
+		},
+		{
+			"slug": "cities-skylines-2",
+			"name": "Cities: Skylines 2",
+			"id": 938003
+		},
+		{
+			"slug": "clair-obscur-expedition-33",
+			"name": "Clair Obscur: Expedition 33",
+			"id": 983210
+		},
+		{
+			"slug": "clash-artifacts-of-chaos",
+			"name": "Clash: Artifacts of Chaos",
+			"id": 631949
+		},
+		{
+			"slug": "clid-the-snail",
+			"name": "Clid the snail",
+			"id": 611597
+		},
+		{
+			"slug": "cobra-kai-2-dojos-rising",
+			"name": "Cobra Kai 2: Dojos Rising",
+			"id": 816300
+		},
+		{
+			"slug": "coded-soul-uketsugareshi-idea",
+			"name": "Coded Soul: Uketsugareshi Idea",
+			"id": 357839
+		},
+		{
+			"slug": "coffee-talk-episode-2-hibiscus-butterfly",
+			"name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+			"id": 692687
+		},
+		{
+			"slug": "commandos-origins",
+			"name": "Commandos: Origins",
+			"id": 1001009
+		},
+		{
+			"slug": "concept-destruction",
+			"name": "Concept Destruction",
+			"id": 372588
+		},
+		{
+			"slug": "concord",
+			"name": "Concord",
+			"id": 961406
+		},
+		{
+			"slug": "condor-2",
+			"name": "Condor",
+			"id": 627520
+		},
+		{
+			"slug": "contra-operation-galuga",
+			"name": "Contra: Operation Galuga",
+			"id": 966220
+		},
+		{
+			"slug": "control",
+			"name": "Control",
+			"id": 58812
+		},
+		{
+			"slug": "control-ultimate-edition",
+			"name": "Control Ultimate Edition",
+			"id": 479695
+		},
+		{
+			"slug": "convrgence-a-league-of-legends-story",
+			"name": "CONVERGENCE: A League of Legends Story",
+			"id": 961272
+		},
+		{
+			"slug": "conway-disappearance-at-dahlia-view",
+			"name": "Conway: Disappearance at Dahlia View",
+			"id": 684910
+		},
+		{
+			"slug": "crash-bandicoot-4-its-about-time",
+			"name": "Crash Bandicoot 4: It’s About Time",
+			"id": 457729
+		},
+		{
+			"slug": "crash-drive-3",
+			"name": "Crash Drive 3",
+			"id": 631952
+		},
+		{
+			"slug": "crash-team-rumble",
+			"name": "Crash Team Rumble",
+			"id": 898353
+		},
+		{
+			"slug": "cricket-22",
+			"name": "Cricket 22",
+			"id": 681421
+		},
+		{
+			"slug": "crime-boss-rockay-city",
+			"name": "Crime Boss: Rockay City",
+			"id": 898354
+		},
+		{
+			"slug": "crimson-desert",
+			"name": "Crimson Desert",
+			"id": 529829
+		},
+		{
+			"slug": "cris-tales",
+			"name": "Cris Tales",
+			"id": 327212
+		},
+		{
+			"slug": "crisis-core-final-fantasy-vii-reunion",
+			"name": "Crisis Core: Final Fantasy VII Reunion",
+			"id": 804751
+		},
+		{
+			"slug": "cronos-the-new-dawn",
+			"name": "Cronos: The New Dawn",
+			"id": 990567
+		},
+		{
+			"slug": "crosskrush",
+			"name": "CrossKrush",
+			"id": 508529
+		},
+		{
+			"slug": "crow-country",
+			"name": "Crow Country",
+			"id": 981609
+		},
+		{
+			"slug": "crown-wars-the-black-prince",
+			"name": "Crown Wars: The Black Prince",
+			"id": 815177
+		},
+		{
+			"slug": "crowsworn",
+			"name": "Crowsworn",
+			"id": 637419
+		},
+		{
+			"slug": "crsed",
+			"name": "CRSED",
+			"id": 532522
+		},
+		{
+			"slug": "crusader-kings-iii",
+			"name": "Crusader Kings III",
+			"id": 384567
+		},
+		{
+			"slug": "crymachina",
+			"name": "Crymachina",
+			"id": 960556
+		},
+		{
+			"slug": "crypt-custodian",
+			"name": "Crypt Custodian",
+			"id": 975847
+		},
+		{
+			"slug": "crysis-2-remastered",
+			"name": "Crysis 2 Remastered",
+			"id": 650597
+		},
+		{
+			"slug": "crysis-3-remastered",
+			"name": "Crysis 3 Remastered",
+			"id": 650598
+		},
+		{
+			"slug": "cult-of-the-lamb",
+			"name": "Cult of the Lamb",
+			"id": 650605
+		},
+		{
+			"slug": "cursed-to-golf-2",
+			"name": "Cursed to Golf",
+			"id": 782343
+		},
+		{
+			"slug": "curved-space",
+			"name": "Curved Space",
+			"id": 605679
+		},
+		{
+			"slug": "cyber-shadow",
+			"name": "Cyber Shadow",
+			"id": 304191
+		},
+		{
+			"slug": "cyberpunk-2077",
+			"name": "Cyberpunk 2077",
+			"id": 41494
+		},
+		{
+			"slug": "cyberpunk-2077-phantom-liberty",
+			"name": "Cyberpunk 2077: Phantom Liberty",
+			"id": 846303
+		},
+		{
+			"slug": "dakar-desert-rally",
+			"name": "Dakar Desert Rally",
+			"id": 857633
+		},
+		{
+			"slug": "darker-skies",
+			"name": "Darker Skies",
+			"id": 647666
+		},
+		{
+			"slug": "daymare-1994-sandcastle",
+			"name": "Daymare 1994: Sandcastle",
+			"id": 608552
+		},
+		{
+			"slug": "dead-by-daylight",
+			"name": "Dead by Daylight",
+			"id": 9966
+		},
+		{
+			"slug": "dead-by-daylight-a-binding-of-kin",
+			"name": "Dead by Daylight - A Binding of Kin",
+			"id": 795325
+		},
+		{
+			"slug": "dead-by-daylight-a-lullaby-for-the-dark",
+			"name": "Dead by Daylight - A Lullaby for the Dark",
+			"id": 795337
+		},
+		{
+			"slug": "dead-by-daylight-a-nightmare-on-elm-street",
+			"name": "Dead by Daylight - A Nightmare on Elm Street",
+			"id": 795335
+		},
+		{
+			"slug": "dead-by-daylight-all-kill",
+			"name": "Dead by Daylight - All-Kill",
+			"id": 795322
+		},
+		{
+			"slug": "dead-by-daylight-ash-vs-evil-dead",
+			"name": "Dead by Daylight - Ash vs Evil Dead",
+			"id": 795319
+		},
+		{
+			"slug": "dead-by-daylight-chains-of-hate",
+			"name": "Dead by Daylight - Chains of Hate",
+			"id": 795320
+		},
+		{
+			"slug": "dead-by-daylight-charity-case",
+			"name": "Dead by Daylight - Charity Case",
+			"id": 795330
+		},
+		{
+			"slug": "dead-by-daylight-cursed-legacy",
+			"name": "Dead by Daylight - Cursed Legacy",
+			"id": 795342
+		},
+		{
+			"slug": "dead-by-daylight-curtain-call",
+			"name": "Dead by Daylight - Curtain Call",
+			"id": 795340
+		},
+		{
+			"slug": "dead-by-daylight-darkness-among-us",
+			"name": "Dead by Daylight - Darkness Among Us",
+			"id": 795317
+		},
+		{
+			"slug": "dead-by-daylight-demise-of-the-faithful",
+			"name": "Dead by Daylight - Demise of the Faithful",
+			"id": 795339
+		},
+		{
+			"slug": "dead-by-daylight-descend-beyond",
+			"name": "Dead by Daylight - Descend Beyond",
+			"id": 795344
+		},
+		{
+			"slug": "dead-by-daylight-hellraiser",
+			"name": "Dead by Daylight - Hellraiser",
+			"id": 795323
+		},
+		{
+			"slug": "dead-by-daylight-hour-of-the-witch",
+			"name": "Dead by Daylight - Hour of the Witch",
+			"id": 795316
+		},
+		{
+			"slug": "dead-by-daylight-killer-expansion-pack",
+			"name": "Dead by Daylight - Killer Expansion Pack",
+			"id": 795321
+		},
+		{
+			"slug": "dead-by-daylight-leatherface",
+			"name": "Dead by Daylight - Leatherface",
+			"id": 795336
+		},
+		{
+			"slug": "dead-by-daylight-portrait-of-a-murder",
+			"name": "Dead by Daylight - Portrait of a Murder",
+			"id": 795314
+		},
+		{
+			"slug": "dead-by-daylight-resident-evil",
+			"name": "Dead by Daylight - Resident Evil",
+			"id": 795326
+		},
+		{
+			"slug": "dead-by-daylight-sadako-rising",
+			"name": "Dead by Daylight - Sadako Rising",
+			"id": 795315
+		},
+		{
+			"slug": "dead-by-daylight-shattered-bloodline",
+			"name": "Dead by Daylight - Shattered Bloodline",
+			"id": 795324
+		},
+		{
+			"slug": "dead-by-daylight-silent-hill",
+			"name": "Dead By Daylight - Silent Hill",
+			"id": 795328
+		},
+		{
+			"slug": "dead-by-daylight-silent-hill-cosmetic-pack",
+			"name": "Dead by Daylight - Silent Hill Cosmetic Pack",
+			"id": 795329
+		},
+		{
+			"slug": "dead-by-daylight-spark-of-madness",
+			"name": "Dead by Daylight - Spark of Madness",
+			"id": 795327
+		},
+		{
+			"slug": "dead-by-daylight-stranger-things",
+			"name": "Dead by Daylight - Stranger Things",
+			"id": 795346
+		},
+		{
+			"slug": "dead-by-daylight-survivor-expansion-pack",
+			"name": "Dead by Daylight - Survivor Expansion Pack",
+			"id": 795318
+		},
+		{
+			"slug": "dead-by-daylight-the-halloween",
+			"name": "Dead by Daylight - The Halloween",
+			"id": 795332
+		},
+		{
+			"slug": "dead-by-daylight-the-saw",
+			"name": "Dead by Daylight - The Saw",
+			"id": 795341
+		},
+		{
+			"slug": "dead-by-daylight-ghost-face",
+			"name": "Dead by Daylight: Ghost Face",
+			"id": 795343
+		},
+		{
+			"slug": "dead-island-2",
+			"name": "Dead Island 2",
+			"id": 42857
+		},
+		{
+			"slug": "dead-rising-deluxe-remaster",
+			"name": "Dead Rising Deluxe Remaster",
+			"id": 984308
+		},
+		{
+			"slug": "dead-space-5",
+			"name": "Dead Space",
+			"id": 638654
+		},
+		{
+			"slug": "deadcraft",
+			"name": "DEADCRAFT",
+			"id": 777316
+		},
+		{
+			"slug": "death-stranding-2",
+			"name": "Death Stranding 2: On The Beach",
+			"id": 891532
+		},
+		{
+			"slug": "death-stranding-directors-cut",
+			"name": "Death Stranding Director's Cut",
+			"id": 614964
+		},
+		{
+			"slug": "acid-nerve-deaths-door",
+			"name": "Death's Door",
+			"id": 579507
+		},
+		{
+			"slug": "deathloop-2",
+			"name": "Deathloop",
+			"id": 326251
+		},
+		{
+			"slug": "deathverse-let-it-die",
+			"name": "Deathverse: Let It Die",
+			"id": 692538
+		},
+		{
+			"slug": "decapolice",
+			"name": "DecaPolice",
+			"id": 923018
+		},
+		{
+			"slug": "deceive-inc",
+			"name": "Deceive Inc.",
+			"id": 427462
+		},
+		{
+			"slug": "deep-rock-galactic",
+			"name": "Deep Rock Galactic",
+			"id": 9551
+		},
+		{
+			"slug": "deliver-at-all-costs",
+			"name": "Deliver At All Costs (itch)",
+			"id": 611429
+		},
+		{
+			"slug": "deliver-us-mars",
+			"name": "Deliver Us Mars",
+			"id": 759884
+		},
+		{
+			"slug": "deliver-us-the-moon",
+			"name": "Deliver Us the Moon",
+			"id": 43608
+		},
+		{
+			"slug": "delta-force-hawk-ops",
+			"name": "Delta Force: Hawk Ops",
+			"id": 965252
+		},
+		{
+			"slug": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronic",
+			"name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+			"id": 625837
+		},
+		{
+			"slug": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chron-2",
+			"name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+			"id": 1002082
+		},
+		{
+			"slug": "demon-turf",
+			"name": "Demon Turf",
+			"id": 681570
+		},
+		{
+			"slug": "demons-souls-remake",
+			"name": "Demon's Souls (2020)",
+			"id": 452648
+		},
+		{
+			"slug": "desperate-vladivostok",
+			"name": "Desperate: Vladivostok",
+			"id": 816342
+		},
+		{
+			"slug": "destiny-2",
+			"name": "Destiny 2",
+			"id": 32
+		},
+		{
+			"slug": "destiny-2-lightfall",
+			"name": "Destiny 2: Lightfall",
+			"id": 840773
+		},
+		{
+			"slug": "destiny-2-the-witch-queen",
+			"name": "Destiny 2: The Witch Queen",
+			"id": 662312
+		},
+		{
+			"slug": "destroy-all-humans-2-reprobed",
+			"name": "Destroy All Humans! 2 - Reprobed",
+			"id": 674190
+		},
+		{
+			"slug": "destruction-allstars",
+			"name": "Destruction AllStars",
+			"id": 452640
+		},
+		{
+			"slug": "devil-may-cry-5",
+			"name": "Devil May Cry 5",
+			"id": 58755
+		},
+		{
+			"slug": "devil-may-cry-5-special-edition",
+			"name": "Devil May Cry 5 Special Edition",
+			"id": 516113
+		},
+		{
+			"slug": "diablo-ii-resurrected",
+			"name": "Diablo II: Resurrected",
+			"id": 560733
+		},
+		{
+			"slug": "diablo-3",
+			"name": "Diablo III",
+			"id": 23600
+		},
+		{
+			"slug": "diablo-iv",
+			"name": "Diablo IV",
+			"id": 388309
+		},
+		{
+			"slug": "die-again-3",
+			"name": "Die Again",
+			"id": 980060
+		},
+		{
+			"slug": "die-again-varn-game-dev",
+			"name": "Die Again (Varn Game Dev)",
+			"id": 980168
+		},
+		{
+			"slug": "digimon-story-time-stranger",
+			"name": "Digimon Story Time Stranger",
+			"id": 997764
+		},
+		{
+			"slug": "the-dark-pictures-directive-8020",
+			"name": "Directive 8020",
+			"id": 881141
+		},
+		{
+			"slug": "dirt-5",
+			"name": "DiRT 5",
+			"id": 440079
+		},
+		{
+			"slug": "disciples-liberation",
+			"name": "Disciples: Liberation",
+			"id": 555994
+		},
+		{
+			"slug": "disco-elysium",
+			"name": "Disco Elysium",
+			"id": 262382
+		},
+		{
+			"slug": "disco-elysium-final-cut",
+			"name": "Disco Elysium: Final Cut",
+			"id": 545015
+		},
+		{
+			"slug": "discovery-tour-by-assassins-creed-viking-age",
+			"name": "Discovery Tour by Assassin’s Creed: Viking Age",
+			"id": 688754
+		},
+		{
+			"slug": "disgaea-6-defiance-of-destiny",
+			"name": "Disgaea 6: Defiance of Destiny",
+			"id": 494395
+		},
+		{
+			"slug": "disgaea-7-vows-of-the-virtueless",
+			"name": "Disgaea 7: Vows of the Virtueless",
+			"id": 961210
+		},
+		{
+			"slug": "disney-dreamlight-valley",
+			"name": "Disney Dreamlight Valley",
+			"id": 842395
+		},
+		{
+			"slug": "disney-epic-mickey-rebrushed",
+			"name": "Disney Epic Mickey: Rebrushed",
+			"id": 983530
+		},
+		{
+			"slug": "disney-speedstorm",
+			"name": "Disney Speedstorm",
+			"id": 736275
+		},
+		{
+			"slug": "toy-story-3",
+			"name": "Disney•Pixar Toy Story 3: The Video Game",
+			"id": 9770
+		},
+		{
+			"slug": "disorder-2025",
+			"name": "Disorder 2025",
+			"id": 997398
+		},
+		{
+			"slug": "divine-knockout",
+			"name": "Divine Knockout",
+			"id": 415172
+		},
+		{
+			"slug": "dnf-duel",
+			"name": "DNF DUEL",
+			"id": 711019
+		},
+		{
+			"slug": "doki-doki-literature-club-plus",
+			"name": "Doki Doki Literature Club Plus!",
+			"id": 616686
+		},
+		{
+			"slug": "dolmen",
+			"name": "Dolmen",
+			"id": 60527
+		},
+		{
+			"slug": "donutsnjustice",
+			"name": "Donuts'n'Justice",
+			"id": 13108
+		},
+		{
+			"slug": "doodle-devil-3volution",
+			"name": "Doodle Devil: 3volution",
+			"id": 563431
+		},
+		{
+			"slug": "doom-eternal",
+			"name": "DOOM Eternal",
+			"id": 58777
+		},
+		{
+			"slug": "doom-the-dark-ages",
+			"name": "Doom: The Dark Ages",
+			"id": 983381
+		},
+		{
+			"slug": "double-dragon-gaiden-rise-of-the-dragons",
+			"name": "Double Dragon Gaiden: Rise Of The Dragons",
+			"id": 963932
+		},
+		{
+			"slug": "downward",
+			"name": "Downward: Enhanced Edition",
+			"id": 9972
+		},
+		{
+			"slug": "dragon-age-4-tba",
+			"name": "Dragon Age: Dreadwolf",
+			"id": 274764
+		},
+		{
+			"slug": "dragon-age-the-veilguard",
+			"name": "Dragon Age: The Veilguard",
+			"id": 991790
+		},
+		{
+			"slug": "dragon-ball-z-kakarot",
+			"name": "Dragon Ball Z: Kakarot",
+			"id": 327258
+		},
+		{
+			"slug": "dragon-ball-sparking-zero",
+			"name": "DRAGON BALL: Sparking! ZERO",
+			"id": 974379
+		},
+		{
+			"slug": "dragon-ball-the-breakers",
+			"name": "DRAGON BALL: THE BREAKERS",
+			"id": 857616
+		},
+		{
+			"slug": "dragon-quest-iii-hd-2d-remake",
+			"name": "Dragon Quest III HD-2D Remake",
+			"id": 992498
+		},
+		{
+			"slug": "dragon-quest-xii-the-flames-of-fate",
+			"name": "Dragon Quest XII: The Flames of Fate",
+			"id": 608558
+		},
+		{
+			"slug": "dragons-dogma-2",
+			"name": "Dragon’s Dogma 2",
+			"id": 804753
+		},
+		{
+			"slug": "dreadout-2",
+			"name": "DreadOut 2",
+			"id": 243206
+		},
+		{
+			"slug": "breakout-test",
+			"name": "DreadOut Remastered Collection",
+			"id": 213511
+		},
+		{
+			"slug": "dreaming-sarah",
+			"name": "Dreaming Sarah",
+			"id": 16532
+		},
+		{
+			"slug": "dredge",
+			"name": "Dredge",
+			"id": 842402
+		},
+		{
+			"slug": "drift19",
+			"name": "DRIFT21 / DRIFTCE",
+			"id": 44455
+		},
+		{
+			"slug": "dune-awakening",
+			"name": "Dune: Awakening",
+			"id": 840775
+		},
+		{
+			"slug": "dungeon-munchies",
+			"name": "Dungeon Munchies",
+			"id": 285692
+		},
+		{
+			"slug": "dark-alliance",
+			"name": "Dungeons & Dragons: Dark Alliance",
+			"id": 398407
+		},
+		{
+			"slug": "dusk-diver-2",
+			"name": "Dusk Diver 2",
+			"id": 722640
+		},
+		{
+			"slug": "duskfade",
+			"name": "Duskfade",
+			"id": 1001012
+		},
+		{
+			"slug": "dustborn",
+			"name": "Dustborn",
+			"id": 455560
+		},
+		{
+			"slug": "dying-light-2",
+			"name": "Dying Light 2 Stay Human",
+			"id": 58758
+		},
+		{
+			"slug": "dynasty-warriors-9-with-bonus",
+			"name": "DYNASTY WARRIORS 9",
+			"id": 52181
+		},
+		{
+			"slug": "dynasty-warriors-9-empires",
+			"name": "DYNASTY WARRIORS 9 Empires",
+			"id": 712671
+		},
+		{
+			"slug": "ea-sports-fc-24",
+			"name": "EA SPORTS FC 24",
+			"id": 963218
+		},
+		{
+			"slug": "ea-sports-fc-25",
+			"name": "EA SPORTS FC 25",
+			"id": 989185
+		},
+		{
+			"slug": "ea-sports-pga-tour",
+			"name": "EA SPORTS PGA TOUR",
+			"id": 953954
+		},
+		{
+			"slug": "ea-sports-wrc-24",
+			"name": "EA Sports WRC 24",
+			"id": 994789
+		},
+		{
+			"slug": "ebola-village",
+			"name": "EBOLA VILLAGE",
+			"id": 983202
+		},
+		{
+			"slug": "echochrome-ps3",
+			"name": "echochrome",
+			"id": 5473
+		},
+		{
+			"slug": "echoshift",
+			"name": "echoshift",
+			"id": 5074
+		},
+		{
+			"slug": "edge-of-eternity",
+			"name": "Edge of Eternity",
+			"id": 42370
+		},
+		{
+			"slug": "efootball-2022",
+			"name": "eFootball 2022",
+			"id": 545029
+		},
+		{
+			"slug": "eiyuden-chronicle-hundred-heroes",
+			"name": "Eiyuden Chronicle: Hundred Heroes",
+			"id": 554700
+		},
+		{
+			"slug": "eiyuden-chronicle-rising",
+			"name": "Eiyuden Chronicle: Rising",
+			"id": 650667
+		},
+		{
+			"slug": "elden-ring",
+			"name": "Elden Ring",
+			"id": 326243
+		},
+		{
+			"slug": "elden-ring-nightreign",
+			"name": "Elden Ring Nightreign",
+			"id": 997548
+		},
+		{
+			"slug": "elden-ring-shadow-of-the-erdtree",
+			"name": "Elden Ring: Shadow of the Erdtree",
+			"id": 977470
+		},
+		{
+			"slug": "eldest-souls",
+			"name": "Eldest Souls",
+			"id": 387329
+		},
+		{
+			"slug": "elex-ii",
+			"name": "ELEX II",
+			"id": 622489
+		},
+		{
+			"slug": "ember-knights",
+			"name": "Ember Knights",
+			"id": 772616
+		},
+		{
+			"slug": "end-of-abyss",
+			"name": "End of Abyss",
+			"id": 1004513
+		},
+		{
+			"slug": "ender-lilies-quietus-of-the-knights",
+			"name": "Ender Lilies: Quietus of the Knights",
+			"id": 537743
+		},
+		{
+			"slug": "endless-dungeons",
+			"name": "Endless Dungeon",
+			"id": 529816
+		},
+		{
+			"slug": "endling",
+			"name": "Endling - Extinction is Forever",
+			"id": 686816
+		},
+		{
+			"slug": "endzone-a-world-apart",
+			"name": "Endzone - A World Apart",
+			"id": 387247
+		},
+		{
+			"slug": "enlisted",
+			"name": "Enlisted",
+			"id": 248400
+		},
+		{
+			"slug": "enotria-the-last-song",
+			"name": "Enotria: The Last Song",
+			"id": 978868
+		},
+		{
+			"slug": "epic-party-quest",
+			"name": "Epic Party Quest",
+			"id": 849451
+		},
+		{
+			"slug": "eriksholm-the-stolen-dream",
+			"name": "Eriksholm: The Stolen Dream",
+			"id": 983208
+		},
+		{
+			"slug": "escape-academy",
+			"name": "Escape Academy",
+			"id": 795370
+		},
+		{
+			"slug": "eternal-strands",
+			"name": "Eternal Strands",
+			"id": 988100
+		},
+		{
+			"slug": "eternights",
+			"name": "Eternights",
+			"id": 795939
+		},
+		{
+			"slug": "ever-forward",
+			"name": "Ever Forward",
+			"id": 427873
+		},
+		{
+			"slug": "evil-dead-the-game",
+			"name": "Evil Dead: The Game",
+			"id": 532167
+		},
+		{
+			"slug": "evil-genius-2",
+			"name": "Evil Genius 2 World Domination",
+			"id": 327202
+		},
+		{
+			"slug": "evil-inside",
+			"name": "Evil Inside",
+			"id": 556047
+		},
+		{
+			"slug": "evil-west",
+			"name": "Evil West",
+			"id": 530497
+		},
+		{
+			"slug": "exoborne",
+			"name": "Exoborne",
+			"id": 973393
+		},
+		{
+			"slug": "exodus-2026",
+			"name": "Exodus (2026)",
+			"id": 984070
+		},
+		{
+			"slug": "exodus-archetype-entertainment",
+			"name": "Exodus (Archetype Entertainment)",
+			"id": 973389
+		},
+		{
+			"slug": "exoprimal",
+			"name": "Exoprimal",
+			"id": 751912
+		},
+		{
+			"slug": "expeditions-a-mudrunner-game",
+			"name": "Expeditions: A MudRunner Game",
+			"id": 965258
+		},
+		{
+			"slug": "fist-forged-in-shadow-torch",
+			"name": "F.I.S.T.: Forged In Shadow Torch",
+			"id": 529784
+		},
+		{
+			"slug": "f1-2021",
+			"name": "F1 2021",
+			"id": 586208
+		},
+		{
+			"slug": "f1-22",
+			"name": "F1 22",
+			"id": 776260
+		},
+		{
+			"slug": "f1-23",
+			"name": "F1 23",
+			"id": 962397
+		},
+		{
+			"slug": "f1-manager-2022",
+			"name": "F1 Manager 2022",
+			"id": 844359
+		},
+		{
+			"slug": "f1-manager-2023",
+			"name": "F1 Manager 2023",
+			"id": 964330
+		},
+		{
+			"slug": "f1-manager-2024",
+			"name": "F1 Manager 2024",
+			"id": 982815
+		},
+		{
+			"slug": "fairgame",
+			"name": "Fairgame$",
+			"id": 961203
+		},
+		{
+			"slug": "fairy-tail-2",
+			"name": "Fairy Tail 2",
+			"id": 989332
+		},
+		{
+			"slug": "fallout-4",
+			"name": "Fallout 4",
+			"id": 3070
+		},
+		{
+			"slug": "fallout-4-next-gen",
+			"name": "Fallout 4: Next-Gen",
+			"id": 1000841
+		},
+		{
+			"slug": "family-man",
+			"name": "Family Man",
+			"id": 60594
+		},
+		{
+			"slug": "fantasian",
+			"name": "Fantasian",
+			"id": 566457
+		},
+		{
+			"slug": "fantasy-life-i",
+			"name": "Fantasy Life i: The Girl Who Steals Time",
+			"id": 931660
+		},
+		{
+			"slug": "far-cry-6",
+			"name": "Far Cry 6",
+			"id": 463723
+		},
+		{
+			"slug": "far-cry-6-lost-between-worlds",
+			"name": "Far Cry 6: Lost Between Worlds",
+			"id": 887674
+		},
+		{
+			"slug": "far-changing-tides",
+			"name": "FAR: Changing Tides",
+			"id": 619806
+		},
+		{
+			"slug": "farming-simulator-22",
+			"name": "Farming Simulator 22",
+			"id": 681398
+		},
+		{
+			"slug": "farming-simulator-25",
+			"name": "Farming Simulator 25",
+			"id": 992333
+		},
+		{
+			"slug": "fatal-frame-maiden-of-black-water",
+			"name": "Fatal Frame: Maiden of Black Water",
+			"id": 23900
+		},
+		{
+			"slug": "fatal-frame-project-zero-maiden-of-black-water",
+			"name": "FATAL FRAME: Maiden of Black Water Digital Deluxe Edition",
+			"id": 685021
+		},
+		{
+			"slug": "fatal-frame-mask-of-the-lunar-eclipse",
+			"name": "Fatal Frame: Mask of the Lunar Eclipse",
+			"id": 277913
+		},
+		{
+			"slug": "fatal-frame-project-zero-mask-of-the-lunar-eclipse",
+			"name": "FATAL FRAME: Mask of the Lunar Eclipse Digital Deluxe Edition",
+			"id": 938126
+		},
+		{
+			"slug": "fate-trigger-the-novita",
+			"name": "fate trigger the novita",
+			"id": 999088
+		},
+		{
+			"slug": "fatesamurai-remnant",
+			"name": "Fate/Samurai Remnant",
+			"id": 964144
+		},
+		{
+			"slug": "fbc-firebreak",
+			"name": "FBC: Firebreak",
+			"id": 1001848
+		},
+		{
+			"slug": "fear-the-spotlight",
+			"name": "Fear the Spotlight",
+			"id": 773933
+		},
+		{
+			"slug": "fernbus-simulator",
+			"name": "Fernbus Simulator",
+			"id": 9802
+		},
+		{
+			"slug": "fifa-21",
+			"name": "FIFA 21",
+			"id": 437049
+		},
+		{
+			"slug": "fifa-22-xbox-one",
+			"name": "FIFA 22",
+			"id": 546464
+		},
+		{
+			"slug": "fifa-23-2",
+			"name": "FIFA 23",
+			"id": 823549
+		},
+		{
+			"slug": "final-fantasy-vii-remake",
+			"name": "Final Fantasy VII",
+			"id": 259801
+		},
+		{
+			"slug": "final-fantasy-vii-rebirth",
+			"name": "Final Fantasy VII Rebirth",
+			"id": 802435
+		},
+		{
+			"slug": "final-fantasy-vii-remake-episode-intermission",
+			"name": "Final Fantasy VII Remake Episode INTERmission",
+			"id": 715550
+		},
+		{
+			"slug": "final-fantasy-vii-remake-intergrade",
+			"name": "FINAL FANTASY VII REMAKE INTERGRADE",
+			"id": 586199
+		},
+		{
+			"slug": "final-fantasy-xiv-a-realm-reborn",
+			"name": "FINAL FANTASY XIV: A Realm Reborn",
+			"id": 3727
+		},
+		{
+			"slug": "final-fantasy-xiv-endwalker",
+			"name": "FINAL FANTASY XIV: Endwalker",
+			"id": 681399
+		},
+		{
+			"slug": "final-fantasy-xvi",
+			"name": "Final Fantasy XVI",
+			"id": 494382
+		},
+		{
+			"slug": "final-fantasy-xvi-echoes-of-the-fallen",
+			"name": "Final Fantasy XVI: Echoes of the Fallen",
+			"id": 973385
+		},
+		{
+			"slug": "final-fantasy-xvi-the-resing-tide",
+			"name": "Final Fantasy XVI: The Resing Tide",
+			"id": 973387
+		},
+		{
+			"slug": "final-vendetta",
+			"name": "Final Vendetta",
+			"id": 804786
+		},
+		{
+			"slug": "firegirl-hack-n-splash-rescue",
+			"name": "Firegirl: Hack 'n Splash Rescue",
+			"id": 702251
+		},
+		{
+			"slug": "first-class-trouble",
+			"name": "First Class Trouble",
+			"id": 366110
+		},
+		{
+			"slug": "hokuto-ga-gotoku",
+			"name": "Fist of The North Star: Lost Paradise",
+			"id": 59227
+		},
+		{
+			"slug": "five-nights-at-freddys-security-breach",
+			"name": "Five Nights at Freddy's: Security Breach",
+			"id": 494383
+		},
+		{
+			"slug": "flashback-2-2",
+			"name": "Flashback 2",
+			"id": 799268
+		},
+		{
+			"slug": "flintlock-the-siege-of-dawn",
+			"name": "Flintlock: The Siege of Dawn",
+			"id": 759686
+		},
+		{
+			"slug": "flippin-kaktus",
+			"name": "Flippin Kaktus",
+			"id": 350719
+		},
+		{
+			"slug": "flock-3",
+			"name": "Flock",
+			"id": 830028
+		},
+		{
+			"slug": "fnf-whitty-and-carol-test",
+			"name": "FNF - Whitty and Carol test",
+			"id": 569557
+		},
+		{
+			"slug": "foamstars",
+			"name": "Foamstars",
+			"id": 961207
+		},
+		{
+			"slug": "football-manager-2023",
+			"name": "Football Manager 2023",
+			"id": 872266
+		},
+		{
+			"slug": "footballteam",
+			"name": "FootballTeam",
+			"id": 638652
+		},
+		{
+			"slug": "foreclosed-3",
+			"name": "FORECLOSED",
+			"id": 638649
+		},
+		{
+			"slug": "forever-skies",
+			"name": "Forever Skies",
+			"id": 720940
+		},
+		{
+			"slug": "project-athia",
+			"name": "Forspoken",
+			"id": 452636
+		},
+		{
+			"slug": "forspoken-in-tanta-we-trust",
+			"name": "Forspoken: In Tanta We Trust",
+			"id": 959926
+		},
+		{
+			"slug": "fort-solis",
+			"name": "Fort Solis",
+			"id": 799269
+		},
+		{
+			"slug": "fornite-battle-royale",
+			"name": "Fortnite Battle Royale",
+			"id": 47137
+		},
+		{
+			"slug": "fortnite-festival",
+			"name": "Fortnite Festival",
+			"id": 977220
+		},
+		{
+			"slug": "fortnite-zero-build-no-build-battle-royale",
+			"name": "Fortnite Zero Build: No-Build Battle Royale",
+			"id": 963591
+		},
+		{
+			"slug": "freddy-spaghetti",
+			"name": "Freddy Spaghetti",
+			"id": 423420
+		},
+		{
+			"slug": "freedom-wars-remastered",
+			"name": "Freedom Wars Remastered",
+			"id": 993468
+		},
+		{
+			"slug": "friday-night-funkin-character-test-playground-rema",
+			"name": "Friday Night Funkin' Character Test Playground Remake",
+			"id": 605348
+		},
+		{
+			"slug": "frostpunk-2",
+			"name": "Frostpunk 2",
+			"id": 647660
+		},
+		{
+			"slug": "fuga-melodies-of-steel",
+			"name": "Fuga: Melodies of Steel",
+			"id": 638799
+		},
+		{
+			"slug": "gangs-of-sherwood",
+			"name": "Gangs of Sherwood",
+			"id": 815178
+		},
+		{
+			"slug": "garfield-lasagna-party",
+			"name": "Garfield Lasagna Party",
+			"id": 874102
+		},
+		{
+			"slug": "gargoyles-remastered",
+			"name": "Gargoyles Remastered",
+			"id": 966076
+		},
+		{
+			"slug": "gears-of-war-reloaded",
+			"name": "Gears of War: Reloaded",
+			"id": 1002694
+		},
+		{
+			"slug": "genshin-impact",
+			"name": "Genshin Impact",
+			"id": 401805
+		},
+		{
+			"slug": "getsufumaden-undying-moon",
+			"name": "GetsuFumaDen: Undying Moon",
+			"id": 586060
+		},
+		{
+			"slug": "ghost-of-tsushima",
+			"name": "Ghost of Tsushima",
+			"id": 58550
+		},
+		{
+			"slug": "ghost-of-tsushima-iki-island",
+			"name": "Ghost of Tsushima - Iki Island",
+			"id": 799253
+		},
+		{
+			"slug": "ghost-of-tsushima-directors-cut",
+			"name": "Ghost of Tsushima Director's Cut",
+			"id": 638650
+		},
+		{
+			"slug": "ghost-of-yotei",
+			"name": "Ghost of Yotei",
+			"id": 989329
+		},
+		{
+			"slug": "ghostbusters-rise-of-the-ghost-lord",
+			"name": "Ghostbusters: Rise of the Ghost Lord",
+			"id": 898347
+		},
+		{
+			"slug": "ghostbusters-spirits-unleashed",
+			"name": "Ghostbusters: Spirits Unleashed",
+			"id": 758458
+		},
+		{
+			"slug": "ghostbusters-spirits-unleashed-ecto-edition",
+			"name": "Ghostbusters: Spirits Unleashed Ecto Edition",
+			"id": 968074
+		},
+		{
+			"slug": "ghostrunner",
+			"name": "Ghostrunner",
+			"id": 366850
+		},
+		{
+			"slug": "ghostrunner-2",
+			"name": "Ghostrunner 2",
+			"id": 677165
+		},
+		{
+			"slug": "ghostwire-tokio",
+			"name": "Ghostwire: Tokyo",
+			"id": 326248
+		},
+		{
+			"slug": "ghostwire-tokyo-prelude",
+			"name": "Ghostwire: Tokyo - Prelude",
+			"id": 752097
+		},
+		{
+			"slug": "giraffe-and-annika",
+			"name": "Giraffe and Annika",
+			"id": 485221
+		},
+		{
+			"slug": "gnosia",
+			"name": "Gnosia",
+			"id": 566445
+		},
+		{
+			"slug": "goat-simulator-3",
+			"name": "Goat Simulator 3",
+			"id": 799273
+		},
+		{
+			"slug": "god-of-rock",
+			"name": "God of Rock",
+			"id": 850699
+		},
+		{
+			"slug": "god-of-war-ragnarok-valhalla",
+			"name": "God of War Ragnarok: Valhalla",
+			"id": 973384
+		},
+		{
+			"slug": "god-of-war-ragnarok",
+			"name": "God of War: Ragnarök",
+			"id": 494384
+		},
+		{
+			"slug": "godfall",
+			"name": "Godfall",
+			"id": 398402
+		},
+		{
+			"slug": "godfall-ultimate-edition",
+			"name": "Godfall Ultimate Edition",
+			"id": 764954
+		},
+		{
+			"slug": "gods-eater-burst",
+			"name": "Gods Eater Burst",
+			"id": 330572
+		},
+		{
+			"slug": "golden-exe-remake",
+			"name": "Golden Exe Remake",
+			"id": 973012
+		},
+		{
+			"slug": "golf-club-wasteland",
+			"name": "Golf Club: Wasteland",
+			"id": 58939
+		},
+		{
+			"slug": "goodbye-volcano-high",
+			"name": "Goodbye Volcano High",
+			"id": 452644
+		},
+		{
+			"slug": "goonya-fighter-jiggly-haptic-edition",
+			"name": "Goonya Fighter: Jiggly Haptic Edition",
+			"id": 545017
+		},
+		{
+			"slug": "batman-gotham-knights",
+			"name": "Gotham Knights",
+			"id": 481908
+		},
+		{
+			"slug": "gran-turismo-7",
+			"name": "Gran Turismo 7",
+			"id": 452633
+		},
+		{
+			"slug": "granblue-fantasy-relink-2",
+			"name": "Granblue Fantasy Relink",
+			"id": 976166
+		},
+		{
+			"slug": "granblue-fantasy-versus-rising",
+			"name": "Granblue Fantasy Versus: Rising",
+			"id": 964509
+		},
+		{
+			"slug": "granblue-fantasy-relink",
+			"name": "Granblue Fantasy: Relink",
+			"id": 357246
+		},
+		{
+			"slug": "grand-theft-auto-iii-the-definitive-edition",
+			"name": "Grand Theft Auto III: The Definitive Edition",
+			"id": 708998
+		},
+		{
+			"slug": "grand-theft-auto-online",
+			"name": "Grand Theft Auto Online",
+			"id": 42336
+		},
+		{
+			"slug": "grand-theft-auto-v",
+			"name": "Grand Theft Auto V",
+			"id": 3498
+		},
+		{
+			"slug": "grand-theft-aito-vi",
+			"name": "Grand Theft Auto VI",
+			"id": 972995
+		},
+		{
+			"slug": "grand-theft-auto-san-andreas-the-definitive-editio",
+			"name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+			"id": 709004
+		},
+		{
+			"slug": "grand-theft-auto-the-trilogy-the-definitive-editio",
+			"name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+			"id": 677164
+		},
+		{
+			"slug": "grand-theft-auto-vice-city-the-definitive-edition",
+			"name": "Grand Theft Auto: Vice City – The Definitive Edition",
+			"id": 708999
+		},
+		{
+			"slug": "graven-2",
+			"name": "Graven",
+			"id": 489293
+		},
+		{
+			"slug": "gravity-circuit",
+			"name": "Gravity Circuit",
+			"id": 62424
+		},
+		{
+			"slug": "greak-memories-of-azur",
+			"name": "Greak: Memories of Azur",
+			"id": 638648
+		},
+		{
+			"slug": "grid-legends",
+			"name": "GRID Legends",
+			"id": 638655
+		},
+		{
+			"slug": "gris",
+			"name": "Gris",
+			"id": 59313
+		},
+		{
+			"slug": "grounded-2",
+			"name": "Grounded",
+			"id": 391397
+		},
+		{
+			"slug": "guilty-gear-2020",
+			"name": "Guilty Gear -Strive",
+			"id": 374507
+		},
+		{
+			"slug": "gunborg-dark-matters",
+			"name": "Gunborg: Dark Matters",
+			"id": 745755
+		},
+		{
+			"slug": "gungrave-gore",
+			"name": "Gungrave: G.O.R.E.",
+			"id": 419293
+		},
+		{
+			"slug": "gungungun",
+			"name": "GUNGUNGUN",
+			"id": 11679
+		},
+		{
+			"slug": "gylt",
+			"name": "Gylt",
+			"id": 324995
+		},
+		{
+			"slug": "hades-2018",
+			"name": "Hades",
+			"id": 274755
+		},
+		{
+			"slug": "hammerwatch-ii",
+			"name": "Hammerwatch II",
+			"id": 962678
+		},
+		{
+			"slug": "hammerwatch-ii-anniversary-pack",
+			"name": "Hammerwatch II: Anniversary Pack",
+			"id": 965121
+		},
+		{
+			"slug": "happys-humble-burger-farm",
+			"name": "Happy's Humble Burger Farm",
+			"id": 702250
+		},
+		{
+			"slug": "harry-potter-quidditch-champions",
+			"name": "Harry Potter: Quidditch Champions",
+			"id": 959818
+		},
+		{
+			"slug": "haunted-house-2023",
+			"name": "Haunted House (2023)",
+			"id": 966105
+		},
+		{
+			"slug": "hauntii",
+			"name": "Hauntii",
+			"id": 962148
+		},
+		{
+			"slug": "haven-2",
+			"name": "Haven",
+			"id": 295015
+		},
+		{
+			"slug": "heart-of-the-dawn-fire",
+			"name": "Heart of the Dawn: Fire",
+			"id": 996614
+		},
+		{
+			"slug": "heart-of-the-dawn-flame",
+			"name": "Heart of the Dawn: Flame",
+			"id": 996615
+		},
+		{
+			"slug": "heart-of-the-dawn-inferno",
+			"name": "Heart of the Dawn: Inferno",
+			"id": 996617
+		},
+		{
+			"slug": "heavenly-bodies-2",
+			"name": "Heavenly Bodies",
+			"id": 364870
+		},
+		{
+			"slug": "hell-is-us",
+			"name": "Hell is Us",
+			"id": 782261
+		},
+		{
+			"slug": "hell-let-loose",
+			"name": "Hell Let Loose",
+			"id": 270653
+		},
+		{
+			"slug": "hell-pie",
+			"name": "Hell Pie",
+			"id": 373521
+		},
+		{
+			"slug": "hellboy-web-of-wyrd",
+			"name": "Hellboy Web of Wyrd",
+			"id": 892262
+		},
+		{
+			"slug": "hellbreachers",
+			"name": "Hellbreachers",
+			"id": 576529
+		},
+		{
+			"slug": "helldivers-2",
+			"name": "HELLDIVERS 2",
+			"id": 976564
+		},
+		{
+			"slug": "helldivers-ii",
+			"name": "Helldivers II",
+			"id": 961204
+		},
+		{
+			"slug": "hello-neighbor-2-2",
+			"name": "Hello Neighbor 2",
+			"id": 471020
+		},
+		{
+			"slug": "hellpoint",
+			"name": "Hellpoint",
+			"id": 22123
+		},
+		{
+			"slug": "hi-fi-rush",
+			"name": "Hi-Fi Rush",
+			"id": 914789
+		},
+		{
+			"slug": "high-on-life",
+			"name": "High on Life",
+			"id": 801032
+		},
+		{
+			"slug": "high-on-life-high-on-knife",
+			"name": "High on Life: High on Knife",
+			"id": 967556
+		},
+		{
+			"slug": "hindsight-2020-wrath-of-the-raakshasa",
+			"name": "Hindsight 20/20 - Wrath of the Raakshasa",
+			"id": 638800
+		},
+		{
+			"slug": "hirogami",
+			"name": "Hirogami",
+			"id": 1004510
+		},
+		{
+			"slug": "hitman-3",
+			"name": "Hitman 3",
+			"id": 452645
+		},
+		{
+			"slug": "hoa",
+			"name": "Hoa",
+			"id": 447808
+		},
+		{
+			"slug": "hogwarts-legacy",
+			"name": "Hogwarts Legacy",
+			"id": 906547
+		},
+		{
+			"slug": "honkai-star-rail",
+			"name": "Honkai Star Rail",
+			"id": 840783
+		},
+		{
+			"slug": "hood-outlaws-legends",
+			"name": "Hood: Outlaws & Legends",
+			"id": 479670
+		},
+		{
+			"slug": "horizon-call-of-the-mountain",
+			"name": "Horizon Call of the Mountain",
+			"id": 718057
+		},
+		{
+			"slug": "horizon-zero-dawn-2",
+			"name": "Horizon Forbidden West",
+			"id": 452642
+		},
+		{
+			"slug": "horizon-forbidden-west-burning-shores",
+			"name": "Horizon Forbidden West - Burning Shores",
+			"id": 891228
+		},
+		{
+			"slug": "horizon-forbidden-westtm-complete-edition",
+			"name": "Horizon Forbidden West Complete Edition",
+			"id": 966906
+		},
+		{
+			"slug": "horizon-zero-dawn-remastered",
+			"name": "Horizon Zero Dawn Remastered",
+			"id": 989802
+		},
+		{
+			"slug": "horng-city",
+			"name": "Horng city",
+			"id": 947968
+		},
+		{
+			"slug": "horse-tales-emerald-valley-ranch",
+			"name": "Horse Tales: Emerald Valley Ranch",
+			"id": 874088
+		},
+		{
+			"slug": "hot-shots-golf-2",
+			"name": "Hot Shots Golf 2",
+			"id": 5500
+		},
+		{
+			"slug": "hot-wheels-unleashed",
+			"name": "Hot Wheels Unleashed",
+			"id": 563420
+		},
+		{
+			"slug": "house-flipper-2",
+			"name": "House Flipper 2",
+			"id": 968499
+		},
+		{
+			"slug": "hubris-2",
+			"name": "Hubris",
+			"id": 891206
+		},
+		{
+			"slug": "humanity",
+			"name": "Humanity",
+			"id": 376898
+		},
+		{
+			"slug": "hunters-arena-legends",
+			"name": "Hunter's Arena: Legends",
+			"id": 362901
+		},
+		{
+			"slug": "hyenas",
+			"name": "Hyenas",
+			"id": 806951
+		},
+		{
+			"slug": "i-saw-black-clouds",
+			"name": "I Saw Black Clouds",
+			"id": 548033
+		},
+		{
+			"slug": "i-was-a-teenage-exocolonist",
+			"name": "I Was a Teenage Exocolonist",
+			"id": 840855
+		},
+		{
+			"slug": "iq-intelligent-qube",
+			"name": "I.Q.: Intelligent Qube",
+			"id": 53026
+		},
+		{
+			"slug": "ill",
+			"name": "ILL",
+			"id": 552927
+		},
+		{
+			"slug": "immortals-fenyx-rising-a-new-god",
+			"name": "Immortals Fenyx Rising - A New God",
+			"id": 620711
+		},
+		{
+			"slug": "immortals-fenyx-rising-myths-of-the-eastern-realm",
+			"name": "Immortals Fenyx Rising - Myths of the Eastern Realm",
+			"id": 578142
+		},
+		{
+			"slug": "immortals-fenyx-rising-the-lost-gods",
+			"name": "Immortals Fenyx Rising - The Lost Gods",
+			"id": 620752
+		},
+		{
+			"slug": "immortals-of-aveum",
+			"name": "Immortals of Aveum",
+			"id": 892901
+		},
+		{
+			"slug": "gods-monsters",
+			"name": "Immortals: Fenyx Rising",
+			"id": 487910
+		},
+		{
+			"slug": "in-rays-of-the-light",
+			"name": "In Rays of the Light",
+			"id": 566672
+		},
+		{
+			"slug": "in-sound-mind",
+			"name": "In Sound Mind",
+			"id": 350684
+		},
+		{
+			"slug": "indiana-jones-and-the-great-circle",
+			"name": "Indiana Jones and the Great Circle",
+			"id": 975393
+		},
+		{
+			"slug": "indika",
+			"name": "Indika",
+			"id": 667649
+		},
+		{
+			"slug": "industria",
+			"name": "Industria",
+			"id": 447815
+		},
+		{
+			"slug": "infernax",
+			"name": "Infernax",
+			"id": 370239
+		},
+		{
+			"slug": "infestor",
+			"name": "Infestor",
+			"id": 3042
+		},
+		{
+			"slug": "ink-inside",
+			"name": "Ink Inside",
+			"id": 993430
+		},
+		{
+			"slug": "inscryption",
+			"name": "Inscryption",
+			"id": 479694
+		},
+		{
+			"slug": "inspector-gadget-mad-time-party",
+			"name": "Inspector Gadget: Mad Time Party",
+			"id": 963325
+		},
+		{
+			"slug": "insurgency-sandstorm",
+			"name": "Insurgency: Sandstorm",
+			"id": 59306
+		},
+		{
+			"slug": "insurmountable",
+			"name": "Insurmountable",
+			"id": 593250
+		},
+		{
+			"slug": "intergalactic-the-heretic-prophet",
+			"name": "Intergalactic: The Heretic Prophet",
+			"id": 994551
+		},
+		{
+			"slug": "iron-harvest",
+			"name": "Iron Harvest",
+			"id": 52340
+		},
+		{
+			"slug": "iron-man-game",
+			"name": "Iron Man game",
+			"id": 854349
+		},
+		{
+			"slug": "iron-meat-2",
+			"name": "Iron Meat",
+			"id": 491595
+		},
+		{
+			"slug": "isonzo",
+			"name": "Isonzo",
+			"id": 719571
+		},
+		{
+			"slug": "it-takes-two-2",
+			"name": "It Takes Two",
+			"id": 455597
+		},
+		{
+			"slug": "jett-the-far-shore-ot-superbrothers",
+			"name": "Jett: The Far Shore",
+			"id": 452643
+		},
+		{
+			"slug": "jitsu-squad",
+			"name": "Jitsu Squad",
+			"id": 559370
+		},
+		{
+			"slug": "jojos-bizarre-adventure-all-star-battle-r",
+			"name": "JoJo's Bizarre Adventure: All-Star Battle R",
+			"id": 753932
+		},
+		{
+			"slug": "journey-to-foundation",
+			"name": "Journey to Foundation",
+			"id": 973783
+		},
+		{
+			"slug": "judas-2",
+			"name": "Judas",
+			"id": 892899
+		},
+		{
+			"slug": "judgment-2",
+			"name": "Judgment",
+			"id": 630676
+		},
+		{
+			"slug": "judgment-2",
+			"name": "Judgment (2019)",
+			"id": 248397
+		},
+		{
+			"slug": "jujutsu-kaisen-cursed-clash",
+			"name": "Jujutsu Kaisen: Cursed Clash",
+			"id": 963217
+		},
+		{
+			"slug": "jumping-flash",
+			"name": "Jumping Flash! (1995)",
+			"id": 53062
+		},
+		{
+			"slug": "jurassic-park-classic-games-collection",
+			"name": "Jurassic Park Classic Games Collection",
+			"id": 972616
+		},
+		{
+			"slug": "jurassic-park-survival",
+			"name": "Jurassic Park: Survival",
+			"id": 973373
+		},
+		{
+			"slug": "jurassic-world-aftermath-collection",
+			"name": "Jurassic World Aftermath Collection",
+			"id": 977213
+		},
+		{
+			"slug": "jurassic-world-evolution-2-2",
+			"name": "Jurassic World Evolution 2",
+			"id": 614965
+		},
+		{
+			"slug": "jurassic-world-evolution-3",
+			"name": "Jurassic World Evolution 3",
+			"id": 1006932
+		},
+		{
+			"slug": "jusant",
+			"name": "Jusant",
+			"id": 962137
+		},
+		{
+			"slug": "just-dance-2021",
+			"name": "Just Dance 2021",
+			"id": 484498
+		},
+		{
+			"slug": "just-dance-2022",
+			"name": "Just Dance 2022",
+			"id": 616684
+		},
+		{
+			"slug": "just-dance-2023-edition",
+			"name": "Just Dance 2023 Edition",
+			"id": 871146
+		},
+		{
+			"slug": "just-dance-2024-edition",
+			"name": "Just Dance 2024 Edition",
+			"id": 962141
+		},
+		{
+			"slug": "just-dance-2025-edition",
+			"name": "Just Dance 2025 Edition",
+			"id": 996356
+		},
+		{
+			"slug": "justice-sucks",
+			"name": "JUSTICE SUCKS",
+			"id": 759893
+		},
+		{
+			"slug": "kaichu-the-kaiju-dating-sim",
+			"name": "Kaichu - The Kaiju Dating Sim",
+			"id": 844364
+		},
+		{
+			"slug": "kao-the-kangaroo-2022",
+			"name": "Kao the Kangaroo (2022)",
+			"id": 776261
+		},
+		{
+			"slug": "kena-bridge-of-spirits",
+			"name": "Kena: Bridge of Spirits",
+			"id": 452635
+		},
+		{
+			"slug": "kerbal-space-program-2",
+			"name": "Kerbal Space Program 2",
+			"id": 366877
+		},
+		{
+			"slug": "keywe",
+			"name": "KeyWe",
+			"id": 430320
+		},
+		{
+			"slug": "khara-the-game",
+			"name": "Khara The Game",
+			"id": 917743
+		},
+		{
+			"slug": "kid-a-mnesia-exhibition",
+			"name": "Kid A Mnesia: Exhibition",
+			"id": 692545
+		},
+		{
+			"slug": "killer-frequency",
+			"name": "Killer Frequency",
+			"id": 961684
+		},
+		{
+			"slug": "kimetsu-no-yaiba-hinokami-kepputan",
+			"name": "Kimetsu no Yaiba: Hinokami Kepputan",
+			"id": 566453
+		},
+		{
+			"slug": "king-arthur-knights-tale",
+			"name": "King Arthur: Knight's Tale",
+			"id": 505782
+		},
+		{
+			"slug": "kings-bounty-ii",
+			"name": "King's Bounty II",
+			"id": 364807
+		},
+		{
+			"slug": "kingdom-come-deliverance-ii",
+			"name": "Kingdom Come: Deliverance II",
+			"id": 980502
+		},
+		{
+			"slug": "kingdom-of-arcadia",
+			"name": "Kingdom of Arcadia",
+			"id": 586207
+		},
+		{
+			"slug": "kitaria-fables",
+			"name": "Kitaria Fables",
+			"id": 563269
+		},
+		{
+			"slug": "klang-2",
+			"name": "Klang 2",
+			"id": 667655
+		},
+		{
+			"slug": "klonoa-phantasy-reverie-series",
+			"name": "KLONOA Phantasy Reverie Series",
+			"id": 736276
+		},
+		{
+			"slug": "knockout-city",
+			"name": "Knockout City",
+			"id": 558984
+		},
+		{
+			"slug": "know-by-heart",
+			"name": "Know by Heart",
+			"id": 462678
+		},
+		{
+			"slug": "koa-and-the-five-pirates-of-mara",
+			"name": "Koa and the Five Pirates of Mara",
+			"id": 963937
+		},
+		{
+			"slug": "kombinera",
+			"name": "Kombinera",
+			"id": 764955
+		},
+		{
+			"slug": "kona-ii-brume",
+			"name": "Kona II: Brume",
+			"id": 968012
+		},
+		{
+			"slug": "konishiwa",
+			"name": "Konishiwa",
+			"id": 959610
+		},
+		{
+			"slug": "kunitsu-gami-path-of-the-goddess",
+			"name": "Kunitsu-Gami: Path of the Goddess",
+			"id": 985578
+		},
+		{
+			"slug": "labyrinth-of-galleria-coven-of-dusk",
+			"name": "Labyrinth of Galleria: The Moon Society",
+			"id": 739495
+		},
+		{
+			"slug": "lacuna-a-sci-fi-noir-adventure",
+			"name": "Lacuna – A Sci-Fi Noir Adventure",
+			"id": 589198
+		},
+		{
+			"slug": "ladders-by-powgi",
+			"name": "Ladders by POWGI",
+			"id": 593377
+		},
+		{
+			"slug": "lake",
+			"name": "Lake",
+			"id": 402508
+		},
+		{
+			"slug": "lake-special-delivery",
+			"name": "Lake: Special Delivery",
+			"id": 978694
+		},
+		{
+			"slug": "lamentum",
+			"name": "Lamentum",
+			"id": 295118
+		},
+		{
+			"slug": "last-stop",
+			"name": "Last Stop",
+			"id": 391401
+		},
+		{
+			"slug": "layers-of-fears",
+			"name": "Layers of Fear (2023)",
+			"id": 799274
+		},
+		{
+			"slug": "legacy-of-kain-soul-reaver-12-remastered",
+			"name": "Legacy of Kain Soul Reaver 1&2 Remastered",
+			"id": 989747
+		},
+		{
+			"slug": "legacy-of-kaintm-soul-reaver-12-remastered",
+			"name": "Legacy of Kain™ Soul Reaver 1&2 Remastered",
+			"id": 989331
+		},
+		{
+			"slug": "legends-of-talia-arcadia",
+			"name": "Legends of Talia: Arcadia",
+			"id": 47585
+		},
+		{
+			"slug": "lego-2k-drive",
+			"name": "LEGO 2K Drive",
+			"id": 945130
+		},
+		{
+			"slug": "lego-brawls",
+			"name": "Lego Brawls",
+			"id": 304183
+		},
+		{
+			"slug": "lego-bricktales",
+			"name": "LEGO Bricktales",
+			"id": 833436
+		},
+		{
+			"slug": "lego-fortnite",
+			"name": "LEGO Fortnite",
+			"id": 973401
+		},
+		{
+			"slug": "lego-horizon-adventures",
+			"name": "Lego Horizon Adventures",
+			"id": 984635
+		},
+		{
+			"slug": "lego-star-wars-the-sywalker-saga",
+			"name": "Lego Star Wars: The Skywalker Saga",
+			"id": 326239
+		},
+		{
+			"slug": "legor-party",
+			"name": "LEGO® Party!",
+			"id": 1004519
+		},
+		{
+			"slug": "lemnis-gate",
+			"name": "LEMNIS GATE",
+			"id": 326271
+		},
+		{
+			"slug": "lies-of-p",
+			"name": "Lies Of P",
+			"id": 605674
+		},
+		{
+			"slug": "lies-of-p-overture",
+			"name": "Lies of P: Overture",
+			"id": 997552
+		},
+		{
+			"slug": "life-is-strange-remastered",
+			"name": "Life is Strange Remastered",
+			"id": 573125
+		},
+		{
+			"slug": "life-is-strange-remastered-collection",
+			"name": "Life is Strange Remastered Collection",
+			"id": 616754
+		},
+		{
+			"slug": "life-is-strange-before-the-storm-remastered",
+			"name": "Life is Strange: Before the Storm Remastered",
+			"id": 573126
+		},
+		{
+			"slug": "life-is-strange-double-exposure",
+			"name": "Life is Strange: Double Exposure",
+			"id": 983211
+		},
+		{
+			"slug": "life-is-strange-true-colors",
+			"name": "Life is Strange: True Colors",
+			"id": 573123
+		},
+		{
+			"slug": "life-is-strange-true-colors-deluxe-upgrade",
+			"name": "Life is Strange: True Colors - Deluxe Upgrade",
+			"id": 662418
+		},
+		{
+			"slug": "life-is-strange-true-colors-wavelengths",
+			"name": "Life is Strange: True Colors - Wavelengths",
+			"id": 670689
+		},
+		{
+			"slug": "yakuza-8",
+			"name": "Like a Dragon 8",
+			"id": 916469
+		},
+		{
+			"slug": "like-a-dragon-gaiden",
+			"name": "Like a Dragon Gaiden",
+			"id": 916466
+		},
+		{
+			"slug": "like-a-dragon-gaiden-the-man-who-erased-his-name",
+			"name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+			"id": 964791
+		},
+		{
+			"slug": "like-a-dragon-infinite-wealth",
+			"name": "Like a Dragon: Infinite Wealth",
+			"id": 962025
+		},
+		{
+			"slug": "like-a-dragon-ishin",
+			"name": "Like a Dragon: Ishin!",
+			"id": 850698
+		},
+		{
+			"slug": "like-a-dragon-pirate-yakuza-in-hawaii",
+			"name": "Like a Dragon: Pirate Yakuza in Hawaii",
+			"id": 989189
+		},
+		{
+			"slug": "little-devil-inside",
+			"name": "Little Devil Inside",
+			"id": 43253
+		},
+		{
+			"slug": "little-nightmares-ii",
+			"name": "Little Nightmares II",
+			"id": 366881
+		},
+		{
+			"slug": "little-nightmares-iii",
+			"name": "Little Nightmares III",
+			"id": 965464
+		},
+		{
+			"slug": "little-orpheus",
+			"name": "Little Orpheus",
+			"id": 480743
+		},
+		{
+			"slug": "live-a-live-remaster",
+			"name": "Live A Live Remaster",
+			"id": 736263
+		},
+		{
+			"slug": "locoroco-midnight-carnival",
+			"name": "LocoRoco Midnight Carnival",
+			"id": 5179
+		},
+		{
+			"slug": "lollipop-chainsaw-remake",
+			"name": "Lollipop Chainsaw RePOP",
+			"id": 813540
+		},
+		{
+			"slug": "loop8-summer-of-gods",
+			"name": "Loop8: Summer of Gods",
+			"id": 850697
+		},
+		{
+			"slug": "lords-of-the-fallen-2",
+			"name": "Lords of the Fallen",
+			"id": 840776
+		},
+		{
+			"slug": "lost-at-sea-2",
+			"name": "Lost At Sea",
+			"id": 627523
+		},
+		{
+			"slug": "lost-epic",
+			"name": "LOST EPIC",
+			"id": 613569
+		},
+		{
+			"slug": "lost-in-random",
+			"name": "Lost in Random",
+			"id": 455598
+		},
+		{
+			"slug": "lost-judgment",
+			"name": "Lost Judgment",
+			"id": 600924
+		},
+		{
+			"slug": "lost-judgment-the-kaito-files",
+			"name": "Lost Judgment: The Kaito Files",
+			"id": 932624
+		},
+		{
+			"slug": "lost-records-bloom-rage",
+			"name": "Lost Records: Bloom & Rage",
+			"id": 973376
+		},
+		{
+			"slug": "lost-soul-aside",
+			"name": "Lost Soul Aside",
+			"id": 395192
+		},
+		{
+			"slug": "lunar-remastered-collection",
+			"name": "LUNAR Remastered Collection",
+			"id": 995191
+		},
+		{
+			"slug": "luto",
+			"name": "Luto",
+			"id": 962022
+		},
+		{
+			"slug": "madden-nfl-22",
+			"name": "Madden NFL 22",
+			"id": 650806
+		},
+		{
+			"slug": "madden-nfl-23",
+			"name": "Madden NFL 23",
+			"id": 799262
+		},
+		{
+			"slug": "madden-nfl-24",
+			"name": "Madden NFL 24",
+			"id": 962679
+		},
+		{
+			"slug": "madison",
+			"name": "MADiSON",
+			"id": 663740
+		},
+		{
+			"slug": "mafia-the-old-country",
+			"name": "Mafia: The Old Country",
+			"id": 987515
+		},
+		{
+			"slug": "maid-of-sker",
+			"name": "Maid of Sker",
+			"id": 259883
+		},
+		{
+			"slug": "mandragora-game",
+			"name": "Mandragora: Whispers of the Witch Tree",
+			"id": 736281
+		},
+		{
+			"slug": "maneater",
+			"name": "Maneater",
+			"id": 45109
+		},
+		{
+			"slug": "maquette-2021",
+			"name": "Maquette",
+			"id": 490123
+		},
+		{
+			"slug": "marathon-2",
+			"name": "Marathon",
+			"id": 961202
+		},
+		{
+			"slug": "atelier-marie-the-alchemist-of-salburg",
+			"name": "Marie no Atelier: Salburg no Renkinjutsushi",
+			"id": 934461
+		},
+		{
+			"slug": "martha-is-dead",
+			"name": "Martha is Dead",
+			"id": 59765
+		},
+		{
+			"slug": "marvel-1943-rise-of-hydra",
+			"name": "Marvel 1943: Rise of Hydra",
+			"id": 978692
+		},
+		{
+			"slug": "marvel-cosmic-adventure",
+			"name": "MARVEL Cosmic Adventure",
+			"id": 1000571
+		},
+		{
+			"slug": "marvel-rivals",
+			"name": "Marvel Rivals",
+			"id": 993875
+		},
+		{
+			"slug": "marvels-avengers",
+			"name": "Marvel’s Avengers",
+			"id": 58859
+		},
+		{
+			"slug": "guardians-of-the-galaxy",
+			"name": "Marvel's Guardians of the Galaxy",
+			"id": 616765
+		},
+		{
+			"slug": "marvels-iron-man",
+			"name": "Marvel's Iron-Man",
+			"id": 990431
+		},
+		{
+			"slug": "marvels-midnight-suns",
+			"name": "Marvel's Midnight Suns",
+			"id": 650604
+		},
+		{
+			"slug": "marvels-rivers",
+			"name": "Marvel's Rivers",
+			"id": 989794
+		},
+		{
+			"slug": "marvels-spider-man",
+			"name": "Marvel's Spider-Man",
+			"id": 58134
+		},
+		{
+			"slug": "marvels-spider-man-silver-lining",
+			"name": "Marvel's Spider-Man - Silver Lining",
+			"id": 395178
+		},
+		{
+			"slug": "marvels-spider-man-the-heist",
+			"name": "Marvel's Spider-Man - The Heist",
+			"id": 395176
+		},
+		{
+			"slug": "marvels-spider-man-turf-wars",
+			"name": "Marvel's Spider-Man - Turf Wars",
+			"id": 395177
+		},
+		{
+			"slug": "marvels-spider-man-2",
+			"name": "Marvel's Spider-Man 2",
+			"id": 662316
+		},
+		{
+			"slug": "marvels-spider-man-3",
+			"name": "Marvel's Spider-Man 3",
+			"id": 1003664
+		},
+		{
+			"slug": "marvels-spider-man-remastered",
+			"name": "Marvel's Spider-Man Remastered",
+			"id": 663742
+		},
+		{
+			"slug": "marvels-spider-man-miles-morales",
+			"name": "Marvel's Spider-Man: Miles Morales",
+			"id": 452634
+		},
+		{
+			"slug": "marvels-spider-man-the-city-that-never-sleeps",
+			"name": "Marvel's Spider-Man: The City that Never Sleeps",
+			"id": 395179
+		},
+		{
+			"slug": "marvels-venom",
+			"name": "Marvel's Venom",
+			"id": 989788
+		},
+		{
+			"slug": "wolverine-2022",
+			"name": "Marvel's Wolverine",
+			"id": 662318
+		},
+		{
+			"slug": "mass-effect-5",
+			"name": "Mass Effect 5",
+			"id": 517311
+		},
+		{
+			"slug": "mass-effect-legendary-edition",
+			"name": "Mass Effect: Legendary Edition",
+			"id": 516111
+		},
+		{
+			"slug": "matchpoint-tennis-championships",
+			"name": "Matchpoint - Tennis Championships",
+			"id": 813655
+		},
+		{
+			"slug": "maximum-override",
+			"name": "Maximum Override",
+			"id": 12216
+		},
+		{
+			"slug": "meet-your-maker",
+			"name": "Meet Your Maker",
+			"id": 898352
+		},
+		{
+			"slug": "metal-gear-solid-delta-snake-eater",
+			"name": "Metal Gear Solid Delta: Snake Eater",
+			"id": 961198
+		},
+		{
+			"slug": "metal-gear-solid-master-collection-vol-1",
+			"name": "Metal Gear Solid Master Collection Vol. 1",
+			"id": 961199
+		},
+		{
+			"slug": "metal-hellsinger",
+			"name": "Metal: Hellsinger",
+			"id": 454544
+		},
+		{
+			"slug": "metaphor-refantazio",
+			"name": "Metaphor: ReFantazio",
+			"id": 963212
+		},
+		{
+			"slug": "metro-awakening",
+			"name": "Metro Awakening",
+			"id": 976006
+		},
+		{
+			"slug": "metro-exodus",
+			"name": "Metro Exodus",
+			"id": 28201
+		},
+		{
+			"slug": "mighty-goose",
+			"name": "Mighty Goose",
+			"id": 496649
+		},
+		{
+			"slug": "mindseye",
+			"name": "MindsEye",
+			"id": 997553
+		},
+		{
+			"slug": "minecraft-legends",
+			"name": "Minecraft Legends",
+			"id": 801512
+		},
+		{
+			"slug": "minute-of-islands",
+			"name": "Minute of Islands",
+			"id": 362937
+		},
+		{
+			"slug": "mio-memories-in-orbit",
+			"name": "MIO: Memories in Orbit",
+			"id": 983869
+		},
+		{
+			"slug": "mixtape-2025",
+			"name": "Mixtape (2025)",
+			"id": 983374
+		},
+		{
+			"slug": "mlb-the-show-21-ps4",
+			"name": "MLB 21: The Show",
+			"id": 576518
+		},
+		{
+			"slug": "mlb-the-show-22",
+			"name": "MLB The Show 22",
+			"id": 736279
+		},
+		{
+			"slug": "mlb-the-show-23",
+			"name": "MLB The Show 23",
+			"id": 953918
+		},
+		{
+			"slug": "mobile-suit-gundam-battle-operation-code-fairy",
+			"name": "MOBILE SUIT GUNDAM BATTLE OPERATION Code Fairy",
+			"id": 684911
+		},
+		{
+			"slug": "monochrome-mobius-rights-and-wrongs-forgotten",
+			"name": "Monochrome Mobius: Rights and Wrongs Forgotten",
+			"id": 847743
+		},
+		{
+			"slug": "monster-boy-and-the-cursed-kingdom",
+			"name": "Monster Boy and the Cursed Kingdom",
+			"id": 45868
+		},
+		{
+			"slug": "monster-energy-supercross-the-official-videogame-4",
+			"name": "Monster Energy Supercross - The Official Videogame 4",
+			"id": 522977
+		},
+		{
+			"slug": "monster-hunter-rise",
+			"name": "Monster Hunter Rise",
+			"id": 494393
+		},
+		{
+			"slug": "monster-hunter-rise-sunbreak",
+			"name": "Monster Hunter Rise: Sunbreak",
+			"id": 669216
+		},
+		{
+			"slug": "monster-hunter-wilds",
+			"name": "Monster Hunter Wilds",
+			"id": 973391
+		},
+		{
+			"slug": "monster-hunter-rise-complete-edition",
+			"name": "Monster Hunter: Rise - Complete Edition",
+			"id": 891202
+		},
+		{
+			"slug": "monster-menu-the-scavengers-cookbook",
+			"name": "Monster Menu - The Scavenger's Cookbook",
+			"id": 965123
+		},
+		{
+			"slug": "monster-truck-championship",
+			"name": "Monster Truck Championship",
+			"id": 427750
+		},
+		{
+			"slug": "moonlighter-2-the-endless-vault",
+			"name": "Moonlighter 2: The Endless Vault",
+			"id": 1004660
+		},
+		{
+			"slug": "moonscars",
+			"name": "Moonscars",
+			"id": 816326
+		},
+		{
+			"slug": "morbid-the-lords-of-ire",
+			"name": "Morbid: The Lords of Ire",
+			"id": 979528
+		},
+		{
+			"slug": "mortal-kombat-1-2023",
+			"name": "Mortal Kombat 1",
+			"id": 960873
+		},
+		{
+			"slug": "mortal-kombat-11",
+			"name": "Mortal Kombat 11",
+			"id": 274480
+		},
+		{
+			"slug": "mortal-kombat-11-ultimate",
+			"name": "Mortal Kombat 11 Ultimate",
+			"id": 520359
+		},
+		{
+			"slug": "mortal-shell-2",
+			"name": "Mortal Shell 2",
+			"id": 1004515
+		},
+		{
+			"slug": "moss-book-ii",
+			"name": "Moss: Book II",
+			"id": 633390
+		},
+		{
+			"slug": "motogp-21",
+			"name": "MotoGP 21",
+			"id": 576517
+		},
+		{
+			"slug": "motogp-22",
+			"name": "MotoGP 22",
+			"id": 772649
+		},
+		{
+			"slug": "mount-blade-ii-bannerlord",
+			"name": "Mount & Blade II: Bannerlord",
+			"id": 10069
+		},
+		{
+			"slug": "mouse-pi-for-hire",
+			"name": "MOUSE: P.I. For Hire",
+			"id": 1004516
+		},
+		{
+			"slug": "mr-driller-drillland",
+			"name": "Mr. DRILLER DrillLand (2020)",
+			"id": 491016
+		},
+		{
+			"slug": "mr-run-and-jump",
+			"name": "Mr. Run and Jump",
+			"id": 963941
+		},
+		{
+			"slug": "mudang-two-hearts",
+			"name": "MUDANG: Two Hearts",
+			"id": 1004521
+		},
+		{
+			"slug": "multiversus",
+			"name": "MultiVersus",
+			"id": 791638
+		},
+		{
+			"slug": "mundaun",
+			"name": "Mundaun",
+			"id": 64551
+		},
+		{
+			"slug": "mxgp-2020-the-official-motocross-videogame",
+			"name": "MXGP 2020 - The Official Motocross Videogame",
+			"id": 532454
+		},
+		{
+			"slug": "my-friend-peppa-pig",
+			"name": "My Friend Peppa Pig",
+			"id": 677262
+		},
+		{
+			"slug": "my-hero-ultra-rumble",
+			"name": "MY HERO ULTRA RUMBLE",
+			"id": 966910
+		},
+		{
+			"slug": "my-time-at-sandrock",
+			"name": "My Time at Sandrock",
+			"id": 570172
+		},
+		{
+			"slug": "naraka-bladepoint",
+			"name": "Naraka Bladepoint",
+			"id": 398412
+		},
+		{
+			"slug": "naruto-x-boruto-ultimate-ninja-storm-connections",
+			"name": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+			"id": 934440
+		},
+		{
+			"slug": "nascar-21-ignition",
+			"name": "NASCAR 21: Ignition",
+			"id": 667654
+		},
+		{
+			"slug": "nba-2k21",
+			"name": "NBA 2K21",
+			"id": 452647
+		},
+		{
+			"slug": "nba-2k22",
+			"name": "NBA 2K22",
+			"id": 650646
+		},
+		{
+			"slug": "nba-2k23",
+			"name": "NBA 2K23",
+			"id": 846505
+		},
+		{
+			"slug": "nba-2k24",
+			"name": "NBA 2K24",
+			"id": 966119
+		},
+		{
+			"slug": "nba-2k25",
+			"name": "NBA 2K25",
+			"id": 988375
+		},
+		{
+			"slug": "necromunda-hired-gun",
+			"name": "Necromunda: Hired Gun",
+			"id": 573124
+		},
+		{
+			"slug": "ned-kelly-world-war-1619",
+			"name": "Ned Kelly: World War 1619",
+			"id": 917757
+		},
+		{
+			"slug": "need-for-speed-unbound",
+			"name": "Need for Speed Unbound",
+			"id": 861287
+		},
+		{
+			"slug": "neo-breakout",
+			"name": "Neo Breakout",
+			"id": 968275
+		},
+		{
+			"slug": "neon-blood",
+			"name": "Neon Blood",
+			"id": 979532
+		},
+		{
+			"slug": "neon-white",
+			"name": "Neon White",
+			"id": 558980
+		},
+		{
+			"slug": "neptunia-game-maker-r-evolution",
+			"name": "Neptunia Game Maker R:Evolution",
+			"id": 994088
+		},
+		{
+			"slug": "neptunia-reverse",
+			"name": "Neptunia ReVerse",
+			"id": 545013
+		},
+		{
+			"slug": "nerf-legends",
+			"name": "Nerf Legends",
+			"id": 684912
+		},
+		{
+			"slug": "neva-2",
+			"name": "Neva",
+			"id": 961206
+		},
+		{
+			"slug": "new-tales-from-the-borderlands",
+			"name": "New Tales from the Borderlands",
+			"id": 836447
+		},
+		{
+			"slug": "mass-effect-tba",
+			"name": "Next Mass Effect",
+			"id": 530499
+		},
+		{
+			"slug": "nhl-22",
+			"name": "NHL 22",
+			"id": 667652
+		},
+		{
+			"slug": "nhl-23",
+			"name": "NHL 23",
+			"id": 857615
+		},
+		{
+			"slug": "nickelodeon-all-star-brawl",
+			"name": "Nickelodeon All-Star Brawl",
+			"id": 635220
+		},
+		{
+			"slug": "nickelodeon-kart-racers-3-slime-speedway",
+			"name": "Nickelodeon Kart Racers 3: Slime Speedway",
+			"id": 857619
+		},
+		{
+			"slug": "ninja-gaiden-2-black",
+			"name": "Ninja Gaiden 2 Black",
+			"id": 996587
+		},
+		{
+			"slug": "ninja-gaiden-ragebound",
+			"name": "NINJA GAIDEN: Ragebound",
+			"id": 1004299
+		},
+		{
+			"slug": "nioh-2",
+			"name": "Nioh 2",
+			"id": 58815
+		},
+		{
+			"slug": "nioh-2-darkness-in-the-capital",
+			"name": "Nioh 2 - Darkness in the Capital",
+			"id": 999293
+		},
+		{
+			"slug": "nioh-2-the-first-samurai",
+			"name": "Nioh 2 - The First Samurai",
+			"id": 999294
+		},
+		{
+			"slug": "nioh-2-the-tengus-disciple",
+			"name": "Nioh 2 - The Tengu's Disciple",
+			"id": 999087
+		},
+		{
+			"slug": "no-mans-sky",
+			"name": "No Man's Sky",
+			"id": 2093
+		},
+		{
+			"slug": "no-more-heroes-3",
+			"name": "No More Heroes 3",
+			"id": 327236
+		},
+		{
+			"slug": "no-rest-for-the-wicked-2024",
+			"name": "No Rest for the Wicked",
+			"id": 973539
+		},
+		{
+			"slug": "nobody-saves-the-world",
+			"name": "Nobody Saves the World",
+			"id": 650608
+		},
+		{
+			"slug": "nobody-wants-to-die",
+			"name": "Nobody Wants to Die",
+			"id": 978865
+		},
+		{
+			"slug": "nour-play-with-your-food",
+			"name": "Nour: Play with Your Food",
+			"id": 484689
+		},
+		{
+			"slug": "observer-system-redux",
+			"name": "Observer: System Redux",
+			"id": 442839
+		},
+		{
+			"slug": "oceanhorn-2-knights-of-the-lost-realm",
+			"name": "Oceanhorn 2: Knights of the Lost Realm",
+			"id": 304184
+		},
+		{
+			"slug": "octopath-traveller-2",
+			"name": "Octopath Traveler 2",
+			"id": 850683
+		},
+		{
+			"slug": "od-2024",
+			"name": "OD (2024)",
+			"id": 973374
+		},
+		{
+			"slug": "oddballers",
+			"name": "OddBallers",
+			"id": 321272
+		},
+		{
+			"slug": "oddworld-abes-oddysee",
+			"name": "Oddworld: Abe's Oddysee",
+			"id": 5193
+		},
+		{
+			"slug": "oddworld-soulstorm",
+			"name": "Oddworld: Soulstorm",
+			"id": 292817
+		},
+		{
+			"slug": "olliolli-world",
+			"name": "OlliOlli World",
+			"id": 586054
+		},
+		{
+			"slug": "olliolli-world-finding-the-flowzone",
+			"name": "OlliOlli World: Finding the Flowzone",
+			"id": 975833
+		},
+		{
+			"slug": "olliolli-world-void-riders",
+			"name": "OlliOlli World: VOID Riders",
+			"id": 975834
+		},
+		{
+			"slug": "one-escape",
+			"name": "One Escape",
+			"id": 576528
+		},
+		{
+			"slug": "one-piece-odyssey",
+			"name": "One Piece Odyssey",
+			"id": 761343
+		},
+		{
+			"slug": "oni-road-to-be-the-mightiest-oni",
+			"name": "ONI : Road to be the Mightiest Oni",
+			"id": 879568
+		},
+		{
+			"slug": "onimusha-way-of-the-sword",
+			"name": "Onimusha: Way Of The Sword",
+			"id": 994600
+		},
+		{
+			"slug": "operation-tango",
+			"name": "Operation: Tango",
+			"id": 455579
+		},
+		{
+			"slug": "orphans-2",
+			"name": "Orphans",
+			"id": 941653
+		},
+		{
+			"slug": "out-of-words",
+			"name": "Out of Words",
+			"id": 1005412
+		},
+		{
+			"slug": "outcast-2-a-new-beginning",
+			"name": "Outcast 2 — A New Beginning",
+			"id": 666377
+		},
+		{
+			"slug": "outriders",
+			"name": "Outriders",
+			"id": 327227
+		},
+		{
+			"slug": "outriders-worldslayer",
+			"name": "Outriders Worldslayer",
+			"id": 799244
+		},
+		{
+			"slug": "outward",
+			"name": "Outward Definitive Edition",
+			"id": 60783
+		},
+		{
+			"slug": "outward-the-adventurer-bundle",
+			"name": "Outward: The Adventurer Bundle",
+			"id": 616748
+		},
+		{
+			"slug": "overcooked-all-you-can-eat",
+			"name": "Overcooked! All You Can Eat",
+			"id": 517399
+		},
+		{
+			"slug": "override-2-super-mech-league",
+			"name": "Override 2: Super Mech League",
+			"id": 520361
+		},
+		{
+			"slug": "overwatch-2",
+			"name": "Overwatch 2",
+			"id": 388308
+		},
+		{
+			"slug": "overwatch-2-starter-pack-season-one",
+			"name": "Overwatch 2 - Starter Pack: Season One",
+			"id": 862984
+		},
+		{
+			"slug": "overwatch-2-starter-pack-season-three",
+			"name": "Overwatch 2 - Starter Pack: Season Three",
+			"id": 936412
+		},
+		{
+			"slug": "overwatch-2-starter-pack-season-two",
+			"name": "Overwatch 2 - Starter Pack: Season Two",
+			"id": 936411
+		},
+		{
+			"slug": "overwatch-2-watchpoint-pack",
+			"name": "Overwatch 2: Watchpoint Pack",
+			"id": 862968
+		},
+		{
+			"slug": "oxenfree-ii-lost-signals",
+			"name": "Oxenfree II: Lost Signals",
+			"id": 586042
+		},
+		{
+			"slug": "oxide-room-104",
+			"name": "Oxide Room 104",
+			"id": 791640
+		},
+		{
+			"slug": "pac-man-world-re-pac",
+			"name": "PAC-MAN WORLD Re-PAC",
+			"id": 840854
+		},
+		{
+			"slug": "pacific-drive",
+			"name": "Pacific Drive",
+			"id": 850702
+		},
+		{
+			"slug": "painkiller-2025",
+			"name": "Painkiller 2025",
+			"id": 1000845
+		},
+		{
+			"slug": "paradise-killer",
+			"name": "Paradise Killer",
+			"id": 428966
+		},
+		{
+			"slug": "paradise-lost",
+			"name": "Paradise Lost",
+			"id": 277988
+		},
+		{
+			"slug": "paradize-project",
+			"name": "Paradize Project",
+			"id": 816302
+		},
+		{
+			"slug": "park-beyond",
+			"name": "Park Beyond",
+			"id": 650612
+		},
+		{
+			"slug": "pavlov-vr",
+			"name": "Pavlov VR",
+			"id": 10204
+		},
+		{
+			"slug": "payday-3",
+			"name": "Payday 3",
+			"id": 502116
+		},
+		{
+			"slug": "pentiment",
+			"name": "Pentiment",
+			"id": 801567
+		},
+		{
+			"slug": "persona-3-reload",
+			"name": "Persona 3 Reload",
+			"id": 962676
+		},
+		{
+			"slug": "persona-5-royal",
+			"name": "Persona 5 Royal",
+			"id": 339958
+		},
+		{
+			"slug": "persona-5-tactics",
+			"name": "Persona 5 Tactica",
+			"id": 962985
+		},
+		{
+			"slug": "pga-tour-2k23",
+			"name": "PGA TOUR 2K23",
+			"id": 865079
+		},
+		{
+			"slug": "phantom-blade-zero",
+			"name": "Phantom Blade Zero",
+			"id": 961205
+		},
+		{
+			"slug": "pinkman-2",
+			"name": "Pinkman+",
+			"id": 570176
+		},
+		{
+			"slug": "pioner",
+			"name": "PIONER",
+			"id": 608548
+		},
+		{
+			"slug": "pistol-whip",
+			"name": "Pistol Whip",
+			"id": 376934
+		},
+		{
+			"slug": "placid-plastic-duck-simulator",
+			"name": "Placid Plastic Duck Simulator",
+			"id": 813607
+		},
+		{
+			"slug": "planet-coaster",
+			"name": "Planet Coaster",
+			"id": 9644
+		},
+		{
+			"slug": "planet-of-lana-2",
+			"name": "Planet of Lana 2",
+			"id": 1004656
+		},
+		{
+			"slug": "playstation-vr2",
+			"name": "Playstation VR2",
+			"id": 874377
+		},
+		{
+			"slug": "poker-club",
+			"name": "Poker Club",
+			"id": 490413
+		},
+		{
+			"slug": "police-simulator-patrol-officers",
+			"name": "Police Simulator: Patrol Officers",
+			"id": 622652
+		},
+		{
+			"slug": "popucom",
+			"name": "Popucom",
+			"id": 988104
+		},
+		{
+			"slug": "possessors",
+			"name": "Possessor(s)",
+			"id": 1005411
+		},
+		{
+			"slug": "post-trauma",
+			"name": "Post Trauma",
+			"id": 892824
+		},
+		{
+			"slug": "postal-redux",
+			"name": "POSTAL Redux",
+			"id": 12157
+		},
+		{
+			"slug": "potion-permit",
+			"name": "Potion Permit",
+			"id": 732437
+		},
+		{
+			"slug": "powerwash-simulator",
+			"name": "PowerWash Simulator",
+			"id": 581104
+		},
+		{
+			"slug": "prey-for-the-gods",
+			"name": "Praey for the Gods",
+			"id": 18856
+		},
+		{
+			"slug": "pragmata",
+			"name": "Pragmata",
+			"id": 452650
+		},
+		{
+			"slug": "pre-purchase-romancing-saga-minstrel-song-remaster",
+			"name": "Pre-purchase Romancing SaGa - Minstrel Song- Remastered",
+			"id": 887670
+		},
+		{
+			"slug": "prince-of-persia-the-lost-crown",
+			"name": "Prince of Persia: The Lost Crown",
+			"id": 962011
+		},
+		{
+			"slug": "prince-of-persia-the-sands-of-time-remake",
+			"name": "Prince of Persia: The Sands of Time Remake",
+			"id": 490430
+		},
+		{
+			"slug": "prodeus",
+			"name": "Prodeus",
+			"id": 268363
+		},
+		{
+			"slug": "project-007",
+			"name": "Project 007",
+			"id": 520312
+		},
+		{
+			"slug": "project-m-2024",
+			"name": "Project M (2024)",
+			"id": 972779
+		},
+		{
+			"slug": "project-magnum",
+			"name": "Project Magnum",
+			"id": 651210
+		},
+		{
+			"slug": "project-minerva",
+			"name": "Project Minerva",
+			"id": 650641
+		},
+		{
+			"slug": "project-motor-racing",
+			"name": "Project Motor Racing",
+			"id": 1005896
+		},
+		{
+			"slug": "project-echoes-of-the-end",
+			"name": "Project: Echoes of the End",
+			"id": 614972
+		},
+		{
+			"slug": "project-the-perceiver",
+			"name": "Project: The Perceiver",
+			"id": 879562
+		},
+		{
+			"slug": "promenade-2",
+			"name": "Promenade",
+			"id": 977506
+		},
+		{
+			"slug": "ps-remote-play",
+			"name": "PS Remote Play",
+			"id": 989793
+		},
+		{
+			"slug": "psikyo-shooting-collection",
+			"name": "Psikyo Shooting Collection",
+			"id": 545018
+		},
+		{
+			"slug": "pumpkin-jack",
+			"name": "Pumpkin Jack",
+			"id": 72757
+		},
+		{
+			"slug": "pursuit-force",
+			"name": "Pursuit Force",
+			"id": 5361
+		},
+		{
+			"slug": "puyo-puyo-tetris-2",
+			"name": "Puyo Puyo Tetris 2",
+			"id": 484505
+		},
+		{
+			"slug": "quadratank",
+			"name": "Quadratank",
+			"id": 968128
+		},
+		{
+			"slug": "quake",
+			"name": "Quake",
+			"id": 54491
+		},
+		{
+			"slug": "quake-2021",
+			"name": "Quake (2021)",
+			"id": 651298
+		},
+		{
+			"slug": "quake-ii-enhanced-edition",
+			"name": "Quake II: Enhanced Edition",
+			"id": 968497
+		},
+		{
+			"slug": "quantum-error",
+			"name": "Quantum Error",
+			"id": 441739
+		},
+		{
+			"slug": "quick-mafs",
+			"name": "Quick Mafs",
+			"id": 850703
+		},
+		{
+			"slug": "rabisco-2",
+			"name": "Rabisco+",
+			"id": 602364
+		},
+		{
+			"slug": "rage-of-the-dragons",
+			"name": "Rage of the Dragons",
+			"id": 736293
+		},
+		{
+			"slug": "raidou-remastered-the-mystery-of-the-soulless-army",
+			"name": "RAIDOU Remastered: The Mystery of the Soulless Army",
+			"id": 1005296
+		},
+		{
+			"slug": "raincode-2",
+			"name": "Raincode",
+			"id": 850692
+		},
+		{
+			"slug": "ratchet-clank-rift-apart",
+			"name": "Ratchet & Clank: Rift Apart",
+			"id": 727315
+		},
+		{
+			"slug": "ravenswatch",
+			"name": "Ravenswatch",
+			"id": 816303
+		},
+		{
+			"slug": "reanimal",
+			"name": "Reanimal",
+			"id": 988099
+		},
+		{
+			"slug": "recompile",
+			"name": "Recompile",
+			"id": 299615
+		},
+		{
+			"slug": "record-of-lodoss-war-deedlit-in-wonder-labyrinth",
+			"name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
+			"id": 484912
+		},
+		{
+			"slug": "red-dead-online",
+			"name": "Red Dead Online",
+			"id": 404481
+		},
+		{
+			"slug": "redistributed-baldis-web-based-basics-in-educati-2",
+			"name": "Redistributed: Baldi's Web-Based Basics in Education and Learning 1.4.3 Version",
+			"id": 418840
+		},
+		{
+			"slug": "redout-2",
+			"name": "Redout 2",
+			"id": 791639
+		},
+		{
+			"slug": "relayer",
+			"name": "Relayer",
+			"id": 757673
+		},
+		{
+			"slug": "rematch-2025",
+			"name": "REMATCH (2025)",
+			"id": 998669
+		},
+		{
+			"slug": "remnant-2",
+			"name": "Remnant 2",
+			"id": 892898
+		},
+		{
+			"slug": "remnant-2-the-awakened-king",
+			"name": "Remnant 2 - The Awakened King",
+			"id": 975599
+		},
+		{
+			"slug": "remnant-2-the-dark-horizon",
+			"name": "Remnant 2 - The Dark Horizon",
+			"id": 987123
+		},
+		{
+			"slug": "remnant-2-the-forgotten-kingdom",
+			"name": "Remnant 2 - The Forgotten Kingdom",
+			"id": 980064
+		},
+		{
+			"slug": "remnant-ii",
+			"name": "Remnant II",
+			"id": 964000
+		},
+		{
+			"slug": "resident-evil-2-2019",
+			"name": "Resident Evil 2",
+			"id": 58813
+		},
+		{
+			"slug": "resident-evil-3",
+			"name": "Resident Evil 3",
+			"id": 397477
+		},
+		{
+			"slug": "resident-evil-4-2023",
+			"name": "Resident Evil 4",
+			"id": 795632
+		},
+		{
+			"slug": "resident-evil-4-separate-ways",
+			"name": "Resident Evil 4 - Separate Ways",
+			"id": 966589
+		},
+		{
+			"slug": "resident-evil-9-requiem",
+			"name": "Resident Evil 9: Requiem",
+			"id": 1004511
+		},
+		{
+			"slug": "reverse-4",
+			"name": "Resident Evil Re:Verse",
+			"id": 545033
+		},
+		{
+			"slug": "resident-evil-village-shadows-of-rose",
+			"name": "Resident Evil Village - Shadows of Rose",
+			"id": 802434
+		},
+		{
+			"slug": "resident-evil-village-winters-expansion",
+			"name": "Resident Evil Village - Winters’ Expansion",
+			"id": 866399
+		},
+		{
+			"slug": "maiden",
+			"name": "Resident Evil: Maiden (DEMO)",
+			"id": 546461
+		},
+		{
+			"slug": "resident-evil-village",
+			"name": "Resident Evil: Village",
+			"id": 452649
+		},
+		{
+			"slug": "resident-evil-village-vr",
+			"name": "Resident Evil: Village VR",
+			"id": 797880
+		},
+		{
+			"slug": "resonance-a-plague-tale-legacy",
+			"name": "Resonance: A Plague Tale Legacy",
+			"id": 1004520
+		},
+		{
+			"slug": "retrieval-2025",
+			"name": "Retrieval (2025)",
+			"id": 992501
+		},
+		{
+			"slug": "retroarch",
+			"name": "RetroArch",
+			"id": 349617
+		},
+		{
+			"slug": "return-to-monkey-island",
+			"name": "Return to Monkey Island",
+			"id": 762618
+		},
+		{
+			"slug": "returnal",
+			"name": "Returnal",
+			"id": 452639
+		},
+		{
+			"slug": "returnal-ascension",
+			"name": "Returnal: Ascension",
+			"id": 751899
+		},
+		{
+			"slug": "revenant-hill",
+			"name": "Revenant Hill",
+			"id": 961402
+		},
+		{
+			"slug": "reynatis",
+			"name": "REYNATIS",
+			"id": 983719
+		},
+		{
+			"slug": "ride-4",
+			"name": "RIDE 4",
+			"id": 484967
+		},
+		{
+			"slug": "riders-republic",
+			"name": "Riders Republic",
+			"id": 490752
+		},
+		{
+			"slug": "rims-racing",
+			"name": "RiMS Racing",
+			"id": 631946
+		},
+		{
+			"slug": "rise-of-the-ronin",
+			"name": "Rise of the Ronin",
+			"id": 850708
+		},
+		{
+			"slug": "river-city-girls-2",
+			"name": "River City Girls 2",
+			"id": 833438
+		},
+		{
+			"slug": "river-city-girls-zero",
+			"name": "River City Girls Zero",
+			"id": 806967
+		},
+		{
+			"slug": "road-96",
+			"name": "Road 96",
+			"id": 530269
+		},
+		{
+			"slug": "robocop-rogue-city",
+			"name": "RoboCop: Rogue City",
+			"id": 631942
+		},
+		{
+			"slug": "rocket-racing",
+			"name": "Rocket Racing",
+			"id": 975453
+		},
+		{
+			"slug": "rocksmith-2",
+			"name": "Rocksmith+",
+			"id": 616683
+		},
+		{
+			"slug": "roki",
+			"name": "Röki",
+			"id": 326221
+		},
+		{
+			"slug": "roller-champions",
+			"name": "Roller Champions",
+			"id": 327216
+		},
+		{
+			"slug": "rollerdrome",
+			"name": "Rollerdrome",
+			"id": 797882
+		},
+		{
+			"slug": "romancelvania-batchelors-curse",
+			"name": "Romancelvania: BATchelor’s Curse",
+			"id": 545016
+		},
+		{
+			"slug": "romancing-saga-minstrel-song-remastered",
+			"name": "Romancing SaGa - Minstrel Song Remastered",
+			"id": 887836
+		},
+		{
+			"slug": "romancing-saga-2-revenge-of-the-seven",
+			"name": "Romancing SaGa 2: Revenge of the Seven",
+			"id": 991168
+		},
+		{
+			"slug": "ruffy-and-the-riverside",
+			"name": "Ruffy and the Riverside",
+			"id": 955276
+		},
+		{
+			"slug": "rugby-22",
+			"name": "Rugby 22",
+			"id": 631945
+		},
+		{
+			"slug": "rugrats-adventures-in-gameland",
+			"name": "Rugrats: Adventures in Gameland",
+			"id": 988616
+		},
+		{
+			"slug": "rumbleverse",
+			"name": "Rumbleverse",
+			"id": 705698
+		},
+		{
+			"slug": "rustler",
+			"name": "Rustler",
+			"id": 64526
+		},
+		{
+			"slug": "sable",
+			"name": "Sable",
+			"id": 58773
+		},
+		{
+			"slug": "sackboy-a-big-adventure",
+			"name": "Sackboy A Big Adventure",
+			"id": 452641
+		},
+		{
+			"slug": "sackboy-a-big-adventure-2",
+			"name": "Sackboy: A Big Adventure",
+			"id": 499331
+		},
+		{
+			"slug": "sailing-era",
+			"name": "Sailing Era",
+			"id": 907368
+		},
+		{
+			"slug": "saint-kotar",
+			"name": "Saint Kotar",
+			"id": 493454
+		},
+		{
+			"slug": "saints-row-2022",
+			"name": "Saints Row (2022)",
+			"id": 650607
+		},
+		{
+			"slug": "saints-row-the-third-remastered",
+			"name": "Saints Row: The Third Remastered",
+			"id": 426096
+		},
+		{
+			"slug": "sakura-succubus",
+			"name": "Sakura Succubus",
+			"id": 428052
+		},
+		{
+			"slug": "sakura-succubus-4",
+			"name": "Sakura Succubus 4",
+			"id": 566567
+		},
+		{
+			"slug": "salamander-county-public-television",
+			"name": "Salamander County Public Television",
+			"id": 916467
+		},
+		{
+			"slug": "sally-face",
+			"name": "Sally Face",
+			"id": 14200
+		},
+		{
+			"slug": "salt-sacrifice",
+			"name": "Salt and Sacrifice",
+			"id": 614966
+		},
+		{
+			"slug": "sam-max-the-devils-playhouse-remastered",
+			"name": "Sam & Max: The Devil's Playhouse - Remastered",
+			"id": 990861
+		},
+		{
+			"slug": "sand-land",
+			"name": "Sand Land",
+			"id": 977212
+		},
+		{
+			"slug": "saros",
+			"name": "Saros",
+			"id": 997551
+		},
+		{
+			"slug": "saturnalia-2",
+			"name": "Saturnalia",
+			"id": 795375
+		},
+		{
+			"slug": "sbk-22",
+			"name": "SBK 22",
+			"id": 850817
+		},
+		{
+			"slug": "scarlet-nexus",
+			"name": "Scarlet Nexus",
+			"id": 440086
+		},
+		{
+			"slug": "scars-above",
+			"name": "Scars Above",
+			"id": 614973
+		},
+		{
+			"slug": "scathe",
+			"name": "Scathe",
+			"id": 375284
+		},
+		{
+			"slug": "schim",
+			"name": "Schim",
+			"id": 813547
+		},
+		{
+			"slug": "sd-gundam-battle-alliance",
+			"name": "SD GUNDAM BATTLE ALLIANCE",
+			"id": 736277
+		},
+		{
+			"slug": "sea-of-stars-2",
+			"name": "Sea of Stars",
+			"id": 427490
+		},
+		{
+			"slug": "sea-of-thieves",
+			"name": "Sea of Thieves",
+			"id": 50781
+		},
+		{
+			"slug": "season",
+			"name": "Season",
+			"id": 530496
+		},
+		{
+			"slug": "season-a-letter-to-the-future",
+			"name": "Season: A Letter to the Future",
+			"id": 797883
+		},
+		{
+			"slug": "seed-of-life",
+			"name": "Seed of Life",
+			"id": 307193
+		},
+		{
+			"slug": "selfloss",
+			"name": "Selfloss",
+			"id": 319194
+		},
+		{
+			"slug": "senses-midnight",
+			"name": "SENSEs: Midnight",
+			"id": 812169
+		},
+		{
+			"slug": "session-skate-sim",
+			"name": "Session: Skate Sim",
+			"id": 854739
+		},
+		{
+			"slug": "shadow-gambit-the-cursed-crew",
+			"name": "Shadow Gambit: The Cursed Crew",
+			"id": 914783
+		},
+		{
+			"slug": "shadow-warrior-3",
+			"name": "Shadow Warrior 3",
+			"id": 462677
+		},
+		{
+			"slug": "shadows-of-the-damned-hella-remastered",
+			"name": "Shadows of the Damned: Hella Remastered",
+			"id": 978863
+		},
+		{
+			"slug": "shanghai-summer",
+			"name": "Shanghai Summer",
+			"id": 978688
+		},
+		{
+			"slug": "sherlock-holmes-the-awakened-2",
+			"name": "Sherlock Holmes The Awakened",
+			"id": 830271
+		},
+		{
+			"slug": "sherlock-holmes-chapter-one",
+			"name": "Sherlock Holmes: Chapter One",
+			"id": 447825
+		},
+		{
+			"slug": "shin-megami-tensei-v",
+			"name": "Shin Megami Tensei V: Vengeance",
+			"id": 257242
+		},
+		{
+			"slug": "shin-megami-tensei-v-vengeance",
+			"name": "Shin Megami Tensei V: Vengeance Digital Deluxe Edition",
+			"id": 983580
+		},
+		{
+			"slug": "shinobi-art-of-vengeance",
+			"name": "SHINOBI: Art of Vengeance",
+			"id": 998671
+		},
+		{
+			"slug": "ship-of-fools-2",
+			"name": "Ship of Fools",
+			"id": 861281
+		},
+		{
+			"slug": "shred-tear-explosive-kajun",
+			"name": "Shred & Tear: Explosive Kajun",
+			"id": 911413
+		},
+		{
+			"slug": "shujinkou",
+			"name": "Shujinkou",
+			"id": 995907
+		},
+		{
+			"slug": "shuyan-saga",
+			"name": "Shuyan Saga",
+			"id": 45245
+		},
+		{
+			"slug": "sid-meiers-civilization-vii",
+			"name": "Sid Meier’s Civilization VII",
+			"id": 983201
+		},
+		{
+			"slug": "sifu",
+			"name": "Sifu",
+			"id": 564757
+		},
+		{
+			"slug": "silent-hill-2-remake",
+			"name": "Silent Hill 2",
+			"id": 868086
+		},
+		{
+			"slug": "silent-hill-the-short-message",
+			"name": "Silent Hill: The Short Message",
+			"id": 976007
+		},
+		{
+			"slug": "silt",
+			"name": "Silt",
+			"id": 650620
+		},
+		{
+			"slug": "six-days-in-fallujah-2",
+			"name": "Six Days in Fallujah",
+			"id": 650594
+		},
+		{
+			"slug": "skate-city",
+			"name": "Skate City",
+			"id": 376107
+		},
+		{
+			"slug": "skull-bones",
+			"name": "Skull & Bones",
+			"id": 29239
+		},
+		{
+			"slug": "skull-island-rise-of-kong",
+			"name": "Skull Island: Rise of Kong",
+			"id": 967981
+		},
+		{
+			"slug": "slave-zero-x-episode-enyo",
+			"name": "Slave Zero X: Episode Enyo",
+			"id": 975837
+		},
+		{
+			"slug": "slaycation-paradise",
+			"name": "Slaycation Paradise",
+			"id": 828467
+		},
+		{
+			"slug": "slipstream",
+			"name": "Slipstream",
+			"id": 49382
+		},
+		{
+			"slug": "slitterhead-2",
+			"name": "Slitterhead",
+			"id": 705347
+		},
+		{
+			"slug": "sly-2-band-of-thieves",
+			"name": "Sly 2: Band of Thieves",
+			"id": 4531
+		},
+		{
+			"slug": "sly-3-honor-among-thieves",
+			"name": "Sly 3: Honor Among Thieves",
+			"id": 4532
+		},
+		{
+			"slug": "sniper-elite-4",
+			"name": "Sniper Elite 4",
+			"id": 382
+		},
+		{
+			"slug": "sniper-elite-5",
+			"name": "Sniper Elite 5",
+			"id": 707256
+		},
+		{
+			"slug": "sniper-elite-resistance",
+			"name": "Sniper Elite: Resistance",
+			"id": 992499
+		},
+		{
+			"slug": "snowrunner",
+			"name": "SnowRunner",
+			"id": 368952
+		},
+		{
+			"slug": "solar-ash-kingdom",
+			"name": "Solar Ash",
+			"id": 301514
+		},
+		{
+			"slug": "somerville",
+			"name": "Somerville",
+			"id": 332787
+		},
+		{
+			"slug": "song-of-nunu-a-league-of-legends-story",
+			"name": "Song of Nunu: A League of Legends Story",
+			"id": 695800
+		},
+		{
+			"slug": "sonic-frontiers",
+			"name": "Sonic Frontiers",
+			"id": 704789
+		},
+		{
+			"slug": "sonic-origins",
+			"name": "Sonic Origins",
+			"id": 772537
+		},
+		{
+			"slug": "sonic-superstars",
+			"name": "Sonic Superstars",
+			"id": 961859
+		},
+		{
+			"slug": "sonic-x-shadow-generations",
+			"name": "Sonic X Shadow Generations",
+			"id": 976015
+		},
+		{
+			"slug": "soul-hackers-2",
+			"name": "Soul Hackers 2",
+			"id": 743389
+		},
+		{
+			"slug": "souldiers",
+			"name": "Souldiers",
+			"id": 721077
+		},
+		{
+			"slug": "soulstice-2",
+			"name": "Soulstice",
+			"id": 619867
+		},
+		{
+			"slug": "soundfall",
+			"name": "Soundfall",
+			"id": 303579
+		},
+		{
+			"slug": "south-of-the-circle",
+			"name": "South of the Circle",
+			"id": 530503
+		},
+		{
+			"slug": "space-prison-2023",
+			"name": "Space prison (2023)",
+			"id": 951967
+		},
+		{
+			"slug": "space-punks",
+			"name": "Space Punks",
+			"id": 700672
+		},
+		{
+			"slug": "spine",
+			"name": "Spine",
+			"id": 902903
+		},
+		{
+			"slug": "spirit-of-the-north",
+			"name": "Spirit of the North",
+			"id": 388383
+		},
+		{
+			"slug": "spirit-of-the-north-2",
+			"name": "Spirit of the North 2",
+			"id": 968498
+		},
+		{
+			"slug": "split-fiction",
+			"name": "Split Fiction",
+			"id": 994603
+		},
+		{
+			"slug": "splitgate",
+			"name": "Splitgate",
+			"id": 637477
+		},
+		{
+			"slug": "squadron-51",
+			"name": "Squadron 51",
+			"id": 650623
+		},
+		{
+			"slug": "star-ocean-the-divine-force-2",
+			"name": "STAR OCEAN THE DIVINE FORCE",
+			"id": 871283
+		},
+		{
+			"slug": "star-ocean-the-divine-force",
+			"name": "Star Ocean: The Divine Force",
+			"id": 854347
+		},
+		{
+			"slug": "star-ocean-the-second-story-r",
+			"name": "Star Ocean: The Second Story R",
+			"id": 962674
+		},
+		{
+			"slug": "star-trek-resurgence",
+			"name": "Star Trek: Resurgence",
+			"id": 705680
+		},
+		{
+			"slug": "jedi-the-fallen-order",
+			"name": "Star Wars Jedi: Fallen Order",
+			"id": 257201
+		},
+		{
+			"slug": "star-wars-jedi-survivor",
+			"name": "Star Wars Jedi: Survivor",
+			"id": 793647
+		},
+		{
+			"slug": "star-wars-outlaws",
+			"name": "Star Wars Outlaws",
+			"id": 962020
+		},
+		{
+			"slug": "star-wars-zero-company",
+			"name": "Star Wars Zero Company",
+			"id": 1002691
+		},
+		{
+			"slug": "star-wars-knights-of-the-old-republic-remake",
+			"name": "Star Wars: Knights of the Old Republic Remake",
+			"id": 662317
+		},
+		{
+			"slug": "star-wars-republic-commando-2",
+			"name": "Star Wars: Republic Commando",
+			"id": 35561
+		},
+		{
+			"slug": "star-wars-tales-from-the-galaxy-edge-enhanced-edit",
+			"name": "Star Wars: Tales from the Galaxy Edge — Enhanced Edition",
+			"id": 850706
+		},
+		{
+			"slug": "starseeker-astroneer-expeditions",
+			"name": "Starseeker: Astroneer Expeditions",
+			"id": 1000572
+		},
+		{
+			"slug": "steel-seed",
+			"name": "Steel Seed",
+			"id": 917755
+		},
+		{
+			"slug": "steelrising",
+			"name": "Steelrising",
+			"id": 462688
+		},
+		{
+			"slug": "project-eve-tba",
+			"name": "Stellar Blade",
+			"id": 476122
+		},
+		{
+			"slug": "still-wakes-the-deep",
+			"name": "Still Wakes the Deep",
+			"id": 982603
+		},
+		{
+			"slug": "still-wakes-the-deep-sirens-rest",
+			"name": "Still Wakes the Deep: Siren’s Rest",
+			"id": 1004991
+		},
+		{
+			"slug": "stonefly",
+			"name": "Stonefly",
+			"id": 607352
+		},
+		{
+			"slug": "stranded-alien-dawn",
+			"name": "Stranded: Alien Dawn",
+			"id": 840782
+		},
+		{
+			"slug": "stranger-of-paradise-final-fantasy-origin",
+			"name": "Stranger of Paradise: Final Fantasy Origin",
+			"id": 619344
+		},
+		{
+			"slug": "stray-2",
+			"name": "Stray",
+			"id": 452638
+		},
+		{
+			"slug": "stray-blade",
+			"name": "Stray Blade",
+			"id": 650603
+		},
+		{
+			"slug": "stray-gods-the-roleplaying-musical",
+			"name": "Stray Gods: The Roleplaying Musical",
+			"id": 962024
+		},
+		{
+			"slug": "stray-souls-2",
+			"name": "Stray Souls",
+			"id": 949992
+		},
+		{
+			"slug": "street-fighter-6",
+			"name": "Street Fighter 6",
+			"id": 742771
+		},
+		{
+			"slug": "stryaling-2024",
+			"name": "STRYALING (2024)",
+			"id": 917753
+		},
+		{
+			"slug": "styx-blades-of-greed",
+			"name": "Styx: Blades of Greed",
+			"id": 1006936
+		},
+		{
+			"slug": "submerged-hidden-depths",
+			"name": "Submerged: Hidden Depths",
+			"id": 769960
+		},
+		{
+			"slug": "subnautica",
+			"name": "Subnautica",
+			"id": 10419
+		},
+		{
+			"slug": "subnautica-below-zero",
+			"name": "Subnautica: Below Zero",
+			"id": 287342
+		},
+		{
+			"slug": "suicide-squad-kill-the-justice-league",
+			"name": "Suicide Squad: Kill The Justice League",
+			"id": 457728
+		},
+		{
+			"slug": "sumatra-fate-of-yandi",
+			"name": "Sumatra: Fate of Yandi",
+			"id": 243185
+		},
+		{
+			"slug": "summertime-madness",
+			"name": "Summertime Madness",
+			"id": 491420
+		},
+		{
+			"slug": "super-animal-royale",
+			"name": "Super Animal Royale",
+			"id": 236804
+		},
+		{
+			"slug": "super-bomba-patch",
+			"name": "Super Bomba Patch",
+			"id": 736292
+		},
+		{
+			"slug": "super-chicken-jumper",
+			"name": "SUPER CHICKEN JUMPER",
+			"id": 669374
+		},
+		{
+			"slug": "super-monkey-ball-banana-mania",
+			"name": "Super Monkey Ball: Banana Mania",
+			"id": 622493
+		},
+		{
+			"slug": "super-perils-of-baking",
+			"name": "Super Perils of Baking",
+			"id": 797905
+		},
+		{
+			"slug": "super-stardust-portable",
+			"name": "Super Stardust Portable",
+			"id": 5368
+		},
+		{
+			"slug": "sword-of-the-sea",
+			"name": "Sword of the Sea",
+			"id": 961195
+		},
+		{
+			"slug": "syberia-remastered",
+			"name": "Syberia - Remastered",
+			"id": 1003663
+		},
+		{
+			"slug": "syberia-the-world-before",
+			"name": "Syberia: The World Before",
+			"id": 366843
+		},
+		{
+			"slug": "synapse-2",
+			"name": "Synapse",
+			"id": 961407
+		},
+		{
+			"slug": "synduality",
+			"name": "Synduality",
+			"id": 850707
+		},
+		{
+			"slug": "synesthesia-2",
+			"name": "SYNESTHESIA",
+			"id": 962571
+		},
+		{
+			"slug": "synth-riders",
+			"name": "Synth Riders",
+			"id": 60894
+		},
+		{
+			"slug": "syphon-filter",
+			"name": "Syphon Filter",
+			"id": 5501
+		},
+		{
+			"slug": "syphon-filter-2",
+			"name": "Syphon Filter 2",
+			"id": 5343
+		},
+		{
+			"slug": "system-shock",
+			"name": "System Shock",
+			"id": 15272
+		},
+		{
+			"slug": "tactics-ogre-let-us-cling-together",
+			"name": "Tactics Ogre: Let Us Cling Together",
+			"id": 4791
+		},
+		{
+			"slug": "tactics-ogre-reborn",
+			"name": "Tactics Ogre: Reborn",
+			"id": 852720
+		},
+		{
+			"slug": "tails-of-iron",
+			"name": "Tails of Iron",
+			"id": 300689
+		},
+		{
+			"slug": "tails-of-iron-2-whiskers-of-winter",
+			"name": "Tails of Iron 2: Whiskers of Winter",
+			"id": 992983
+		},
+		{
+			"slug": "tales-of-arise",
+			"name": "Tales of Arise",
+			"id": 326244
+		},
+		{
+			"slug": "lord-of-the-rings-the-white-council",
+			"name": "Tales of the Shire: A The Lord of The Rings",
+			"id": 334622
+		},
+		{
+			"slug": "tchia",
+			"name": "Tchia",
+			"id": 530345
+		},
+		{
+			"slug": "teacup-2",
+			"name": "Teacup",
+			"id": 667756
+		},
+		{
+			"slug": "teardown-2",
+			"name": "Teardown",
+			"id": 378579
+		},
+		{
+			"slug": "teenage-mutant-ninja-turtles-shredders-revenge",
+			"name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+			"id": 570074
+		},
+		{
+			"slug": "teenage-mutant-ninja-turtles-shredders-revenge-dim",
+			"name": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock",
+			"id": 965930
+		},
+		{
+			"slug": "teenage-mutant-ninja-turtles-the-cowabunga-collect",
+			"name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+			"id": 815120
+		},
+		{
+			"slug": "teenage-mutant-ninja-turtles-the-last-ronin",
+			"name": "Teenage Mutant Ninja Turtles: The Last Ronin",
+			"id": 974244
+		},
+		{
+			"slug": "tekken-8",
+			"name": "Tekken 8",
+			"id": 850705
+		},
+		{
+			"slug": "temtem",
+			"name": "Temtem",
+			"id": 59883
+		},
+		{
+			"slug": "terminator-resistance",
+			"name": "Terminator: Resistance",
+			"id": 377011
+		},
+		{
+			"slug": "tesla-force",
+			"name": "Tesla Force",
+			"id": 493464
+		},
+		{
+			"slug": "teslagrad-2",
+			"name": "Teslagrad 2",
+			"id": 857613
+		},
+		{
+			"slug": "test-drive-unlimited-solar-crown",
+			"name": "Test Drive Unlimited Solar Crown",
+			"id": 462686
+		},
+		{
+			"slug": "the-alters",
+			"name": "The Alters",
+			"id": 801122
+		},
+		{
+			"slug": "the-artful-escape",
+			"name": "The Artful Escape",
+			"id": 275606
+		},
+		{
+			"slug": "the-ascent-2",
+			"name": "The Ascent",
+			"id": 441738
+		},
+		{
+			"slug": "the-binding-of-isaac-repentance",
+			"name": "The Binding of Isaac: Repentance",
+			"id": 536886
+		},
+		{
+			"slug": "the-blood-of-dawnwalker",
+			"name": "The Blood Of Dawnwalker",
+			"id": 996046
+		},
+		{
+			"slug": "the-bookwalker",
+			"name": "The Bookwalker: Thief of Tales",
+			"id": 962108
+		},
+		{
+			"slug": "the-bridge-curse-road-to-salvation",
+			"name": "The Bridge Curse : Road to Salvation",
+			"id": 840800
+		},
+		{
+			"slug": "the-bridge-curse-2-the-extrication",
+			"name": "The Bridge Curse 2: The Extrication",
+			"id": 979307
+		},
+		{
+			"slug": "the-calisto-protocol",
+			"name": "The Callisto Protocol",
+			"id": 529698
+		},
+		{
+			"slug": "the-callisto-protocol-final-transmission",
+			"name": "The Callisto Protocol: Final Transmission",
+			"id": 962383
+		},
+		{
+			"slug": "the-casting-of-frank-stone",
+			"name": "The Casting of Frank Stone",
+			"id": 973375
+		},
+		{
+			"slug": "the-centennial-case-a-shijima-story",
+			"name": "The Centennial Case: A Shijima Story",
+			"id": 783874
+		},
+		{
+			"slug": "the-chant",
+			"name": "The Chant",
+			"id": 614970
+		},
+		{
+			"slug": "the-courier-pm-studios",
+			"name": "The Courier [PM Studios]",
+			"id": 979384
+		},
+		{
+			"slug": "the-crew-motorfest",
+			"name": "The Crew: Motorfest",
+			"id": 917742
+		},
+		{
+			"slug": "the-crown-of-wu",
+			"name": "The Crown of Wu",
+			"id": 783729
+		},
+		{
+			"slug": "the-dark-eye-chains-of-satinav",
+			"name": "The Dark Eye: Chains of Satinav",
+			"id": 16252
+		},
+		{
+			"slug": "the-dark-eye-memoria",
+			"name": "The Dark Eye: Memoria",
+			"id": 540108
+		},
+		{
+			"slug": "the-dark-pictures-anthology-house-of-ashes",
+			"name": "The Dark Pictures Anthology: House of Ashes",
+			"id": 514896
+		},
+		{
+			"slug": "the-dark-pictures-anthology-triple-pack",
+			"name": "The Dark Pictures Anthology: Season One",
+			"id": 683248
+		},
+		{
+			"slug": "the-dark-pictures-anthology-the-devil-in-me",
+			"name": "The Dark Pictures Anthology: The Devil In Me",
+			"id": 682502
+		},
+		{
+			"slug": "the-dark-pictures-switchback-vr",
+			"name": "The Dark Pictures: Switchback",
+			"id": 914780
+		},
+		{
+			"slug": "the-darkside-detective-a-fumble-in-the-dark",
+			"name": "The Darkside Detective: A Fumble in the Dark",
+			"id": 518659
+		},
+		{
+			"slug": "the-day-before-2",
+			"name": "The Day Before",
+			"id": 681395
+		},
+		{
+			"slug": "the-diofield-chronicle",
+			"name": "The DioField Chronicle",
+			"id": 751901
+		},
+		{
+			"slug": "the-elder-scrolls-iv-oblivion-remastered",
+			"name": "The Elder Scrolls IV: Oblivion Remastered",
+			"id": 1001843
+		},
+		{
+			"slug": "the-elder-scrolls-online-necrom",
+			"name": "The Elder Scrolls Online: Necrom",
+			"id": 914791
+		},
+		{
+			"slug": "the-elder-scrolls-v-skyrim",
+			"name": "The Elder Scrolls V: Skyrim",
+			"id": 5679
+		},
+		{
+			"slug": "the-elder-scrolls-v-skyrim-anniversary-edition",
+			"name": "The Elder Scrolls V: Skyrim Anniversary Edition",
+			"id": 684908
+		},
+		{
+			"slug": "the-entropy-centre",
+			"name": "The Entropy Centre",
+			"id": 836798
+		},
+		{
+			"slug": "the-eternal-cylinder",
+			"name": "The Eternal Cylinder",
+			"id": 364811
+		},
+		{
+			"slug": "the-expanse-a-telltale-series",
+			"name": "The Expanse: A Telltale Series",
+			"id": 704793
+		},
+		{
+			"slug": "the-expanse-osiris-reborn",
+			"name": "The Expanse: Osiris Reborn",
+			"id": 1004517
+		},
+		{
+			"slug": "the-falconeer-warrior-edition",
+			"name": "The Falconeer: Warrior Edition",
+			"id": 638651
+		},
+		{
+			"slug": "the-finals",
+			"name": "The Finals",
+			"id": 840788
+		},
+		{
+			"slug": "the-first-berserker-khazan",
+			"name": "The First Berserker: Khazan",
+			"id": 973380
+		},
+		{
+			"slug": "the-first-descendant",
+			"name": "The First Descendant",
+			"id": 816311
+		},
+		{
+			"slug": "the-forest-cathedral",
+			"name": "The Forest Cathedral",
+			"id": 830070
+		},
+		{
+			"slug": "forgotten-city",
+			"name": "The Forgotten City",
+			"id": 58809
+		},
+		{
+			"slug": "the-gardens-between",
+			"name": "The Gardens Between",
+			"id": 13172
+		},
+		{
+			"slug": "the-hand-of-merlin",
+			"name": "The Hand of Merlin",
+			"id": 62883
+		},
+		{
+			"slug": "the-invincible",
+			"name": "The Invincible",
+			"id": 494379
+		},
+		{
+			"slug": "the-jackbox-party-pack-9",
+			"name": "The Jackbox Party Pack 9",
+			"id": 868095
+		},
+		{
+			"slug": "the-jackbox-party-starter",
+			"name": "The Jackbox Party Starter",
+			"id": 969255
+		},
+		{
+			"slug": "the-king-of-fighters-xv",
+			"name": "The King of Fighters XV",
+			"id": 647549
+		},
+		{
+			"slug": "the-knight-witch",
+			"name": "The Knight Witch",
+			"id": 864914
+		},
+		{
+			"slug": "the-last-clockwinder",
+			"name": "The Last Clockwinder",
+			"id": 795389
+		},
+		{
+			"slug": "the-last-of-us-part-i",
+			"name": "The Last of Us Part I",
+			"id": 799265
+		},
+		{
+			"slug": "the-last-of-us-part-2",
+			"name": "The Last of Us Part II",
+			"id": 51325
+		},
+		{
+			"slug": "the-last-of-us-part-ii-remastered",
+			"name": "The Last of Us Part II Remastered",
+			"id": 972403
+		},
+		{
+			"slug": "the-last-oricru",
+			"name": "The Last Oricru",
+			"id": 614971
+		},
+		{
+			"slug": "the-last-sentinel-2024",
+			"name": "The Last Sentinel (2024)",
+			"id": 973383
+		},
+		{
+			"slug": "the-last-spell",
+			"name": "The Last Spell",
+			"id": 362880
+		},
+		{
+			"slug": "the-last-stand-aftermath",
+			"name": "The Last Stand: Aftermath",
+			"id": 537742
+		},
+		{
+			"slug": "the-legend-of-heroes-trails-in-the-dark",
+			"name": "The Legend of Heroes: Trails in the Dark",
+			"id": 826739
+		},
+		{
+			"slug": "the-legend-of-heroes-trails-into-reverie",
+			"name": "The Legend of Heroes: Trails into Reverie",
+			"id": 651274
+		},
+		{
+			"slug": "the-legend-of-heroes-trails-of-cold-steel-iii",
+			"name": "The Legend of Heroes: Trails of Cold Steel III",
+			"id": 395971
+		},
+		{
+			"slug": "the-lord-of-the-rings-gollum",
+			"name": "The Lord of the Rings: Gollum",
+			"id": 438620
+		},
+		{
+			"slug": "the-lord-of-the-rings-return-to-moria",
+			"name": "The Lord of the Rings: Return to Moria",
+			"id": 865101
+		},
+		{
+			"slug": "the-matrix-awakens",
+			"name": "The Matrix Awakens",
+			"id": 704811
+		},
+		{
+			"slug": "medium",
+			"name": "The Medium",
+			"id": 440081
+		},
+		{
+			"slug": "the-nioh-collection",
+			"name": "The Nioh Collection",
+			"id": 528650
+		},
+		{
+			"slug": "the-outer-worlds-spacers-choice-edition",
+			"name": "The Outer Worlds: Spacer's Choice Edition",
+			"id": 934079
+		},
+		{
+			"slug": "the-outlast-trials",
+			"name": "The Outlast Trials",
+			"id": 485138
+		},
+		{
+			"slug": "the-pathless",
+			"name": "The Pathless",
+			"id": 274766
+		},
+		{
+			"slug": "the-pedestrian",
+			"name": "The Pedestrian",
+			"id": 15730
+		},
+		{
+			"slug": "the-plane-effect",
+			"name": "The Plane Effect",
+			"id": 640253
+		},
+		{
+			"slug": "the-plucky-squire",
+			"name": "The Plucky Squire",
+			"id": 804851
+		},
+		{
+			"slug": "the-quarry-3",
+			"name": "The Quarry",
+			"id": 754888
+		},
+		{
+			"slug": "the-rise-of-the-golden-idol",
+			"name": "The Rise of the Golden Idol",
+			"id": 973398
+		},
+		{
+			"slug": "the-rumble-fish-2",
+			"name": "The Rumble Fish 2",
+			"id": 756546
+		},
+		{
+			"slug": "the-settlers-alliance",
+			"name": "The Settlers - New Allies",
+			"id": 59349
+		},
+		{
+			"slug": "the-signal-from-tolva-itch",
+			"name": "The Signal From Tolva",
+			"id": 91958
+		},
+		{
+			"slug": "sinking-city",
+			"name": "The Sinking City",
+			"id": 58811
+		},
+		{
+			"slug": "the-sinking-city-2-2",
+			"name": "The Sinking City  2",
+			"id": 979038
+		},
+		{
+			"slug": "the-smurfs-mission-vileaf",
+			"name": "The Smurfs - Mission Vileaf",
+			"id": 651264
+		},
+		{
+			"slug": "the-smurfs-travel-the-world",
+			"name": "The Smurfs Travel the World",
+			"id": 616678
+		},
+		{
+			"slug": "the-stanley-parable-ultra-deluxe",
+			"name": "The Stanley Parable: Ultra Deluxe",
+			"id": 274758
+		},
+		{
+			"slug": "talos-principle-2",
+			"name": "The Talos Principle 2",
+			"id": 961200
+		},
+		{
+			"slug": "the-texas-chain-saw-massacre",
+			"name": "The Texas Chain Saw Massacre",
+			"id": 705194
+		},
+		{
+			"slug": "the-thing-remastered",
+			"name": "The Thing: Remastered",
+			"id": 983332
+		},
+		{
+			"slug": "the-tomorrow-children-phoenix-edition",
+			"name": "The Tomorrow Children: Phoenix Edition",
+			"id": 815118
+		},
+		{
+			"slug": "the-touryst",
+			"name": "The Touryst",
+			"id": 366852
+		},
+		{
+			"slug": "the-walking-dead-destinies",
+			"name": "The Walking Dead: Destinies",
+			"id": 964931
+		},
+		{
+			"slug": "the-walking-dead-saints-sinners",
+			"name": "The Walking Dead: Saints & Sinners",
+			"id": 379453
+		},
+		{
+			"slug": "the-walking-dead-saints-sinners-chapter-2-retribut",
+			"name": "The Walking Dead: Saints & Sinners Chapter 2 Retribution",
+			"id": 797881
+		},
+		{
+			"slug": "the-witcher-4",
+			"name": "The Witcher (A New Saga Begins)",
+			"id": 758455
+		},
+		{
+			"slug": "the-witcher-3-game-of-the-year",
+			"name": "The Witcher 3 Wild Hunt - Complete Edition",
+			"id": 257255
+		},
+		{
+			"slug": "the-witcher-3-wild-hunt",
+			"name": "The Witcher 3: Wild Hunt",
+			"id": 3328
+		},
+		{
+			"slug": "the-witcher-remake",
+			"name": "The Witcher: Remake",
+			"id": 871152
+		},
+		{
+			"slug": "wolf-among-us-2",
+			"name": "The Wolf Among Us 2",
+			"id": 51432
+		},
+		{
+			"slug": "thems-fightin-herds",
+			"name": "Them's Fightin' Herds",
+			"id": 52337
+		},
+		{
+			"slug": "thirsty-suitors",
+			"name": "Thirsty Suitors",
+			"id": 830030
+		},
+		{
+			"slug": "thunderflash",
+			"name": "Thunderflash",
+			"id": 563428
+		},
+		{
+			"slug": "thymesia",
+			"name": "Thymesia",
+			"id": 578182
+		},
+		{
+			"slug": "tides-of-annihilation",
+			"name": "Tides of Annihilation",
+			"id": 997550
+		},
+		{
+			"slug": "time-of-war-arkano90",
+			"name": "Time Of War, Arkano'90",
+			"id": 976751
+		},
+		{
+			"slug": "time-on-frog-island",
+			"name": "Time on Frog Island",
+			"id": 810296
+		},
+		{
+			"slug": "tintin-reporter-cigars-of-the-pharaoh",
+			"name": "Tintin Reporter - Cigars of the Pharaoh",
+			"id": 840774
+		},
+		{
+			"slug": "tiny-tinas-wonderlands",
+			"name": "Tiny Tina's Wonderlands",
+			"id": 614962
+		},
+		{
+			"slug": "tinykin",
+			"name": "Tinykin",
+			"id": 619533
+		},
+		{
+			"slug": "titan-quest-2",
+			"name": "Titan Quest 2",
+			"id": 469645
+		},
+		{
+			"slug": "toem",
+			"name": "TOEM",
+			"id": 482920
+		},
+		{
+			"slug": "tom-clancys-ghost-recon-frontline",
+			"name": "Tom Clancy's Ghost Recon Frontline",
+			"id": 674192
+		},
+		{
+			"slug": "tom-clancys-rainbow-six-quarantine",
+			"name": "Tom Clancy’s Rainbow Six Extraction",
+			"id": 616762
+		},
+		{
+			"slug": "tom-clancys-rainbow-six-siege-2",
+			"name": "Tom Clancy's Rainbow Six Siege",
+			"id": 8488
+		},
+		{
+			"slug": "tom-clancys-splinter-cell-remake",
+			"name": "Tom Clancy's Splinter Cell Remake",
+			"id": 711020
+		},
+		{
+			"slug": "tom-clancys-the-division-heartland",
+			"name": "Tom Clancy’s The Division: Heartland",
+			"id": 871147
+		},
+		{
+			"slug": "tomb-raider-i-vi-remastered",
+			"name": "Tomb Raider I-VI Remastered",
+			"id": 998261
+		},
+		{
+			"slug": "tomb-raider-i-iii-remastered",
+			"name": "Tomb Raider I•II•III Remastered",
+			"id": 966221
+		},
+		{
+			"slug": "tomb-raider-iv-vi-remastered",
+			"name": "Tomb Raider IV•V•VI Remastered",
+			"id": 990490
+		},
+		{
+			"slug": "tonari-ni-kanojo-no-iru-shiawase-curious-queen",
+			"name": "Tonari ni Kanojo no Iru Shiawase ~Curious Queen~",
+			"id": 520301
+		},
+		{
+			"slug": "tony-hawks-pro-skater-12",
+			"name": "Tony Hawk's Pro Skater 1 + 2",
+			"id": 442847
+		},
+		{
+			"slug": "tony-hawks-pro-skater-3-4",
+			"name": "Tony Hawk's Pro Skater 3 + 4",
+			"id": 998678
+		},
+		{
+			"slug": "tormented-souls",
+			"name": "Tormented Souls",
+			"id": 485218
+		},
+		{
+			"slug": "tormented-souls-2",
+			"name": "Tormented Souls 2",
+			"id": 965411
+		},
+		{
+			"slug": "towers-of-aghasba",
+			"name": "Towers of Aghasba",
+			"id": 961401
+		},
+		{
+			"slug": "trackmania-2020",
+			"name": "TrackMania (2020)",
+			"id": 426098
+		},
+		{
+			"slug": "trails-and-traces-the-tomb-of-thomas-tew",
+			"name": "Trails and Traces: The Tomb of Thomas Tew",
+			"id": 589202
+		},
+		{
+			"slug": "trails-in-the-sky-1st-chapter",
+			"name": "Trails in the Sky 1st Chapter",
+			"id": 999295
+		},
+		{
+			"slug": "treasures-of-the-aegean",
+			"name": "Treasures of the Aegean",
+			"id": 681397
+		},
+		{
+			"slug": "trek-to-yomi",
+			"name": "Trek to Yomi",
+			"id": 616679
+		},
+		{
+			"slug": "tribes-of-midgard",
+			"name": "Tribes of Midgard",
+			"id": 350505
+		},
+		{
+			"slug": "trifox",
+			"name": "Trifox",
+			"id": 428685
+		},
+		{
+			"slug": "trinity-trigger",
+			"name": "Trinity Trigger",
+			"id": 850700
+		},
+		{
+			"slug": "tt-isle-of-man-ride-on-the-edge-3",
+			"name": "TT Isle Of Man: Ride on the Edge 3",
+			"id": 952129
+		},
+		{
+			"slug": "tunic",
+			"name": "Tunic",
+			"id": 29236
+		},
+		{
+			"slug": "12-minutes-2",
+			"name": "Twelve Minutes",
+			"id": 327260
+		},
+		{
+			"slug": "two-point-campus",
+			"name": "Two Point Campus",
+			"id": 614967
+		},
+		{
+			"slug": "ufc-5",
+			"name": "UFC 5",
+			"id": 972043
+		},
+		{
+			"slug": "ufo-robot-grendizer-the-feast-of-the-wolves",
+			"name": "UFO Robot Grendizer - The Feast of the Wolves",
+			"id": 930977
+		},
+		{
+			"slug": "ultragoodness-2",
+			"name": "UltraGoodness 2",
+			"id": 364864
+		},
+		{
+			"slug": "ultros",
+			"name": "Ultros",
+			"id": 961403
+		},
+		{
+			"slug": "unbound-worlds-apart",
+			"name": "Unbound: Worlds Apart",
+			"id": 65303
+		},
+		{
+			"slug": "uncharted-4-a-thiefs-end",
+			"name": "Uncharted 4: A Thief’s End",
+			"id": 2462
+		},
+		{
+			"slug": "uncharted-legacy-of-thieves-collection",
+			"name": "Uncharted: Legacy of Thieves Collection",
+			"id": 704634
+		},
+		{
+			"slug": "uncharted-the-lost-legacy",
+			"name": "Uncharted: The Lost Legacy",
+			"id": 21926
+		},
+		{
+			"slug": "undefeated-2019",
+			"name": "UNDEFEATED (2019)",
+			"id": 452628
+		},
+		{
+			"slug": "under-the-waves-2",
+			"name": "Under The Waves",
+			"id": 840778
+		},
+		{
+			"slug": "undisputed",
+			"name": "Undisputed",
+			"id": 917817
+		},
+		{
+			"slug": "unicorn-overlord",
+			"name": "Unicorn Overlord",
+			"id": 967102
+		},
+		{
+			"slug": "unknown-9",
+			"name": "Unknown 9: Awakening",
+			"id": 485219
+		},
+		{
+			"slug": "unpacking-2",
+			"name": "Unpacking",
+			"id": 364942
+		},
+		{
+			"slug": "unplugged-3",
+			"name": "Unplugged",
+			"id": 684903
+		},
+		{
+			"slug": "until-dawn-2",
+			"name": "Until Dawn (2024 Remake)",
+			"id": 976005
+		},
+		{
+			"slug": "until-then",
+			"name": "Until Then",
+			"id": 976306
+		},
+		{
+			"slug": "untitled-carnivores-game-2022",
+			"name": "Untitled Carnivores Game (2022)",
+			"id": 499269
+		},
+		{
+			"slug": "untitled-carnivores-game-2024",
+			"name": "Untitled Carnivores Game (2024)",
+			"id": 499270
+		},
+		{
+			"slug": "utawarerurmono-false-mask",
+			"name": "Utawarerumono: ZAN 2",
+			"id": 336527
+		},
+		{
+			"slug": "valiant-hearts-coming-home",
+			"name": "Valiant Hearts: Coming Home",
+			"id": 892220
+		},
+		{
+			"slug": "valkyrie-elysium",
+			"name": "Valkyrie Elysium",
+			"id": 751914
+		},
+		{
+			"slug": "valkyrie-profile-lenneth-2",
+			"name": "Valkyrie Profile: Lenneth",
+			"id": 960256
+		},
+		{
+			"slug": "valorant",
+			"name": "Valorant",
+			"id": 415171
+		},
+		{
+			"slug": "bloodhunt",
+			"name": "Vampire: The Masquerade - Bloodhunt",
+			"id": 662357
+		},
+		{
+			"slug": "vampire-the-masquerade-bloodlines-2",
+			"name": "Vampire: The Masquerade - Bloodlines 2",
+			"id": 303576
+		},
+		{
+			"slug": "vampire-the-masquerade-swansong",
+			"name": "Vampire: The Masquerade – Swansong",
+			"id": 462685
+		},
+		{
+			"slug": "vengeful-guardian-moonrider",
+			"name": "Vengeful Guardian: Moonrider",
+			"id": 864912
+		},
+		{
+			"slug": "vernal-edge",
+			"name": "Vernal Edge",
+			"id": 923143
+		},
+		{
+			"slug": "v-i-e-w-f-i-n-d-e-r",
+			"name": "Viewfinder",
+			"id": 776267
+		},
+		{
+			"slug": "visions-of-mana",
+			"name": "Visions of Mana",
+			"id": 975457
+		},
+		{
+			"slug": "voyage-2",
+			"name": "Voyage",
+			"id": 323105
+		},
+		{
+			"slug": "vroom-3",
+			"name": "Vroom!",
+			"id": 649007
+		},
+		{
+			"slug": "wanderer-2",
+			"name": "Wanderer",
+			"id": 719573
+		},
+		{
+			"slug": "wanted-dead",
+			"name": "Wanted: Dead",
+			"id": 795371
+		},
+		{
+			"slug": "warframe",
+			"name": "Warframe",
+			"id": 766
+		},
+		{
+			"slug": "warhammer-40000-boltgun",
+			"name": "Warhammer 40,000: Boltgun",
+			"id": 795479
+		},
+		{
+			"slug": "warhammer-40000-shootas-blood-teef",
+			"name": "Warhammer 40,000: Shootas, Blood & Teef",
+			"id": 616750
+		},
+		{
+			"slug": "warhammer-40000-space-marine-ii",
+			"name": "Warhammer 40,000: Space Marine II",
+			"id": 705616
+		},
+		{
+			"slug": "warhammer-chaosbane",
+			"name": "Warhammer: Chaosbane",
+			"id": 257206
+		},
+		{
+			"slug": "watch-dogs-legion",
+			"name": "Watch Dogs: Legion",
+			"id": 324992
+		},
+		{
+			"slug": "way-of-the-hunter",
+			"name": "Way of the Hunter",
+			"id": 772682
+		},
+		{
+			"slug": "wayfinder-3",
+			"name": "Wayfinder",
+			"id": 898349
+		},
+		{
+			"slug": "wayward-strand",
+			"name": "Wayward Strand",
+			"id": 376110
+		},
+		{
+			"slug": "we-are-ofk",
+			"name": "We Are OFK",
+			"id": 836456
+		},
+		{
+			"slug": "we-love-katamari-royal-reverie",
+			"name": "We Love Katamari + Royal Reverie",
+			"id": 923021
+		},
+		{
+			"slug": "we-were-here-expeditions-the-friendship",
+			"name": "We Were Here Expeditions: The FriendShip",
+			"id": 966349
+		},
+		{
+			"slug": "wef",
+			"name": "wef",
+			"id": 977210
+		},
+		{
+			"slug": "weird-west",
+			"name": "Weird West",
+			"id": 398409
+		},
+		{
+			"slug": "werewolf-the-apocalypse-earthblood",
+			"name": "Werewolf: The Apocalypse - Earthblood",
+			"id": 409574
+		},
+		{
+			"slug": "what-lies-in-the-multiverse",
+			"name": "What Lies in the Multiverse",
+			"id": 724096
+		},
+		{
+			"slug": "what-the-bat",
+			"name": "What the Bat?",
+			"id": 881145
+		},
+		{
+			"slug": "wheel-world",
+			"name": "Wheel World",
+			"id": 1007057
+		},
+		{
+			"slug": "where-winds-meet",
+			"name": "Where Winds Meet",
+			"id": 840785
+		},
+		{
+			"slug": "white-day-a-labyrinth-named-school",
+			"name": "White Day: A Labyrinth Named School",
+			"id": 35590
+		},
+		{
+			"slug": "white-shadows",
+			"name": "White Shadows",
+			"id": 663785
+		},
+		{
+			"slug": "wild-arms-2",
+			"name": "Wild Arms 2 (1999)",
+			"id": 57980
+		},
+		{
+			"slug": "wild-hearts",
+			"name": "Wild Hearts",
+			"id": 857636
+		},
+		{
+			"slug": "wildcat-gun-machine",
+			"name": "Wildcat Gun Machine",
+			"id": 651271
+		},
+		{
+			"slug": "will-you-snail",
+			"name": "Will You Snail?",
+			"id": 349174
+		},
+		{
+			"slug": "windjammers-2",
+			"name": "Windjammers 2",
+			"id": 302303
+		},
+		{
+			"slug": "winning-post-10",
+			"name": "Winning Post 10",
+			"id": 951965
+		},
+		{
+			"slug": "winning-post-10-2024",
+			"name": "Winning Post 10 2024",
+			"id": 976012
+		},
+		{
+			"slug": "winning-post-9-2021",
+			"name": "Winning Post 9 (2021)",
+			"id": 590491
+		},
+		{
+			"slug": "winter-ember",
+			"name": "Winter Ember",
+			"id": 516127
+		},
+		{
+			"slug": "within-the-blade",
+			"name": "Within the Blade",
+			"id": 635390
+		},
+		{
+			"slug": "wo-long-fallen-dynasty",
+			"name": "Wo Long: Fallen Dynasty",
+			"id": 801638
+		},
+		{
+			"slug": "wolfenstein-youngblood-deutsche-version",
+			"name": "Wolfenstein: Youngblood Deutsche Version",
+			"id": 650588
+		},
+		{
+			"slug": "world-of-outlaws-dirt-racing",
+			"name": "World of Outlaws: Dirt Racing",
+			"id": 978041
+		},
+		{
+			"slug": "world-war-z-aftermath",
+			"name": "World War Z: Aftermath",
+			"id": 650648
+		},
+		{
+			"slug": "worms-rumble",
+			"name": "Worms Rumble",
+			"id": 460524
+		},
+		{
+			"slug": "wrc-10-fia-world-rally-championship",
+			"name": "WRC 10 FIA World Rally Championship",
+			"id": 631948
+		},
+		{
+			"slug": "wrc-9",
+			"name": "WRC 9 FIA World Rally Championship",
+			"id": 442841
+		},
+		{
+			"slug": "wrc-generations",
+			"name": "WRC Generations",
+			"id": 795313
+		},
+		{
+			"slug": "wreckfest",
+			"name": "Wreckfest",
+			"id": 42060
+		},
+		{
+			"slug": "wreckreation",
+			"name": "Wreckreation",
+			"id": 835077
+		},
+		{
+			"slug": "wronged-us",
+			"name": "Wronged us",
+			"id": 977631
+		},
+		{
+			"slug": "wuchang-fallen-feathers",
+			"name": "Wuchang: Fallen Feathers",
+			"id": 879565
+		},
+		{
+			"slug": "wwe-2k22",
+			"name": "WWE 2K22",
+			"id": 752182
+		},
+		{
+			"slug": "wwe-2k23",
+			"name": "WWE 2K23",
+			"id": 914781
+		},
+		{
+			"slug": "wytchwood",
+			"name": "Wytchwood",
+			"id": 49417
+		},
+		{
+			"slug": "tom-clancys-xdefiant",
+			"name": "XDefiant",
+			"id": 638641
+		},
+		{
+			"slug": "yakuza-7",
+			"name": "Yakuza: Like a Dragon",
+			"id": 369157
+		},
+		{
+			"slug": "ys-viii-lacrimosa-of-dana",
+			"name": "Ys VIII: Lacrimosa of DANA",
+			"id": 12258
+		},
+		{
+			"slug": "ys-x-nordics",
+			"name": "Ys X: Nordics",
+			"id": 973537
+		},
+		{
+			"slug": "zengeon",
+			"name": "Zengeon",
+			"id": 537747
+		},
+		{
+			"slug": "zenless-zone-zero",
+			"name": "Zenless Zone Zero",
+			"id": 799266
+		},
+		{
+			"slug": "zero-the-kamikaze-squirrel",
+			"name": "Zero the Kamikaze Squirrel",
+			"id": 57275
+		},
+		{
+			"slug": "zeus-quest-the-rebirth-of-earth",
+			"name": "Zeus Quest - The Rebirth of Earth",
+			"id": 795523
+		}
+	]
+}

@@ -1,0 +1,1195 @@
+{
+	"platform": "Sega Master System",
+	"games": [
+		{
+			"slug": "game-1942",
+			"name": "1942",
+			"id": 26616
+		},
+		{
+			"slug": "20-em-1",
+			"name": "20 em 1",
+			"id": 369131
+		},
+		{
+			"slug": "ace-of-aces",
+			"name": "Ace of Aces",
+			"id": 30939
+		},
+		{
+			"slug": "action-fighter",
+			"name": "Action Fighter",
+			"id": 54944
+		},
+		{
+			"slug": "addams-family",
+			"name": "Addams Family",
+			"id": 916763
+		},
+		{
+			"slug": "after-burner",
+			"name": "After Burner",
+			"id": 54174
+		},
+		{
+			"slug": "alex-kidd-bmx-trial",
+			"name": "Alex Kidd BMX Trial",
+			"id": 369130
+		},
+		{
+			"slug": "alex-kidd-in-miracle-world",
+			"name": "Alex Kidd in Miracle World",
+			"id": 4364
+		},
+		{
+			"slug": "alex-kidd-in-shinobi-world",
+			"name": "Alex Kidd in Shinobi World",
+			"id": 26274
+		},
+		{
+			"slug": "alex-kidd-high-tech-world",
+			"name": "Alex Kidd: High-Tech World",
+			"id": 369129
+		},
+		{
+			"slug": "alf",
+			"name": "ALF",
+			"id": 369128
+		},
+		{
+			"slug": "alien-storm-1991",
+			"name": "Alien Storm (1991)",
+			"id": 54951
+		},
+		{
+			"slug": "alien-syndrome-1987",
+			"name": "Alien Syndrome (1987)",
+			"id": 54175
+		},
+		{
+			"slug": "altered-beast-1988",
+			"name": "Altered Beast (1988)",
+			"id": 53129
+		},
+		{
+			"slug": "andre-agassi-tennis",
+			"name": "Andre Agassi Tennis",
+			"id": 56917
+		},
+		{
+			"slug": "arcade-smash-hits",
+			"name": "Arcade Smash Hits",
+			"id": 369127
+		},
+		{
+			"slug": "assault-city",
+			"name": "Assault City",
+			"id": 369126
+		},
+		{
+			"slug": "asterix-1991",
+			"name": "Asterix (1991)",
+			"id": 369125
+		},
+		{
+			"slug": "asterix-and-the-great-rescue",
+			"name": "Asterix and the Great Rescue",
+			"id": 56921
+		},
+		{
+			"slug": "astro-warrior",
+			"name": "Astro Warrior",
+			"id": 369124
+		},
+		{
+			"slug": "astro-warrior-pit-pot",
+			"name": "Astro Warrior & Pit Pot",
+			"id": 369099
+		},
+		{
+			"slug": "ayrton-sennas-super-monaco-gp-ii",
+			"name": "Ayrton Senna's Super Monaco GP II",
+			"id": 57200
+		},
+		{
+			"slug": "aztec-adventure",
+			"name": "Aztec Adventure",
+			"id": 369123
+		},
+		{
+			"slug": "back-to-the-future-part-iii",
+			"name": "Back to the Future Part III",
+			"id": 54972
+		},
+		{
+			"slug": "bank-panic",
+			"name": "Bank Panic",
+			"id": 461767
+		},
+		{
+			"slug": "basketball-nightmare",
+			"name": "Basketball Nightmare",
+			"id": 369122
+		},
+		{
+			"slug": "batman-returns-sega",
+			"name": "Batman Returns (SEGA)",
+			"id": 877924
+		},
+		{
+			"slug": "battle-out-run",
+			"name": "Battle Out Run",
+			"id": 369100
+		},
+		{
+			"slug": "battletoads-in-battlemaniacs",
+			"name": "Battletoads in Battlemaniacs",
+			"id": 57302
+		},
+		{
+			"slug": "black-belt",
+			"name": "Black Belt",
+			"id": 323047
+		},
+		{
+			"slug": "blade-eagle-3-d",
+			"name": "Blade Eagle 3-D",
+			"id": 369121
+		},
+		{
+			"slug": "bomber-raid",
+			"name": "Bomber Raid",
+			"id": 369120
+		},
+		{
+			"slug": "bonanza-bros-1990",
+			"name": "Bonanza Bros. (1990)",
+			"id": 55368
+		},
+		{
+			"slug": "bram-stokers-dracula-1993",
+			"name": "BRAM STOKER'S DRACULA",
+			"id": 475069
+		},
+		{
+			"slug": "bubble-bobble-1986",
+			"name": "Bubble Bobble (1986)",
+			"id": 53171
+		},
+		{
+			"slug": "buggy-run",
+			"name": "Buggy Run",
+			"id": 369119
+		},
+		{
+			"slug": "california-games",
+			"name": "California Games",
+			"id": 30959
+		},
+		{
+			"slug": "california-games-ii",
+			"name": "California Games II",
+			"id": 57320
+		},
+		{
+			"slug": "casino-games",
+			"name": "Casino Games",
+			"id": 332703
+		},
+		{
+			"slug": "land-of-illusion-starring-mickey-mouse",
+			"name": "Castle of Illusion Starring Mickey Mouse (1990)",
+			"id": 56964
+		},
+		{
+			"slug": "champions-of-europe",
+			"name": "Champions of Europe",
+			"id": 369118
+		},
+		{
+			"slug": "chase-hq",
+			"name": "Chase H.Q.",
+			"id": 24742
+		},
+		{
+			"slug": "cheese-cat-astrophe-starring-speedy-gonzales",
+			"name": "Cheese Cat-Astrophe Starring Speedy Gonzales",
+			"id": 56965
+		},
+		{
+			"slug": "chuck-rock",
+			"name": "Chuck Rock",
+			"id": 54243
+		},
+		{
+			"slug": "chuck-rock-ii-son-of-chuck",
+			"name": "Chuck Rock II: Son of Chuck",
+			"id": 54244
+		},
+		{
+			"slug": "monkey-king-master-of-the-clouds-zhong-hua-da-xian",
+			"name": "Chuka Taisen",
+			"id": 60908
+		},
+		{
+			"slug": "columns-1990",
+			"name": "Columns (1990)",
+			"id": 56973
+		},
+		{
+			"slug": "comix-zone-1995",
+			"name": "Comix Zone",
+			"id": 53207
+		},
+		{
+			"slug": "cyber-police-eswat",
+			"name": "Cyber Police ESWAT",
+			"id": 55441
+		},
+		{
+			"slug": "cyborg-hunter",
+			"name": "Cyborg Hunter",
+			"id": 369116
+		},
+		{
+			"slug": "daffy-duck-in-hollywood",
+			"name": "Daffy Duck in Hollywood",
+			"id": 979782
+		},
+		{
+			"slug": "danan-the-jungle-fighter",
+			"name": "Danan: The Jungle Fighter",
+			"id": 369115
+		},
+		{
+			"slug": "darius-ii",
+			"name": "Darius II",
+			"id": 55900
+		},
+		{
+			"slug": "desert-strike",
+			"name": "Desert Strike",
+			"id": 53232
+		},
+		{
+			"slug": "dick-tracy-sega",
+			"name": "Dick Tracy (Sega)",
+			"id": 806949
+		},
+		{
+			"slug": "disneys-ariel-the-little-mermaid",
+			"name": "Disney's Ariel: The Little Mermaid",
+			"id": 257181
+		},
+		{
+			"slug": "disneys-bonkers-wax-up",
+			"name": "Disney's Bonkers: Wax Up!",
+			"id": 805083
+		},
+		{
+			"slug": "the-jungle-book",
+			"name": "Disney's The Jungle Book",
+			"id": 51092
+		},
+		{
+			"slug": "double-dragon",
+			"name": "Double Dragon",
+			"id": 3802
+		},
+		{
+			"slug": "double-hawk",
+			"name": "Double Hawk",
+			"id": 369114
+		},
+		{
+			"slug": "dr-robotniks-mean-bean-machine-1993",
+			"name": "Dr. Robotnik's Mean Bean Machine (1993)",
+			"id": 57002
+		},
+		{
+			"slug": "dragon-crystal",
+			"name": "Dragon Crystal",
+			"id": 24145
+		},
+		{
+			"slug": "dragon-the-bruce-lee-story",
+			"name": "Dragon: The Bruce Lee Story",
+			"id": 57007
+		},
+		{
+			"slug": "dynamite-duke",
+			"name": "Dynamite Duke",
+			"id": 57010
+		},
+		{
+			"slug": "dynamite-dux",
+			"name": "Dynamite Düx",
+			"id": 55009
+		},
+		{
+			"slug": "dynamite-headdy-1994",
+			"name": "Dynamite Headdy (1994)",
+			"id": 57012
+		},
+		{
+			"slug": "earthworm-jim",
+			"name": "Earthworm Jim",
+			"id": 25663
+		},
+		{
+			"slug": "ecco-the-dolphin-1992",
+			"name": "Ecco the Dolphin (1992)",
+			"id": 54255
+		},
+		{
+			"slug": "ecco-the-tides-of-time-1994",
+			"name": "Ecco: The Tides of Time (1994)",
+			"id": 54254
+		},
+		{
+			"slug": "f1",
+			"name": "F1",
+			"id": 32224
+		},
+		{
+			"slug": "fantastic-dizzy",
+			"name": "Fantastic Dizzy",
+			"id": 54192
+		},
+		{
+			"slug": "fantasy-zone-1986",
+			"name": "Fantasy Zone (1986)",
+			"id": 54198
+		},
+		{
+			"slug": "fantasy-zone-ii",
+			"name": "Fantasy Zone II",
+			"id": 24574
+		},
+		{
+			"slug": "ferias-frustradas-do-pica-pau",
+			"name": "Férias Frustradas do Pica-Pau",
+			"id": 57031
+		},
+		{
+			"slug": "fifa-1993",
+			"name": "FIFA (1993)",
+			"id": 52928
+		},
+		{
+			"slug": "forgotten-worlds-1988",
+			"name": "Forgotten Worlds (1988)",
+			"id": 55025
+		},
+		{
+			"slug": "fushigi-no-oshiro-pit-pot",
+			"name": "Fushigi no Oshiro Pit Pot",
+			"id": 369098
+		},
+		{
+			"slug": "gain-ground-1991",
+			"name": "Gain Ground (1991)",
+			"id": 57042
+		},
+		{
+			"slug": "galaga-1981",
+			"name": "Galaga (1981)",
+			"id": 53830
+		},
+		{
+			"slug": "gauntlet-1985",
+			"name": "Gauntlet (1985)",
+			"id": 53303
+		},
+		{
+			"slug": "george-foremans-ko-boxing",
+			"name": "George Foreman's KO Boxing",
+			"id": 53835
+		},
+		{
+			"slug": "ghost-house-1986",
+			"name": "Ghost House (1986)",
+			"id": 369113
+		},
+		{
+			"slug": "ghost-house-sms",
+			"name": "Ghost House SMS",
+			"id": 1001845
+		},
+		{
+			"slug": "ghostbusters-1984",
+			"name": "Ghostbusters (1984)",
+			"id": 292824
+		},
+		{
+			"slug": "ghostbusters-1990",
+			"name": "Ghostbusters (1990)",
+			"id": 369002
+		},
+		{
+			"slug": "ghouls-n-ghosts",
+			"name": "Ghouls 'n Ghosts",
+			"id": 55470
+		},
+		{
+			"slug": "golden-axe-1989",
+			"name": "Golden Axe (1989)",
+			"id": 55029
+		},
+		{
+			"slug": "golfamania",
+			"name": "Golfamania",
+			"id": 369111
+		},
+		{
+			"slug": "golvellius-the-valley-of-doom",
+			"name": "Golvellius - The Valley of Doom",
+			"id": 7572
+		},
+		{
+			"slug": "great-baseball",
+			"name": "Great Baseball",
+			"id": 369110
+		},
+		{
+			"slug": "great-ice-hockey",
+			"name": "Great Ice Hockey",
+			"id": 369109
+		},
+		{
+			"slug": "hang-on-2",
+			"name": "Hang-On",
+			"id": 287334
+		},
+		{
+			"slug": "heroes-of-the-lance",
+			"name": "Heroes of the Lance",
+			"id": 29807
+		},
+		{
+			"slug": "hook-1992",
+			"name": "Hook (1992)",
+			"id": 53864
+		},
+		{
+			"slug": "hoshi-o-sagashite",
+			"name": "Hoshi o Sagashite...",
+			"id": 369108
+		},
+		{
+			"slug": "indiana-jones-and-the-last-crusade-1991",
+			"name": "Indiana Jones and the Last Crusade: The Action Game",
+			"id": 33735
+		},
+		{
+			"slug": "james-bond-007-the-duel",
+			"name": "James Bond 007: The Duel",
+			"id": 57068
+		},
+		{
+			"slug": "james-pond-2-codename-robocod",
+			"name": "James Pond 2: Codename Robocod",
+			"id": 32738
+		},
+		{
+			"slug": "jang-pung-3",
+			"name": "Jang Pung 3",
+			"id": 751797
+		},
+		{
+			"slug": "ui-feedback",
+			"name": "Janggun-ui Adeul",
+			"id": 852669
+		},
+		{
+			"slug": "joe-montana-football",
+			"name": "Joe Montana Football",
+			"id": 54270
+		},
+		{
+			"slug": "kenseiden",
+			"name": "Kenseiden",
+			"id": 369107
+		},
+		{
+			"slug": "kings-quest-1-quest-for-the-crown",
+			"name": "King's Quest 1: Quest for the Crown",
+			"id": 30665
+		},
+		{
+			"slug": "kings-quest-i",
+			"name": "King's Quest I",
+			"id": 55051
+		},
+		{
+			"slug": "klax",
+			"name": "Klax",
+			"id": 30369
+		},
+		{
+			"slug": "krustys-fun-house",
+			"name": "Krusty's Fun House",
+			"id": 53909
+		},
+		{
+			"slug": "kung-fu-kid-1987",
+			"name": "Kung Fu Kid (1987)",
+			"id": 369106
+		},
+		{
+			"slug": "lemmings",
+			"name": "Lemmings",
+			"id": 5498
+		},
+		{
+			"slug": "linus-spaceheads-cosmic-crusade",
+			"name": "Linus Spacehead's Cosmic Crusade",
+			"id": 54203
+		},
+		{
+			"slug": "lord-of-the-sword-1988",
+			"name": "Lord of the Sword (1988)",
+			"id": 369105
+		},
+		{
+			"slug": "marble-madness",
+			"name": "Marble Madness",
+			"id": 30982
+		},
+		{
+			"slug": "marksman-shooting-trap-shooting",
+			"name": "Marksman Shooting & Trap Shooting",
+			"id": 369103
+		},
+		{
+			"slug": "master-of-darkness",
+			"name": "Master of Darkness",
+			"id": 974802
+		},
+		{
+			"slug": "mercs",
+			"name": "Mercs",
+			"id": 56640
+		},
+		{
+			"slug": "michael-jacksons-moonwalker",
+			"name": "Michael Jackson's Moonwalker",
+			"id": 55545
+		},
+		{
+			"slug": "global-gladiators",
+			"name": "Mick & Mack as the Global Gladiators",
+			"id": 55472
+		},
+		{
+			"slug": "mickeys-ultimate-challenge",
+			"name": "Mickey's Ultimate Challenge",
+			"id": 55852
+		},
+		{
+			"slug": "micro-machines-old",
+			"name": "Micro Machines (Old)",
+			"id": 53422
+		},
+		{
+			"slug": "monopoly-1988-2",
+			"name": "Monopoly (1988)",
+			"id": 369102
+		},
+		{
+			"slug": "montezumas-revenge",
+			"name": "Montezuma's Revenge",
+			"id": 31501
+		},
+		{
+			"slug": "mortal-kombat",
+			"name": "Mortal Kombat",
+			"id": 54285
+		},
+		{
+			"slug": "mortal-kombat-2",
+			"name": "Mortal Kombat 2",
+			"id": 29426
+		},
+		{
+			"slug": "mortal-kombat-3",
+			"name": "Mortal Kombat 3",
+			"id": 29427
+		},
+		{
+			"slug": "ms-pac-man",
+			"name": "Ms. Pac-Man",
+			"id": 52438
+		},
+		{
+			"slug": "ninja-gaiden-master-system",
+			"name": "Ninja Gaiden (SEGA)",
+			"id": 369101
+		},
+		{
+			"slug": "operation-wolf",
+			"name": "Operation Wolf",
+			"id": 25385
+		},
+		{
+			"slug": "out-run",
+			"name": "Out Run",
+			"id": 55084
+		},
+		{
+			"slug": "out-run-europa",
+			"name": "Out Run Europa",
+			"id": 55572
+		},
+		{
+			"slug": "outrun",
+			"name": "OutRun",
+			"id": 32573
+		},
+		{
+			"slug": "pac-mania",
+			"name": "Pac-Mania",
+			"id": 54212
+		},
+		{
+			"slug": "paperboy",
+			"name": "Paperboy",
+			"id": 53467
+		},
+		{
+			"slug": "penguin-adventure",
+			"name": "Penguin Adventure",
+			"id": 59573
+		},
+		{
+			"slug": "penguin-land",
+			"name": "Penguin Land",
+			"id": 55879
+		},
+		{
+			"slug": "phantasy-star",
+			"name": "Phantasy Star",
+			"id": 26035
+		},
+		{
+			"slug": "pit-fighter",
+			"name": "Pit-Fighter",
+			"id": 55583
+		},
+		{
+			"slug": "populous",
+			"name": "Populous",
+			"id": 22820
+		},
+		{
+			"slug": "poseidon-wars-3-d",
+			"name": "Poseidon Wars 3-D",
+			"id": 369097
+		},
+		{
+			"slug": "power-strike",
+			"name": "Power Strike",
+			"id": 369095
+		},
+		{
+			"slug": "power-strike-ii",
+			"name": "Power Strike II",
+			"id": 369096
+		},
+		{
+			"slug": "predator-2-1992",
+			"name": "Predator 2 (1992)",
+			"id": 546468
+		},
+		{
+			"slug": "prince-of-persia-nes",
+			"name": "Prince of Persia (1989)",
+			"id": 45957
+		},
+		{
+			"slug": "pro-wrestling",
+			"name": "Pro Wrestling (1986)",
+			"id": 54000
+		},
+		{
+			"slug": "psychic-world",
+			"name": "Psychic World",
+			"id": 974745
+		},
+		{
+			"slug": "psycho-fox",
+			"name": "Psycho Fox",
+			"id": 369094
+		},
+		{
+			"slug": "quartet",
+			"name": "Quartet",
+			"id": 56718
+		},
+		{
+			"slug": "quest-for-the-shaven-yak-starring-ren-hoek-stimpy",
+			"name": "Quest for the Shaven Yak starring Ren Hoëk & Stimpy",
+			"id": 976332
+		},
+		{
+			"slug": "r-type",
+			"name": "R-Type",
+			"id": 25082
+		},
+		{
+			"slug": "r-type-1987",
+			"name": "R-Type (1987)",
+			"id": 54885
+		},
+		{
+			"slug": "rc-grand-prix",
+			"name": "R.C. Grand Prix",
+			"id": 369093
+		},
+		{
+			"slug": "rambo-iii-master-system",
+			"name": "Rambo III (Master System)",
+			"id": 369092
+		},
+		{
+			"slug": "rampage",
+			"name": "Rampage",
+			"id": 52573
+		},
+		{
+			"slug": "rampart-1990",
+			"name": "Rampart (1990)",
+			"id": 53304
+		},
+		{
+			"slug": "rastan-1987",
+			"name": "Rastan (1987)",
+			"id": 56727
+		},
+		{
+			"slug": "renegade-1986",
+			"name": "Renegade (1986)",
+			"id": 54015
+		},
+		{
+			"slug": "road-rash-old",
+			"name": "Road Rash (1991)",
+			"id": 54305
+		},
+		{
+			"slug": "rocky-1987",
+			"name": "Rocky (1987)",
+			"id": 369091
+		},
+		{
+			"slug": "running-battle",
+			"name": "Running Battle",
+			"id": 369090
+		},
+		{
+			"slug": "sci-special-criminal-investigation",
+			"name": "S.C.I.: Special Criminal Investigation",
+			"id": 468999
+		},
+		{
+			"slug": "scramble-spirits",
+			"name": "Scramble Spirits",
+			"id": 55109
+		},
+		{
+			"slug": "shadow-dancer-the-secret-of-shinobi",
+			"name": "Shadow Dancer: The Secret of Shinobi",
+			"id": 26264
+		},
+		{
+			"slug": "shadow-of-the-beast-1989",
+			"name": "Shadow of the Beast (1989)",
+			"id": 54310
+		},
+		{
+			"slug": "shanghai",
+			"name": "Shanghai",
+			"id": 54897
+		},
+		{
+			"slug": "shinobi-1988",
+			"name": "Shinobi (1988)",
+			"id": 54220
+		},
+		{
+			"slug": "sitio-do-picapau-amarelo",
+			"name": "Sitio do Picapau Amarelo",
+			"id": 369088
+		},
+		{
+			"slug": "slap-shot",
+			"name": "Slap Shot",
+			"id": 56779
+		},
+		{
+			"slug": "smash-tv",
+			"name": "Smash TV",
+			"id": 54051
+		},
+		{
+			"slug": "snail-maze-1986",
+			"name": "Snail Maze (1986)",
+			"id": 369087
+		},
+		{
+			"slug": "solomons-key",
+			"name": "Solomon's Key (1986)",
+			"id": 54057
+		},
+		{
+			"slug": "sonic-blast",
+			"name": "Sonic Blast",
+			"id": 24090
+		},
+		{
+			"slug": "sonic-chaos",
+			"name": "Sonic Chaos",
+			"id": 25807
+		},
+		{
+			"slug": "sonic-spinball-1993",
+			"name": "Sonic Spinball (1993)",
+			"id": 57180
+		},
+		{
+			"slug": "sonic-the-hedgehog-ggsms",
+			"name": "Sonic The Hedgehog (GG/SMS)",
+			"id": 884680
+		},
+		{
+			"slug": "sonic-the-hedgehog-2-ggsms",
+			"name": "Sonic The Hedgehog 2 (GG/SMS)",
+			"id": 884681
+		},
+		{
+			"slug": "space-gun",
+			"name": "Space Gun",
+			"id": 55116
+		},
+		{
+			"slug": "space-harrier-1986",
+			"name": "Space Harrier (1986)",
+			"id": 55117
+		},
+		{
+			"slug": "space-harrier-3-d",
+			"name": "Space Harrier 3-D",
+			"id": 369086
+		},
+		{
+			"slug": "speedball",
+			"name": "Speedball",
+			"id": 33709
+		},
+		{
+			"slug": "speedball-2-brutal-deluxe",
+			"name": "Speedball 2: Brutal Deluxe",
+			"id": 32099
+		},
+		{
+			"slug": "spellcaster",
+			"name": "Spellcaster",
+			"id": 369085
+		},
+		{
+			"slug": "spider-man-return-of-the-sinister-six",
+			"name": "Spider-Man: Return of the Sinister Six",
+			"id": 54061
+		},
+		{
+			"slug": "spy-vs-spy-2",
+			"name": "Spy vs. Spy",
+			"id": 54063
+		},
+		{
+			"slug": "star-wars-1983",
+			"name": "Star Wars (1983)",
+			"id": 52600
+		},
+		{
+			"slug": "street-fighter-ii-champion-edition",
+			"name": "Street Fighter II: Champion Edition",
+			"id": 57189
+		},
+		{
+			"slug": "streets-of-rage",
+			"name": "Streets of Rage",
+			"id": 14975
+		},
+		{
+			"slug": "streets-of-rage-2",
+			"name": "Streets of Rage 2",
+			"id": 4678
+		},
+		{
+			"slug": "strider-1989",
+			"name": "Strider (1989)",
+			"id": 53173
+		},
+		{
+			"slug": "strider-2-1999",
+			"name": "Strider 2 (1999)",
+			"id": 55660
+		},
+		{
+			"slug": "strider-ii",
+			"name": "Strider II",
+			"id": 56821
+		},
+		{
+			"slug": "summer-games",
+			"name": "Summer Games",
+			"id": 52605
+		},
+		{
+			"slug": "super-monaco-gp",
+			"name": "Super Monaco GP",
+			"id": 56826
+		},
+		{
+			"slug": "super-off-road",
+			"name": "Super Off Road",
+			"id": 53876
+		},
+		{
+			"slug": "superman-1992",
+			"name": "Superman: The Man of Steel (1992)",
+			"id": 368991
+		},
+		{
+			"slug": "sydney-hunter-and-the-caverns-of-death",
+			"name": "Sydney Hunter and the Caverns of Death",
+			"id": 829957
+		},
+		{
+			"slug": "sydney-hunter-and-the-curse-of-the-mayan",
+			"name": "Sydney Hunter and the Curse of the Mayan",
+			"id": 309189
+		},
+		{
+			"slug": "taz-in-escape-from-mars",
+			"name": "Taz in Escape from Mars",
+			"id": 57208
+		},
+		{
+			"slug": "taz-mania",
+			"name": "Taz-Mania",
+			"id": 55935
+		},
+		{
+			"slug": "tecmo-nba-basketball",
+			"name": "Tecmo NBA Basketball",
+			"id": 54090
+		},
+		{
+			"slug": "tecmo-world-cup-93",
+			"name": "Tecmo World Cup '93",
+			"id": 369084
+		},
+		{
+			"slug": "teddy-boy-blues",
+			"name": "Teddy Boy Blues",
+			"id": 57279
+		},
+		{
+			"slug": "terminator-2-judgment-day",
+			"name": "Terminator 2: Judgment Day",
+			"id": 55672
+		},
+		{
+			"slug": "the-amazing-spider-man-vs-the-kingpin",
+			"name": "The Amazing Spider-Man vs. The Kingpin",
+			"id": 54234
+		},
+		{
+			"slug": "the-cyber-shinobi",
+			"name": "The Cyber Shinobi",
+			"id": 369117
+		},
+		{
+			"slug": "the-incredible-hulk-1994",
+			"name": "The Incredible Hulk (1994)",
+			"id": 57382
+		},
+		{
+			"slug": "the-lucky-dime-caper-starring-donald-duck",
+			"name": "The Lucky Dime Caper starring Donald Duck",
+			"id": 552925
+		},
+		{
+			"slug": "the-newzealand-story",
+			"name": "The NewZealand Story",
+			"id": 53968
+		},
+		{
+			"slug": "the-ottifants",
+			"name": "The Ottifants",
+			"id": 974473
+		},
+		{
+			"slug": "the-simpsons-bart-vs-the-space-mutants",
+			"name": "The Simpsons: Bart vs. the Space Mutants",
+			"id": 54043
+		},
+		{
+			"slug": "the-simpsons-bart-vs-the-world",
+			"name": "The Simpsons: Bart vs. the World",
+			"id": 54044
+		},
+		{
+			"slug": "the-smurfs-1994",
+			"name": "The Smurfs (1994)",
+			"id": 552926
+		},
+		{
+			"slug": "the-smurfs-travel-the-world",
+			"name": "The Smurfs Travel the World",
+			"id": 616678
+		},
+		{
+			"slug": "thunder-blade",
+			"name": "Thunder Blade",
+			"id": 55676
+		},
+		{
+			"slug": "time-soldiers-1987",
+			"name": "Time Soldiers (1987)",
+			"id": 729332
+		},
+		{
+			"slug": "tintin-on-the-moon",
+			"name": "Tintin on the Moon",
+			"id": 55678
+		},
+		{
+			"slug": "transbot",
+			"name": "Transbot",
+			"id": 369083
+		},
+		{
+			"slug": "ultima-4-quest-of-the-avatar",
+			"name": "Ultima IV: Quest of the Avatar",
+			"id": 54122
+		},
+		{
+			"slug": "ultimate-soccer",
+			"name": "Ultimate Soccer",
+			"id": 57235
+		},
+		{
+			"slug": "vampire-master-of-darkness-2",
+			"name": "Vampire: Master of Darkness",
+			"id": 437045
+		},
+		{
+			"slug": "vigilante-1988",
+			"name": "Vigilante (1988)",
+			"id": 55701
+		},
+		{
+			"slug": "virtua-fighter-animation",
+			"name": "Virtua Fighter Animation",
+			"id": 369139
+		},
+		{
+			"slug": "wanted-1989",
+			"name": "Wanted (1989)",
+			"id": 369082
+		},
+		{
+			"slug": "wolfchild",
+			"name": "Wolfchild",
+			"id": 54335
+		},
+		{
+			"slug": "wonder-boy",
+			"name": "Wonder Boy",
+			"id": 24777
+		},
+		{
+			"slug": "wonder-boy-iii-the-dragons-trap-2",
+			"name": "Wonder Boy III: The Dragon's Trap",
+			"id": 127688
+		},
+		{
+			"slug": "wonder-boy-in-monster-land",
+			"name": "Wonder Boy in Monster Land",
+			"id": 4374
+		},
+		{
+			"slug": "wonder-boy-in-monster-world-1991",
+			"name": "Wonder Boy in Monster World (1991)",
+			"id": 57232
+		},
+		{
+			"slug": "wonder-boy-the-dragons-trap",
+			"name": "Wonder Boy: The Dragon's Trap",
+			"id": 914
+		},
+		{
+			"slug": "world-championship-soccer",
+			"name": "World Championship Soccer",
+			"id": 55719
+		},
+		{
+			"slug": "world-cup-usa-94",
+			"name": "World Cup USA '94",
+			"id": 34129
+		},
+		{
+			"slug": "world-games",
+			"name": "World Games",
+			"id": 54151
+		},
+		{
+			"slug": "world-grand-prix",
+			"name": "World Grand Prix",
+			"id": 369081
+		},
+		{
+			"slug": "world-tournament-golf",
+			"name": "World Tournament Golf",
+			"id": 369089
+		},
+		{
+			"slug": "wwf-wrestlemania-steel-cage-challenge",
+			"name": "WWF WrestleMania: Steel Cage Challenge",
+			"id": 54157
+		},
+		{
+			"slug": "xenon-2-megablast",
+			"name": "Xenon 2: Megablast",
+			"id": 31831
+		},
+		{
+			"slug": "xevious-1983",
+			"name": "Xevious (1983)",
+			"id": 53204
+		},
+		{
+			"slug": "ys",
+			"name": "Ys I: Ancient Ys Vanished",
+			"id": 311658
+		},
+		{
+			"slug": "zillion-1987",
+			"name": "Zillion (1987)",
+			"id": 369080
+		},
+		{
+			"slug": "zillion-ii-the-tri-formation",
+			"name": "Zillion II: The Tri Formation",
+			"id": 369079
+		},
+		{
+			"slug": "zool",
+			"name": "Zool",
+			"id": 31585
+		}
+	]
+}

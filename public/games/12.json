@@ -1,0 +1,620 @@
+{
+	"platform": "Neo Geo",
+	"games": [
+		{
+			"slug": "1941-counter-attack",
+			"name": "1941: Counter Attack",
+			"id": 967253
+		},
+		{
+			"slug": "aero-fighters",
+			"name": "Aero Fighters",
+			"id": 57289
+		},
+		{
+			"slug": "aero-fighters-2",
+			"name": "Aero Fighters 2",
+			"id": 455540
+		},
+		{
+			"slug": "aero-fighters-3",
+			"name": "Aero Fighters 3",
+			"id": 455541
+		},
+		{
+			"slug": "aggressors-of-dark-kombat",
+			"name": "Aggressors of Dark Kombat",
+			"id": 736291
+		},
+		{
+			"slug": "alpha-mission-2",
+			"name": "Alpha Mission II",
+			"id": 455542
+		},
+		{
+			"slug": "andro-dunos",
+			"name": "Andro Dunos",
+			"id": 455543
+		},
+		{
+			"slug": "art-of-fighting-1992",
+			"name": "Art of Fighting (1992)",
+			"id": 56920
+		},
+		{
+			"slug": "art-of-fighting-3-the-path-of-the-warrior",
+			"name": "Art of Fighting 3: The Path of The Warrior",
+			"id": 952547
+		},
+		{
+			"slug": "bang-bang-busters",
+			"name": "Bang Bang Busters",
+			"id": 455544
+		},
+		{
+			"slug": "bang-bead",
+			"name": "Bang Bead",
+			"id": 455545
+		},
+		{
+			"slug": "baseball-stars-ngp",
+			"name": "Baseball Stars (NGP)",
+			"id": 815116
+		},
+		{
+			"slug": "baseball-stars-color",
+			"name": "Baseball Stars Color",
+			"id": 815115
+		},
+		{
+			"slug": "bishi-bashi",
+			"name": "Bishi Bashi",
+			"id": 52720
+		},
+		{
+			"slug": "blazing-star",
+			"name": "BLAZING STAR",
+			"id": 2225
+		},
+		{
+			"slug": "blues-journey",
+			"name": "BLUE'S JOURNEY",
+			"id": 25307
+		},
+		{
+			"slug": "bomberman-panic-bomber",
+			"name": "Bomberman Panic Bomber",
+			"id": 50265
+		},
+		{
+			"slug": "buriki-one",
+			"name": "Buriki One",
+			"id": 975469
+		},
+		{
+			"slug": "bust-a-move",
+			"name": "Bust-A-Move",
+			"id": 1980
+		},
+		{
+			"slug": "captain-tomaday",
+			"name": "Captain Tomaday",
+			"id": 455546
+		},
+		{
+			"slug": "columns-1990",
+			"name": "Columns (1990)",
+			"id": 56973
+		},
+		{
+			"slug": "cool-cool-jam",
+			"name": "Cool Cool Jam",
+			"id": 815122
+		},
+		{
+			"slug": "cotton-fantastic-night-dreams",
+			"name": "Cotton: Fantastic Night Dreams",
+			"id": 52830
+		},
+		{
+			"slug": "crossed-swords",
+			"name": "Crossed Swords",
+			"id": 955537
+		},
+		{
+			"slug": "crush-roller",
+			"name": "Crush Roller",
+			"id": 460425
+		},
+		{
+			"slug": "cyber-lip",
+			"name": "Cyber Lip",
+			"id": 455547
+		},
+		{
+			"slug": "dark-arms-beast-buster",
+			"name": "Dark Arms: Beast Buster",
+			"id": 736181
+		},
+		{
+			"slug": "densetsu-no-oga-batoru-gaiden-zenobia-no-oji",
+			"name": "Densetsu no Oga Batoru Gaiden Zenobia no Oji",
+			"id": 815124
+		},
+		{
+			"slug": "double-dragon-neo-geo",
+			"name": "Double Dragon (Neo-Geo)",
+			"id": 428286
+		},
+		{
+			"slug": "eight-man",
+			"name": "Eight Man",
+			"id": 943531
+		},
+		{
+			"slug": "evolution-eternal-dungeons",
+			"name": "Evolution: Eternal Dungeons",
+			"id": 904160
+		},
+		{
+			"slug": "kabuki-klash",
+			"name": "Far East of Eden: Kabuki Klash",
+			"id": 455554
+		},
+		{
+			"slug": "fast-striker",
+			"name": "Fast Striker",
+			"id": 254692
+		},
+		{
+			"slug": "fatal-fury-2-1992",
+			"name": "Fatal Fury 2 (1992)",
+			"id": 55286
+		},
+		{
+			"slug": "fatal-fury-special",
+			"name": "Fatal Fury Special",
+			"id": 54260
+		},
+		{
+			"slug": "fatal-fury-king-of-fighters",
+			"name": "Fatal Fury: King of Fighters",
+			"id": 57029
+		},
+		{
+			"slug": "flip-shot",
+			"name": "Flip shot",
+			"id": 455548
+		},
+		{
+			"slug": "galaxy-fight-universal-warriors",
+			"name": "Galaxy Fight: Universal Warriors",
+			"id": 52976
+		},
+		{
+			"slug": "garou-mark-of-the-wolves",
+			"name": "Garou: Mark of the Wolves",
+			"id": 54646
+		},
+		{
+			"slug": "ghost-pilots",
+			"name": "Ghost Pilots",
+			"id": 455549
+		},
+		{
+			"slug": "gunlord",
+			"name": "Gunlord",
+			"id": 54656
+		},
+		{
+			"slug": "gururin",
+			"name": "Gururin",
+			"id": 455550
+		},
+		{
+			"slug": "iron-clad",
+			"name": "Iron Clad",
+			"id": 455551
+		},
+		{
+			"slug": "joy-joy-kid",
+			"name": "Joy Joy Kid",
+			"id": 455553
+		},
+		{
+			"slug": "king-of-fighters-r-1",
+			"name": "King of Fighters R-1",
+			"id": 460420
+		},
+		{
+			"slug": "king-of-fighters-r-2",
+			"name": "King of Fighters R-2",
+			"id": 460421
+		},
+		{
+			"slug": "king-of-the-monsters",
+			"name": "KING OF THE MONSTERS",
+			"id": 23671
+		},
+		{
+			"slug": "king-of-the-monsters-2-the-next-thing",
+			"name": "King of the Monsters 2: The Next Thing",
+			"id": 456867
+		},
+		{
+			"slug": "last-hope-2006",
+			"name": "Last Hope (2006)",
+			"id": 54678
+		},
+		{
+			"slug": "last-resort-neogeo",
+			"name": "Last Resort (NEOGEO)",
+			"id": 455555
+		},
+		{
+			"slug": "magical-drop-ii",
+			"name": "Magical Drop II",
+			"id": 26576
+		},
+		{
+			"slug": "magical-drop-iii",
+			"name": "Magical Drop III",
+			"id": 26594
+		},
+		{
+			"slug": "metal-slug",
+			"name": "METAL SLUG",
+			"id": 14948
+		},
+		{
+			"slug": "metal-slug-2",
+			"name": "METAL SLUG 2",
+			"id": 6256
+		},
+		{
+			"slug": "metal-slug-3",
+			"name": "METAL SLUG 3",
+			"id": 1488
+		},
+		{
+			"slug": "metal-slug-4",
+			"name": "Metal Slug 4",
+			"id": 26941
+		},
+		{
+			"slug": "metal-slug-5",
+			"name": "Metal Slug 5",
+			"id": 311734
+		},
+		{
+			"slug": "metal-slug-1st-mission",
+			"name": "Metal Slug: 1st Mission",
+			"id": 816304
+		},
+		{
+			"slug": "metal-slug-2nd-mission",
+			"name": "Metal Slug: 2nd Mission",
+			"id": 460423
+		},
+		{
+			"slug": "money-puzzle-exchanger",
+			"name": "Money Puzzle Exchanger",
+			"id": 455556
+		},
+		{
+			"slug": "mutation-nation",
+			"name": "Mutation Nation",
+			"id": 943533
+		},
+		{
+			"slug": "nam-1975",
+			"name": "NAM-1975",
+			"id": 26950
+		},
+		{
+			"slug": "neo-bomberman",
+			"name": "Neo Bomberman",
+			"id": 455557
+		},
+		{
+			"slug": "neo-mr-do",
+			"name": "Neo Mr Do",
+			"id": 455558
+		},
+		{
+			"slug": "neo-turf-masters",
+			"name": "NEO TURF MASTERS",
+			"id": 6474
+		},
+		{
+			"slug": "neo-xyx",
+			"name": "Neo XYX",
+			"id": 455559
+		},
+		{
+			"slug": "nightmare-in-the-dark",
+			"name": "Nightmare in the Dark",
+			"id": 455561
+		},
+		{
+			"slug": "ninja-commando",
+			"name": "NINJA COMMANDO",
+			"id": 25523
+		},
+		{
+			"slug": "ninja-masters",
+			"name": "NINJA MASTER'S",
+			"id": 26929
+		},
+		{
+			"slug": "over-top",
+			"name": "Over Top",
+			"id": 797642
+		},
+		{
+			"slug": "pac-man",
+			"name": "Pac-Man",
+			"id": 24881
+		},
+		{
+			"slug": "pochi-and-nyaa",
+			"name": "Pochi and Nyaa",
+			"id": 455563
+		},
+		{
+			"slug": "popn-bounce",
+			"name": "Pop'n Bounce",
+			"id": 455564
+		},
+		{
+			"slug": "prehistoric-isle-2",
+			"name": "Prehistoric Isle 2",
+			"id": 455565
+		},
+		{
+			"slug": "pulstar-1995",
+			"name": "Pulstar (1995)",
+			"id": 324985
+		},
+		{
+			"slug": "puyo-pop",
+			"name": "Puyo Pop",
+			"id": 368047
+		},
+		{
+			"slug": "puyo-puyo-tsu",
+			"name": "Puyo Puyo Tsu",
+			"id": 55294
+		},
+		{
+			"slug": "bubble-bobble-plus",
+			"name": "Puzzle Bobble Plus!",
+			"id": 24585
+		},
+		{
+			"slug": "puzzle-link",
+			"name": "Puzzle Link",
+			"id": 455567
+		},
+		{
+			"slug": "puzzle-link-2",
+			"name": "Puzzle Link 2",
+			"id": 455568
+		},
+		{
+			"slug": "ragnagard-aca-neogeo",
+			"name": "Ragnagard",
+			"id": 966393
+		},
+		{
+			"slug": "real-bout-fatal-fury-special",
+			"name": "Real Bout Fatal Fury Special",
+			"id": 55287
+		},
+		{
+			"slug": "robo-army",
+			"name": "Robo Army",
+			"id": 943532
+		},
+		{
+			"slug": "rockman-battle-fighters",
+			"name": "Rockman Battle & Fighters",
+			"id": 368113
+		},
+		{
+			"slug": "samurai-shodown",
+			"name": "Samurai Shodown",
+			"id": 54303
+		},
+		{
+			"slug": "samurai-shodown-ii",
+			"name": "SAMURAI SHODOWN II",
+			"id": 5970
+		},
+		{
+			"slug": "samurai-shodown-iii-blades-of-blood",
+			"name": "Samurai Shodown III: Blades of Blood",
+			"id": 456848
+		},
+		{
+			"slug": "sengoku-1991",
+			"name": "SENGOKU I",
+			"id": 54306
+		},
+		{
+			"slug": "sengoku-2",
+			"name": "SENGOKU II",
+			"id": 26919
+		},
+		{
+			"slug": "sengoku-3",
+			"name": "SENGOKU III",
+			"id": 24202
+		},
+		{
+			"slug": "shock-troopers",
+			"name": "SHOCK TROOPERS",
+			"id": 14950
+		},
+		{
+			"slug": "snk-vs-capcom-card-fighters-clash",
+			"name": "SNK vs. Capcom: Card Fighters Clash",
+			"id": 366920
+		},
+		{
+			"slug": "snk-vs-capcom-svc-chaos",
+			"name": "SNK vs. Capcom: SVC Chaos",
+			"id": 311720
+		},
+		{
+			"slug": "snk-vs-capcom-the-match-of-the-millennium",
+			"name": "SNK vs. Capcom: The Match of the Millennium",
+			"id": 816305
+		},
+		{
+			"slug": "soccer-brawl",
+			"name": "Soccer Brawl",
+			"id": 455569
+		},
+		{
+			"slug": "spinmaster",
+			"name": "Spinmaster",
+			"id": 455570
+		},
+		{
+			"slug": "super-baseball-2020",
+			"name": "Super Baseball 2020",
+			"id": 57197
+		},
+		{
+			"slug": "the-gladiator-road-of-the-sword",
+			"name": "The Gladiator: Road of the Sword",
+			"id": 963818
+		},
+		{
+			"slug": "the-irritating-maze",
+			"name": "The Irritating Maze",
+			"id": 455552
+		},
+		{
+			"slug": "the-king-of-fighters-95",
+			"name": "The King of Fighters '95",
+			"id": 24412
+		},
+		{
+			"slug": "the-king-of-fighters-96",
+			"name": "The King of Fighters '96",
+			"id": 26889
+		},
+		{
+			"slug": "the-king-of-fighters-97",
+			"name": "THE KING OF FIGHTERS '97",
+			"id": 7450
+		},
+		{
+			"slug": "the-king-of-fighters-99",
+			"name": "The King of Fighters '99",
+			"id": 5355
+		},
+		{
+			"slug": "the-king-of-fighters-2000",
+			"name": "THE KING OF FIGHTERS 2000",
+			"id": 2485
+		},
+		{
+			"slug": "king-of-fighter-2001",
+			"name": "The King of Fighters 2001",
+			"id": 54673
+		},
+		{
+			"slug": "the-king-of-fighters-2002",
+			"name": "THE KING OF FIGHTERS 2002",
+			"id": 23669
+		},
+		{
+			"slug": "king-of-fighter-2003",
+			"name": "The King of Fighters 2003",
+			"id": 331186
+		},
+		{
+			"slug": "the-last-blade",
+			"name": "The Last Blade (1997)",
+			"id": 53088
+		},
+		{
+			"slug": "the-last-blade-2",
+			"name": "The Last Blade 2",
+			"id": 2415
+		},
+		{
+			"slug": "the-super-spy",
+			"name": "The Super Spy",
+			"id": 336267
+		},
+		{
+			"slug": "thrash-rally",
+			"name": "Thrash Rally",
+			"id": 455573
+		},
+		{
+			"slug": "top-hunter-roddy-cathy",
+			"name": "Top Hunter: Roddy & Cathy",
+			"id": 377810
+		},
+		{
+			"slug": "twinkle-star-sprites-1996",
+			"name": "Twinkle Star Sprites (1996)",
+			"id": 54773
+		},
+		{
+			"slug": "viewpoint",
+			"name": "Viewpoint",
+			"id": 57243
+		},
+		{
+			"slug": "waku-waku-7",
+			"name": "Waku Waku 7",
+			"id": 455574
+		},
+		{
+			"slug": "windjammers",
+			"name": "Windjammers",
+			"id": 46128
+		},
+		{
+			"slug": "world-heroes-old",
+			"name": "World Heroes (1993)",
+			"id": 57262
+		},
+		{
+			"slug": "world-heroes-2-1993",
+			"name": "World Heroes 2 (1993)",
+			"id": 57572
+		},
+		{
+			"slug": "world-heroes-2-jet-1994",
+			"name": "World Heroes 2 Jet (1994)",
+			"id": 55306
+		},
+		{
+			"slug": "world-heroes-perfect",
+			"name": "WORLD HEROES PERFECT",
+			"id": 26895
+		},
+		{
+			"slug": "zed-blade",
+			"name": "Zed Blade",
+			"id": 455575
+		},
+		{
+			"slug": "zintrick",
+			"name": "Zintrick",
+			"id": 455576
+		},
+		{
+			"slug": "zupapa",
+			"name": "ZuPaPa!",
+			"id": 455577
+		}
+	]
+}

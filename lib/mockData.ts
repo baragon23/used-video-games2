@@ -1,0 +1,37 @@
+export const allGames = [
+	{
+		title: 'God of War',
+		slug: 'god-of-war',
+		platform: 'PlayStation 2',
+		platformSlug: 'playstation-2',
+	},
+	{
+		title: 'Super Mario Bros',
+		slug: 'super-mario-bros',
+		platform: 'Nintendo',
+		platformSlug: 'nintendo',
+	},
+];
+
+export const ebayMockListings = [
+	{
+		itemId: '1',
+		title: 'God of War - Complete',
+		condition: 'Very Good',
+		price: { value: '19.99', currency: 'USD' },
+		shippingOptions: [{ shippingCost: { value: '3.00', currency: 'USD' } }],
+		seller: { feedbackPercentage: '98.7', feedbackScore: 1000 },
+		itemWebUrl: 'https://www.ebay.com/itm/1',
+		itemLocation: { country: 'US' },
+	},
+	{
+		itemId: '2',
+		title: 'God of War (Disc Only)',
+		condition: 'Good',
+		price: { value: '10.00', currency: 'USD' },
+		shippingOptions: [{ shippingCost: { value: '2.00', currency: 'USD' } }],
+		seller: { feedbackPercentage: '99.1', feedbackScore: 500 },
+		itemWebUrl: 'https://www.ebay.com/itm/2',
+		itemLocation: { country: 'US' },
+	},
+];

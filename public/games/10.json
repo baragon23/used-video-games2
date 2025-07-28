@@ -1,0 +1,5575 @@
+{
+	"platform": "WiiU",
+	"games": [
+		{
+			"slug": "90s-arcade-racer",
+			"name": "’90s Arcade Racer",
+			"id": 331891
+		},
+		{
+			"slug": "007-legends",
+			"name": "007 Legends",
+			"id": 5505
+		},
+		{
+			"slug": "1001-spikes",
+			"name": "1001 Spikes",
+			"id": 1178
+		},
+		{
+			"slug": "1080o-snowboarding",
+			"name": "1080º Snowboarding",
+			"id": 23773
+		},
+		{
+			"slug": "140-itch",
+			"name": "140",
+			"id": 1366
+		},
+		{
+			"slug": "153-hand-video-poker",
+			"name": "153 Hand Video Poker",
+			"id": 23869
+		},
+		{
+			"slug": "360-breakout",
+			"name": "360 Breakout",
+			"id": 27797
+		},
+		{
+			"slug": "3souls",
+			"name": "3Souls",
+			"id": 27795
+		},
+		{
+			"slug": "6-hand-video-poker",
+			"name": "6-Hand Video Poker",
+			"id": 27746
+		},
+		{
+			"slug": "6180-the-moon",
+			"name": "6180 the moon",
+			"id": 6609
+		},
+		{
+			"slug": "8bit-hero",
+			"name": "8Bit Hero",
+			"id": 27762
+		},
+		{
+			"slug": "99moves",
+			"name": "99Moves",
+			"id": 23966
+		},
+		{
+			"slug": "99seconds",
+			"name": "99Seconds",
+			"id": 26876
+		},
+		{
+			"slug": "cowboys-tale",
+			"name": "A Cowboy's Tale",
+			"id": 332899
+		},
+		{
+			"slug": "a-day-at-the-carnival",
+			"name": "A Day at the Carnival",
+			"id": 44117
+		},
+		{
+			"slug": "world-of-keflings-a",
+			"name": "A World of Keflings",
+			"id": 27509
+		},
+		{
+			"slug": "absolutely-unstoppable-minerun",
+			"name": "Absolutely Unstoppable MineRun",
+			"id": 27914
+		},
+		{
+			"slug": "abyss",
+			"name": "Abyss",
+			"id": 24230
+		},
+		{
+			"slug": "ace-alien-cleanup-elite",
+			"name": "ACE - Alien Cleanup Elite",
+			"id": 23807
+		},
+		{
+			"slug": "act-it-out-xl-a-game-of-charades",
+			"name": "ACT IT OUT XL! A Game of Charades",
+			"id": 51257
+		},
+		{
+			"slug": "advance-wars",
+			"name": "Advance Wars",
+			"id": 27958
+		},
+		{
+			"slug": "advance-wars-2-black-hole-rising",
+			"name": "Advance Wars 2: Black Hole Rising",
+			"id": 23772
+		},
+		{
+			"slug": "advance-wars-dual-strike",
+			"name": "Advance Wars: Dual Strike",
+			"id": 24968
+		},
+		{
+			"slug": "adventure-party-cats-and-caverns",
+			"name": "Adventure Party: Cats and Caverns",
+			"id": 23858
+		},
+		{
+			"slug": "adventure-time-explore-the-dungeon-because-i-dont-",
+			"name": "Adventure Time: Explore the Dungeon Because I DON'T KNOW!",
+			"id": 24049
+		},
+		{
+			"slug": "adventure-time-finn-and-jake-investigations",
+			"name": "Adventure Time: Finn and Jake Investigations",
+			"id": 3113
+		},
+		{
+			"slug": "adventures-of-lolo",
+			"name": "ADVENTURES OF LOLO",
+			"id": 25185
+		},
+		{
+			"slug": "adventures-of-pip",
+			"name": "Adventures of Pip",
+			"id": 1542
+		},
+		{
+			"slug": "aenigma-os",
+			"name": "Aenigma Os",
+			"id": 23857
+		},
+		{
+			"slug": "affordable-space-adventures",
+			"name": "Affordable Space Adventures",
+			"id": 27982
+		},
+		{
+			"slug": "alice-in-wonderland-2016",
+			"name": "Alice in Wonderland (2016)",
+			"id": 367030
+		},
+		{
+			"slug": "alien-crush",
+			"name": "ALIEN CRUSH",
+			"id": 4695
+		},
+		{
+			"slug": "alphadia-genesis",
+			"name": "Alphadia Genesis",
+			"id": 15947
+		},
+		{
+			"slug": "amiibo-tap-nintendos-greatest-bits",
+			"name": "Amiibo Tap: Nintendo's Greatest Bits",
+			"id": 27960
+		},
+		{
+			"slug": "andrecca",
+			"name": "Andrecca",
+			"id": 332070
+		},
+		{
+			"slug": "angry-birds-star-wars",
+			"name": "Angry Birds Star Wars",
+			"id": 1914
+		},
+		{
+			"slug": "angry-birds-trilogy",
+			"name": "Angry Birds Trilogy",
+			"id": 3879
+		},
+		{
+			"slug": "angry-bunnies-colossal-carrot-crusade",
+			"name": "Angry Bunnies: Colossal Carrot Crusade",
+			"id": 27471
+		},
+		{
+			"slug": "angry-video-game-nerd-adventures",
+			"name": "Angry Video Game Nerd Adventures",
+			"id": 16099
+		},
+		{
+			"slug": "animal-crossing-plaza",
+			"name": "Animal Crossing Plaza",
+			"id": 27281
+		},
+		{
+			"slug": "animal-crossing-amiibo-festival",
+			"name": "Animal Crossing: Amiibo Festival",
+			"id": 27994
+		},
+		{
+			"slug": "animal-crossing-wild-world",
+			"name": "Animal Crossing: Wild World",
+			"id": 23849
+		},
+		{
+			"slug": "animal-gods",
+			"name": "Animal Gods",
+			"id": 19390
+		},
+		{
+			"slug": "annihilation",
+			"name": "Annihilation",
+			"id": 46162
+		},
+		{
+			"slug": "antipole-dx",
+			"name": "Antipole DX",
+			"id": 23785
+		},
+		{
+			"slug": "aperion-cyberstorm",
+			"name": "Aperion Cyberstorm",
+			"id": 10725
+		},
+		{
+			"slug": "aqua-moto-racing-utopia",
+			"name": "Aqua Moto Racing Utopia",
+			"id": 735
+		},
+		{
+			"slug": "aqua-tv",
+			"name": "Aqua TV",
+			"id": 23809
+		},
+		{
+			"slug": "archery-by-thornbury-software",
+			"name": "Archery by Thornbury Software",
+			"id": 27829
+		},
+		{
+			"slug": "armikrog",
+			"name": "Armikrog",
+			"id": 1442
+		},
+		{
+			"slug": "armillo",
+			"name": "Armillo",
+			"id": 27438
+		},
+		{
+			"slug": "armored-acorns-action-squirrel-squad",
+			"name": "Armored ACORNs: Action Squirrel Squad",
+			"id": 23811
+		},
+		{
+			"slug": "arrow-time-u",
+			"name": "Arrow Time U",
+			"id": 27468
+		},
+		{
+			"slug": "art-academy-atelier",
+			"name": "Art Academy: Home Studio",
+			"id": 23769
+		},
+		{
+			"slug": "art-academy-sketchpad",
+			"name": "Art Academy: SketchPad",
+			"id": 27955
+		},
+		{
+			"slug": "art-of-balance",
+			"name": "Art of Balance",
+			"id": 2370
+		},
+		{
+			"slug": "ascent-of-kings",
+			"name": "Ascent of Kings",
+			"id": 23797
+		},
+		{
+			"slug": "rpg-asdivine-hearts",
+			"name": "Asdivine Hearts",
+			"id": 1619
+		},
+		{
+			"slug": "assassins-creed-iii-2",
+			"name": "Assassin’s Creed III",
+			"id": 13305
+		},
+		{
+			"slug": "assassins-creed-iv-black-flag",
+			"name": "Assassin’s Creed IV: Black Flag",
+			"id": 3841
+		},
+		{
+			"slug": "asteroid-quarry",
+			"name": "Asteroid Quarry",
+			"id": 23925
+		},
+		{
+			"slug": "astral-breakers",
+			"name": "Astral Breakers",
+			"id": 18134
+		},
+		{
+			"slug": "ava-and-avior-save-the-earth",
+			"name": "Ava and Avior Save the Earth",
+			"id": 27397
+		},
+		{
+			"slug": "avoider",
+			"name": "AVOIDER",
+			"id": 27704
+		},
+		{
+			"slug": "axelay",
+			"name": "AXELAY",
+			"id": 25308
+		},
+		{
+			"slug": "axiom-verge",
+			"name": "Axiom Verge",
+			"id": 2536
+		},
+		{
+			"slug": "azure-snake",
+			"name": "Azure Snake",
+			"id": 286813
+		},
+		{
+			"slug": "b3-game-expo-for-bees",
+			"name": "B3 Game Expo For Bees",
+			"id": 27772
+		},
+		{
+			"slug": "back-to-bed",
+			"name": "Back to Bed",
+			"id": 7353
+		},
+		{
+			"slug": "baila-latino",
+			"name": "Baila Latino",
+			"id": 1326
+		},
+		{
+			"slug": "ballpoint-universe-infinite",
+			"name": "Ballpoint Universe - Infinite",
+			"id": 20736
+		},
+		{
+			"slug": "baseball",
+			"name": "Baseball",
+			"id": 25084
+		},
+		{
+			"slug": "baseball-simulator-1000-2",
+			"name": "Baseball Simulator 1.000",
+			"id": 53704
+		},
+		{
+			"slug": "baseball-simulator-1000",
+			"name": "Baseball Simulator 1000",
+			"id": 27785
+		},
+		{
+			"slug": "bases-loaded",
+			"name": "Bases Loaded",
+			"id": 25442
+		},
+		{
+			"slug": "bases-loaded-1987",
+			"name": "Bases Loaded (1987)",
+			"id": 53705
+		},
+		{
+			"slug": "batman-arkham-city-armored-edition",
+			"name": "Batman: Arkham City Armored Edition",
+			"id": 251482
+		},
+		{
+			"slug": "blackgate-deluxe-ed",
+			"name": "Batman: Arkham Origins Blackgate - Deluxe Edition",
+			"id": 17913
+		},
+		{
+			"slug": "battle-chopper",
+			"name": "Battle Chopper",
+			"id": 52126
+		},
+		{
+			"slug": "battle-city",
+			"name": "Battle City",
+			"id": 55775
+		},
+		{
+			"slug": "battle-lode-runner-2017",
+			"name": "BATTLE LODE RUNNER (2017)",
+			"id": 50484
+		},
+		{
+			"slug": "bayonetta",
+			"name": "Bayonetta",
+			"id": 4101
+		},
+		{
+			"slug": "bayonetta-2",
+			"name": "Bayonetta 2",
+			"id": 23760
+		},
+		{
+			"slug": "bayonetta-2-with-bonus-bayonetta-disc",
+			"name": "Bayonetta 2 with bonus Bayonetta disc",
+			"id": 58901
+		},
+		{
+			"slug": "beatbuddy",
+			"name": "Beatbuddy",
+			"id": 23911
+		},
+		{
+			"slug": "ben-10-omniverse",
+			"name": "Ben 10 Omniverse",
+			"id": 26923
+		},
+		{
+			"slug": "ben-10-omniverse-2",
+			"name": "Ben 10 Omniverse 2",
+			"id": 27328
+		},
+		{
+			"slug": "big-brain-academy",
+			"name": "Big Brain Academy",
+			"id": 24937
+		},
+		{
+			"slug": "bigleys-revenge",
+			"name": "Bigley's Revenge",
+			"id": 27707
+		},
+		{
+			"slug": "bike-rider-ultradx-world-tour",
+			"name": "Bike Rider UltraDX - WORLD TOUR",
+			"id": 974746
+		},
+		{
+			"slug": "bird-mania-party",
+			"name": "Bird Mania Party",
+			"id": 27739
+		},
+		{
+			"slug": "bit-dungeon-2",
+			"name": "bit Dungeon+",
+			"id": 19195
+		},
+		{
+			"slug": "bittrip-presents-runner2-future-legend-of-rhythm-a",
+			"name": "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien",
+			"id": 2760
+		},
+		{
+			"slug": "blackjack-21",
+			"name": "Blackjack 21",
+			"id": 27781
+		},
+		{
+			"slug": "blaster-master",
+			"name": "Blaster Master (Wii)",
+			"id": 26235
+		},
+		{
+			"slug": "blek",
+			"name": "Blek",
+			"id": 2224
+		},
+		{
+			"slug": "bloc",
+			"name": "BLOC",
+			"id": 27791
+		},
+		{
+			"slug": "block-zombies",
+			"name": "Block Zombies!",
+			"id": 23790
+		},
+		{
+			"slug": "blockara",
+			"name": "Blockara",
+			"id": 27011
+		},
+		{
+			"slug": "blocky-bot",
+			"name": "Blocky Bot",
+			"id": 23930
+		},
+		{
+			"slug": "blok-drop-u",
+			"name": "Blok Drop U",
+			"id": 24042
+		},
+		{
+			"slug": "blok-drop-x-twisted-fusion",
+			"name": "Blok Drop X: Twisted Fusion",
+			"id": 23968
+		},
+		{
+			"slug": "blue-collar-astronaut",
+			"name": "Blue-Collar Astronaut",
+			"id": 167
+		},
+		{
+			"slug": "bomberman-93-2017",
+			"name": "Bomberman '93 (2017)",
+			"id": 50483
+		},
+		{
+			"slug": "bomberman-94",
+			"name": "BOMBERMAN '94",
+			"id": 4712
+		},
+		{
+			"slug": "bomberman-64",
+			"name": "Bomberman 64",
+			"id": 27891
+		},
+		{
+			"slug": "bomberman-64-1997",
+			"name": "Bomberman 64 (1997)",
+			"id": 54359
+		},
+		{
+			"slug": "bomberman-panic-bomber",
+			"name": "Bomberman Panic Bomber",
+			"id": 50265
+		},
+		{
+			"slug": "bombing-busters",
+			"name": "Bombing Bastards",
+			"id": 17781
+		},
+		{
+			"slug": "booty-diver",
+			"name": "Booty Diver",
+			"id": 27910
+		},
+		{
+			"slug": "box-up",
+			"name": "BOX UP",
+			"id": 27843
+		},
+		{
+			"slug": "brain-age-train-your-brain-in-minutes-a-day",
+			"name": "Brain Age: Train Your Brain in Minutes a Day!",
+			"id": 24934
+		},
+		{
+			"slug": "brave-tank-hero",
+			"name": "Brave Tank Hero",
+			"id": 23915
+		},
+		{
+			"slug": "brawl-brothers",
+			"name": "Brawl Brothers",
+			"id": 24053
+		},
+		{
+			"slug": "brawl-brothers-1992",
+			"name": "Brawl Brothers (1992)",
+			"id": 57312
+		},
+		{
+			"slug": "break-in-2017",
+			"name": "Break in (2017)",
+			"id": 50041
+		},
+		{
+			"slug": "breakout-defense",
+			"name": "Breakout Defense",
+			"id": 23804
+		},
+		{
+			"slug": "breakout-defense-2",
+			"name": "Breakout Defense 2",
+			"id": 50266
+		},
+		{
+			"slug": "breath-of-fire",
+			"name": "Breath of Fire (1993)",
+			"id": 53168
+		},
+		{
+			"slug": "breath-of-fire-ii",
+			"name": "Breath of Fire II (1994)",
+			"id": 53167
+		},
+		{
+			"slug": "breezeblox",
+			"name": "Breezeblox",
+			"id": 20899
+		},
+		{
+			"slug": "brgs-alice-in-wonderland",
+			"name": "BRG's Alice in Wonderland Visual Novel",
+			"id": 320379
+		},
+		{
+			"slug": "brick-breaker",
+			"name": "Brick Breaker",
+			"id": 2497
+		},
+		{
+			"slug": "brick-race",
+			"name": "BRICK RACE",
+			"id": 23813
+		},
+		{
+			"slug": "brickblast-u",
+			"name": "BrickBlast U!",
+			"id": 27428
+		},
+		{
+			"slug": "bridge-constructor-playground",
+			"name": "Bridge Constructor Playground",
+			"id": 10817
+		},
+		{
+			"slug": "brunswick-pro-bowling",
+			"name": "Brunswick Pro Bowling",
+			"id": 3030
+		},
+		{
+			"slug": "bubble-bobble-1986",
+			"name": "Bubble Bobble (1986)",
+			"id": 53171
+		},
+		{
+			"slug": "bubble-gum-popper",
+			"name": "Bubble Gum Popper",
+			"id": 27586
+		},
+		{
+			"slug": "cabelas-big-game-hunter-pro-hunts",
+			"name": "Cabela's Big Game Hunter Pro Hunts",
+			"id": 3737
+		},
+		{
+			"slug": "cabelas-dangerous-hunts-2013",
+			"name": "Cabela's Dangerous Hunts 2013",
+			"id": 20833
+		},
+		{
+			"slug": "cake-ninja-3-the-legend-continues",
+			"name": "Cake Ninja 3: The Legend Continues",
+			"id": 23969
+		},
+		{
+			"slug": "cod-black-ops-ii",
+			"name": "Call of Duty: Black Ops II",
+			"id": 14446
+		},
+		{
+			"slug": "call-of-duty-ghosts",
+			"name": "Call of Duty: Ghosts",
+			"id": 7439
+		},
+		{
+			"slug": "call-of-nightmare",
+			"name": "Call of Nightmare",
+			"id": 47182
+		},
+		{
+			"slug": "candy-hoarder",
+			"name": "Candy Hoarder",
+			"id": 27890
+		},
+		{
+			"slug": "canvaleon",
+			"name": "Canvaleon",
+			"id": 27629
+		},
+		{
+			"slug": "captain-toad-treasure-tracker",
+			"name": "Captain Toad: Treasure Tracker",
+			"id": 23767
+		},
+		{
+			"slug": "car-battler-joe",
+			"name": "Car Battler Joe",
+			"id": 23905
+		},
+		{
+			"slug": "cars-3-driven-to-win",
+			"name": "Cars 3: Driven to Win",
+			"id": 23340
+		},
+		{
+			"slug": "castlestorm",
+			"name": "CastleStorm",
+			"id": 3861
+		},
+		{
+			"slug": "castlevania",
+			"name": "Castlevania",
+			"id": 25137
+		},
+		{
+			"slug": "castlevania-ii-simons-quest-1987",
+			"name": "Castlevania II: Simon's Quest (1987)",
+			"id": 53742
+		},
+		{
+			"slug": "castlevania-iii-draculas-curse-1989",
+			"name": "Castlevania III: Dracula's Curse",
+			"id": 53743
+		},
+		{
+			"slug": "castlevania-aria-of-sorrow-2",
+			"name": "Castlevania: Aria of Sorrow",
+			"id": 53180
+		},
+		{
+			"slug": "castlevania-circle-of-the-moon-2",
+			"name": "Castlevania: Circle of the Moon",
+			"id": 53181
+		},
+		{
+			"slug": "castlevania-harmony-of-dissonance-2",
+			"name": "Castlevania: Harmony of Dissonance",
+			"id": 53182
+		},
+		{
+			"slug": "championship-lode-runner",
+			"name": "Championship Lode Runner",
+			"id": 56385
+		},
+		{
+			"slug": "chariot",
+			"name": "Chariot",
+			"id": 2838
+		},
+		{
+			"slug": "chasing-aurora",
+			"name": "Chasing Aurora",
+			"id": 24117
+		},
+		{
+			"slug": "chasing-dead",
+			"name": "Chasing Dead",
+			"id": 17962
+		},
+		{
+			"slug": "chests-o-booty",
+			"name": "Chests O' Booty",
+			"id": 27478
+		},
+		{
+			"slug": "chew-man-fu",
+			"name": "Chew Man Fu",
+			"id": 25106
+		},
+		{
+			"slug": "child-of-light",
+			"name": "Child of Light",
+			"id": 3647
+		},
+		{
+			"slug": "china-warrior",
+			"name": "China Warrior",
+			"id": 25169
+		},
+		{
+			"slug": "chompy-chomp-chomp-party",
+			"name": "Chompy Chomp Chomp Party",
+			"id": 27765
+		},
+		{
+			"slug": "christmas-adventure-of-rocket-penguin",
+			"name": "Christmas Adventure of Rocket Penguin",
+			"id": 27675
+		},
+		{
+			"slug": "chroma-blast",
+			"name": "Chroma Blast",
+			"id": 27789
+		},
+		{
+			"slug": "chronicles-of-teddy-harmony-of-exidus",
+			"name": "Chronicles of Teddy: Harmony of Exidus",
+			"id": 2604
+		},
+		{
+			"slug": "chubbins",
+			"name": "Chubbins",
+			"id": 8748
+		},
+		{
+			"slug": "chuchu-rocket",
+			"name": "ChuChu Rocket!",
+			"id": 53188
+		},
+		{
+			"slug": "circus-charlie",
+			"name": "Circus Charlie",
+			"id": 56389
+		},
+		{
+			"slug": "citadale",
+			"name": "Citadale",
+			"id": 27862
+		},
+		{
+			"slug": "citadale-the-legends-trilogy-2",
+			"name": "Citadale: The Legends Trilogy",
+			"id": 46357
+		},
+		{
+			"slug": "citizens-of-earth",
+			"name": "Citizens of Earth",
+			"id": 3446
+		},
+		{
+			"slug": "cloudberry-kingdom",
+			"name": "Cloudberry Kingdom",
+			"id": 3945
+		},
+		{
+			"slug": "clu-clu-land",
+			"name": "Clu Clu Land",
+			"id": 25559
+		},
+		{
+			"slug": "clu-clu-land-1984",
+			"name": "Clu Clu Land (1984)",
+			"id": 53192
+		},
+		{
+			"slug": "coaster-crazy-deluxe",
+			"name": "Coaster Crazy Deluxe",
+			"id": 9265
+		},
+		{
+			"slug": "cocoto-magic-circus-2",
+			"name": "Cocoto Magic Circus 2",
+			"id": 27361
+		},
+		{
+			"slug": "collateral-thinking",
+			"name": "Collateral Thinking",
+			"id": 27802
+		},
+		{
+			"slug": "coloy-capture",
+			"name": "Colony Capture",
+			"id": 332852
+		},
+		{
+			"slug": "color-bombs",
+			"name": "COLOR BOMBS",
+			"id": 23899
+		},
+		{
+			"slug": "color-cubes",
+			"name": "COLOR CUBES",
+			"id": 23816
+		},
+		{
+			"slug": "color-symphony-2",
+			"name": "Color Symphony 2",
+			"id": 125
+		},
+		{
+			"slug": "color-zen",
+			"name": "Color Zen",
+			"id": 2076
+		},
+		{
+			"slug": "color-zen-kids",
+			"name": "Color Zen Kids",
+			"id": 24005
+		},
+		{
+			"slug": "contra-advance-the-alien-wars-ex",
+			"name": "CONTRA ADVANCE THE ALIEN WARS EX",
+			"id": 27679
+		},
+		{
+			"slug": "coqui-the-game",
+			"name": "COQUI THE GAME",
+			"id": 27926
+		},
+		{
+			"slug": "cosmophony",
+			"name": "Cosmophony",
+			"id": 3343
+		},
+		{
+			"slug": "costume-quest-2",
+			"name": "Costume Quest 2",
+			"id": 2858
+		},
+		{
+			"slug": "crab-cakes-rescue",
+			"name": "Crab Cakes Rescue",
+			"id": 20954
+		},
+		{
+			"slug": "crash-n-the-boys-street-challenge",
+			"name": "Crash 'n' the Boys: Street Challenge (2009)",
+			"id": 26054
+		},
+		{
+			"slug": "crunchyroll",
+			"name": "Crunchyroll",
+			"id": 27007
+		},
+		{
+			"slug": "crush-insects",
+			"name": "Crush Insects",
+			"id": 266735
+		},
+		{
+			"slug": "cryamore",
+			"name": "Cryamore",
+			"id": 332961
+		},
+		{
+			"slug": "crystorld",
+			"name": "CRYSTORLD",
+			"id": 532554
+		},
+		{
+			"slug": "cube-blitz",
+			"name": "Cube Blitz",
+			"id": 27607
+		},
+		{
+			"slug": "cube-life-island-survival",
+			"name": "Cube Life: Island Survival",
+			"id": 27606
+		},
+		{
+			"slug": "cube-life-pixel-action-heroes",
+			"name": "Cube Life: Pixel Action Heroes",
+			"id": 27902
+		},
+		{
+			"slug": "cubemen-2",
+			"name": "Cubemen 2",
+			"id": 18079
+		},
+		{
+			"slug": "cubeshift",
+			"name": "Cubeshift",
+			"id": 44787
+		},
+		{
+			"slug": "cubit-the-hardcore-platformer-robot-hd",
+			"name": "Cubit The Hardcore Platformer Robot HD",
+			"id": 28147
+		},
+		{
+			"slug": "cup-critters",
+			"name": "CUP CRITTERS",
+			"id": 23832
+		},
+		{
+			"slug": "custom-robo-v2",
+			"name": "Custom Robo V2",
+			"id": 54378
+		},
+		{
+			"slug": "cutie-clash",
+			"name": "Cutie Clash",
+			"id": 27724
+		},
+		{
+			"slug": "cutie-pets-go-fishing",
+			"name": "Cutie Pets Go Fishing",
+			"id": 27723
+		},
+		{
+			"slug": "cutie-pets-jump-rope",
+			"name": "Cutie Pets Jump Rope",
+			"id": 27689
+		},
+		{
+			"slug": "cutie-pets-pick-berries",
+			"name": "Cutie Pets Pick Berries",
+			"id": 23901
+		},
+		{
+			"slug": "cybernator",
+			"name": "Cybernator",
+			"id": 25351
+		},
+		{
+			"slug": "cycle-of-eternity-space-anomaly",
+			"name": "Cycle of Eternity: Space Anomaly",
+			"id": 58233
+		},
+		{
+			"slug": "daikon-set",
+			"name": "Daikon Set",
+			"id": 43758
+		},
+		{
+			"slug": "dare-up-adrenaline",
+			"name": "Dare Up Adrenaline",
+			"id": 23923
+		},
+		{
+			"slug": "darius-twin-1991",
+			"name": "Darius Twin (1991)",
+			"id": 57331
+		},
+		{
+			"slug": "darksiders-ii",
+			"name": "Darksiders II",
+			"id": 4179
+		},
+		{
+			"slug": "darksiders-warmastered-edition",
+			"name": "Darksiders Warmastered Edition",
+			"id": 10548
+		},
+		{
+			"slug": "darts-up",
+			"name": "Darts Up",
+			"id": 27475
+		},
+		{
+			"slug": "defend-your-crypt",
+			"name": "Defend Your Crypt",
+			"id": 18464
+		},
+		{
+			"slug": "defense-dome",
+			"name": "Defense Dome",
+			"id": 23906
+		},
+		{
+			"slug": "demons-crest",
+			"name": "Demon's Crest (1994)",
+			"id": 57333
+		},
+		{
+			"slug": "demonic-karma-summoner",
+			"name": "Demonic Karma Summoner",
+			"id": 27841
+		},
+		{
+			"slug": "detana-twin-bee",
+			"name": "DETANA TWIN BEE",
+			"id": 25859
+		},
+		{
+			"slug": "deus-ex-human-revolution-directors-cut",
+			"name": "Deus Ex: Human Revolution - Director's Cut",
+			"id": 3876
+		},
+		{
+			"slug": "devil-world",
+			"name": "Devil World",
+			"id": 53785
+		},
+		{
+			"slug": "devils-crush",
+			"name": "Devil's Crush",
+			"id": 25180
+		},
+		{
+			"slug": "devils-crush-1990",
+			"name": "Devil's Crush (1990)",
+			"id": 57005
+		},
+		{
+			"slug": "devils-third",
+			"name": "Devil's Third",
+			"id": 23893
+		},
+		{
+			"slug": "dig-dug",
+			"name": "DIG DUG",
+			"id": 25487
+		},
+		{
+			"slug": "dig-dug-1982",
+			"name": "Dig Dug (1982)",
+			"id": 52418
+		},
+		{
+			"slug": "dig-dug-ii",
+			"name": "DIG DUG II",
+			"id": 27738
+		},
+		{
+			"slug": "dig-dug-ii-1985",
+			"name": "Dig Dug II (1985)",
+			"id": 53787
+		},
+		{
+			"slug": "digital-champ-battle-boxing",
+			"name": "Digital Champ Battle Boxing",
+			"id": 25640
+		},
+		{
+			"slug": "dinox",
+			"name": "Dinox",
+			"id": 23891
+		},
+		{
+			"slug": "discovery",
+			"name": "Discovery",
+			"id": 27703
+		},
+		{
+			"slug": "disney-epic-mickey-2-the-power-of-two",
+			"name": "Disney Epic Mickey 2: The Power of Two",
+			"id": 4180
+		},
+		{
+			"slug": "disney-infinity",
+			"name": "Disney Infinity",
+			"id": 5545
+		},
+		{
+			"slug": "disney-infinity-20",
+			"name": "Disney Infinity 2.0",
+			"id": 965126
+		},
+		{
+			"slug": "disney-infinity-30",
+			"name": "Disney Infinity 3.0",
+			"id": 965127
+		},
+		{
+			"slug": "disney-planes",
+			"name": "Disney Planes",
+			"id": 13052
+		},
+		{
+			"slug": "dk-jungle-climber",
+			"name": "DK: Jungle Climber",
+			"id": 25206
+		},
+		{
+			"slug": "dk-king-of-swing",
+			"name": "DK: King of Swing",
+			"id": 27512
+		},
+		{
+			"slug": "dodge-club-party",
+			"name": "Dodge Club Party",
+			"id": 24187
+		},
+		{
+			"slug": "dolphin-up",
+			"name": "Dolphin Up",
+			"id": 22136
+		},
+		{
+			"slug": "dont-crash",
+			"name": "DON'T CRASH",
+			"id": 23921
+		},
+		{
+			"slug": "dont-starve",
+			"name": "Don't Starve",
+			"id": 9475
+		},
+		{
+			"slug": "dont-touch-anything-red",
+			"name": "Don't Touch Anything Red",
+			"id": 27569
+		},
+		{
+			"slug": "arcade-archives-donkey-kong",
+			"name": "Donkey Kong",
+			"id": 52512
+		},
+		{
+			"slug": "donkey-kong-3",
+			"name": "Donkey Kong 3",
+			"id": 53790
+		},
+		{
+			"slug": "donkey-kong-country",
+			"name": "Donkey Kong Country",
+			"id": 27571
+		},
+		{
+			"slug": "donkey-kong-country-2-diddys-kong-quest",
+			"name": "Donkey Kong Country 2: Diddy's Kong Quest",
+			"id": 53251
+		},
+		{
+			"slug": "donkey-kong-country-3-dixies-double-trouble",
+			"name": "Donkey Kong Country 3: Dixie Kong's Double Trouble",
+			"id": 27564
+		},
+		{
+			"slug": "donkey-kong-country-returns",
+			"name": "Donkey Kong Country Returns",
+			"id": 24170
+		},
+		{
+			"slug": "donkey-kong-country-tropical-freeze",
+			"name": "Donkey Kong Country: Tropical Freeze",
+			"id": 27978
+		},
+		{
+			"slug": "donkey-kong-jr",
+			"name": "Donkey Kong Jr.",
+			"id": 52513
+		},
+		{
+			"slug": "donkey-kong-jr-math",
+			"name": "Donkey Kong Jr. Math",
+			"id": 53791
+		},
+		{
+			"slug": "new-play-control-donkey-kong-jungle-beat",
+			"name": "Donkey Kong Jungle Beat",
+			"id": 56029
+		},
+		{
+			"slug": "dot-arcade",
+			"name": "Dot Arcade",
+			"id": 27579
+		},
+		{
+			"slug": "double-breakout",
+			"name": "Double Breakout",
+			"id": 23806
+		},
+		{
+			"slug": "double-breakout-ii",
+			"name": "Double Breakout II",
+			"id": 23810
+		},
+		{
+			"slug": "double-dragon-ii",
+			"name": "Double Dragon II: The Revenge",
+			"id": 331807
+		},
+		{
+			"slug": "double-dragon-3-the-rosetta-stone",
+			"name": "Double Dragon III: The Sacred Stones (1991)",
+			"id": 53798
+		},
+		{
+			"slug": "double-dungeons",
+			"name": "Double Dungeons",
+			"id": 25114
+		},
+		{
+			"slug": "dr-kawashimas-brain-training",
+			"name": "Dr Kawashima's Brain Training",
+			"id": 399392
+		},
+		{
+			"slug": "dr-luigi",
+			"name": "Dr. Luigi",
+			"id": 24047
+		},
+		{
+			"slug": "dr-mario",
+			"name": "Dr. Mario",
+			"id": 27168
+		},
+		{
+			"slug": "draculas-legacy",
+			"name": "Dracula's Legacy",
+			"id": 18396
+		},
+		{
+			"slug": "dragon-fantasy-the-black-tome-of-ice",
+			"name": "Dragon Fantasy: The Black Tome of Ice",
+			"id": 2644
+		},
+		{
+			"slug": "dragon-fantasy-the-volumes-of-westeria",
+			"name": "Dragon Fantasy: The Volumes of Westeria",
+			"id": 16785
+		},
+		{
+			"slug": "dragon-quest-x",
+			"name": "Dragon Quest X",
+			"id": 41121
+		},
+		{
+			"slug": "dragon-skills",
+			"name": "Dragon Skills",
+			"id": 27793
+		},
+		{
+			"slug": "draw-2-survive",
+			"name": "Draw 2 Survive",
+			"id": 27753
+		},
+		{
+			"slug": "draw-a-stickman-epic-2",
+			"name": "Draw a Stickman: EPIC 2",
+			"id": 17067
+		},
+		{
+			"slug": "dreamals",
+			"name": "Dreamals",
+			"id": 3046
+		},
+		{
+			"slug": "dreamals-dream-quest",
+			"name": "Dreamals: Dream Quest",
+			"id": 321
+		},
+		{
+			"slug": "drill-dozer",
+			"name": "Drill Dozer (Wii)",
+			"id": 27771
+		},
+		{
+			"slug": "drop-it-block-paradise",
+			"name": "Drop It: Block Paradise!",
+			"id": 23784
+		},
+		{
+			"slug": "dual-core",
+			"name": "Dual Core",
+			"id": 13137
+		},
+		{
+			"slug": "duck-hunt-1984",
+			"name": "Duck Hunt (1984)",
+			"id": 53803
+		},
+		{
+			"slug": "ducktales-remastered",
+			"name": "DuckTales: Remastered",
+			"id": 2592
+		},
+		{
+			"slug": "dungeon-hearts-dx",
+			"name": "Dungeon Hearts DX",
+			"id": 27853
+		},
+		{
+			"slug": "dungeons-dragons-chronicles-of-mystara",
+			"name": "Dungeons & Dragons: Chronicles of Mystara",
+			"id": 3985
+		},
+		{
+			"slug": "dying-is-dangerous",
+			"name": "Dying is Dangerous",
+			"id": 532300
+		},
+		{
+			"slug": "ea-sports-fifa-soccer-13",
+			"name": "EA SPORTS FIFA Soccer 13",
+			"id": 24129
+		},
+		{
+			"slug": "earth-defense-force",
+			"name": "Earth Defense Force",
+			"id": 57344
+		},
+		{
+			"slug": "earthlock",
+			"name": "EARTHLOCK: Festival of Magic",
+			"id": 451
+		},
+		{
+			"slug": "eba-egg-a-hatch-trip",
+			"name": "Eba & Egg: A Hatch Trip",
+			"id": 23782
+		},
+		{
+			"slug": "ectoplaza",
+			"name": "Ectoplaza",
+			"id": 27842
+		},
+		{
+			"slug": "edge",
+			"name": "Edge",
+			"id": 597
+		},
+		{
+			"slug": "educational-pack-of-kids-games",
+			"name": "Educational Pack of Kids Games",
+			"id": 27778
+		},
+		{
+			"slug": "electronic-super-joy",
+			"name": "Electronic Super Joy",
+			"id": 1509
+		},
+		{
+			"slug": "electronic-super-joy-groove-city",
+			"name": "Electronic Super Joy: Groove City",
+			"id": 6905
+		},
+		{
+			"slug": "elliot-quest",
+			"name": "Elliot Quest",
+			"id": 20188
+		},
+		{
+			"slug": "emojikara-a-clever-emoji-match-game",
+			"name": "Emojikara: A Clever Emoji Match Game",
+			"id": 27749
+		},
+		{
+			"slug": "endless-golf",
+			"name": "Endless Golf",
+			"id": 27631
+		},
+		{
+			"slug": "epic-dumpster-bear",
+			"name": "Epic Dumpster Bear",
+			"id": 27750
+		},
+		{
+			"slug": "escape-from-flare-industries",
+			"name": "Escape From Flare Industries",
+			"id": 27759
+		},
+		{
+			"slug": "espn-sports-connection",
+			"name": "ESPN Sports Connection",
+			"id": 24116
+		},
+		{
+			"slug": "evofish",
+			"name": "Evofish",
+			"id": 27391
+		},
+		{
+			"slug": "excitebike",
+			"name": "Excitebike",
+			"id": 25116
+		},
+		{
+			"slug": "excitebike-64",
+			"name": "Excitebike 64",
+			"id": 27856
+		},
+		{
+			"slug": "excitebike-64-2000",
+			"name": "Excitebike 64 (2000)",
+			"id": 54387
+		},
+		{
+			"slug": "excitebots-trick-racing",
+			"name": "Excitebots: Trick Racing",
+			"id": 25896
+		},
+		{
+			"slug": "exiles-end",
+			"name": "Exile's End",
+			"id": 941
+		},
+		{
+			"slug": "explody-bomb",
+			"name": "Explody Bomb",
+			"id": 27654
+		},
+		{
+			"slug": "extreme-exorcism",
+			"name": "Extreme Exorcism",
+			"id": 2
+		},
+		{
+			"slug": "f-zero-1990",
+			"name": "F-Zero (Wii U)",
+			"id": 57349
+		},
+		{
+			"slug": "f-zero-maximum-velocity",
+			"name": "F-Zero Maximum Velocity (Wii U)",
+			"id": 27393
+		},
+		{
+			"slug": "f-zero-x",
+			"name": "F-Zero X (Wii U)",
+			"id": 23834
+		},
+		{
+			"slug": "f-zero-gp-legend",
+			"name": "F-Zero: GP Legend (Wii U)",
+			"id": 27567
+		},
+		{
+			"slug": "factotum",
+			"name": "Factotum",
+			"id": 27644
+		},
+		{
+			"slug": "falling-skies-the-game",
+			"name": "Falling Skies: The Game",
+			"id": 3564
+		},
+		{
+			"slug": "family-party-30-great-games-obstacle-arcade",
+			"name": "Family Party: 30 Great Games Obstacle Arcade",
+			"id": 27209
+		},
+		{
+			"slug": "family-tennis-sp",
+			"name": "Family Tennis SP",
+			"id": 27545
+		},
+		{
+			"slug": "fast-furious-showdown",
+			"name": "Fast & Furious: Showdown",
+			"id": 27253
+		},
+		{
+			"slug": "fast-racing-neo",
+			"name": "Fast Racing Neo",
+			"id": 23757
+		},
+		{
+			"slug": "fat-city",
+			"name": "Fat City",
+			"id": 630
+		},
+		{
+			"slug": "fat-dragons",
+			"name": "Fat Dragons",
+			"id": 52196
+		},
+		{
+			"slug": "fatal-frame-maiden-of-black-water",
+			"name": "Fatal Frame: Maiden of Black Water",
+			"id": 23900
+		},
+		{
+			"slug": "fated-by-chain",
+			"name": "Fated By Chain",
+			"id": 333514
+		},
+		{
+			"slug": "fifa-13",
+			"name": "FIFA 13",
+			"id": 41462
+		},
+		{
+			"slug": "fifteen",
+			"name": "FIFTEEN",
+			"id": 27908
+		},
+		{
+			"slug": "final-fantasy-1987",
+			"name": "Final Fantasy (1987)",
+			"id": 52936
+		},
+		{
+			"slug": "final-fantasy-ii-1988",
+			"name": "Final Fantasy II (1988)",
+			"id": 52935
+		},
+		{
+			"slug": "final-fantasy-mystic-quest-1992",
+			"name": "Final Fantasy Mystic Quest (1992)",
+			"id": 57355
+		},
+		{
+			"slug": "final-fight-2",
+			"name": "Final Fight 2",
+			"id": 24063
+		},
+		{
+			"slug": "final-fight-3",
+			"name": "Final Fight 3",
+			"id": 24062
+		},
+		{
+			"slug": "fire-emblem-shadow-dragon",
+			"name": "Fire Emblem: Shadow Dragon",
+			"id": 25818
+		},
+		{
+			"slug": "fire-emblem",
+			"name": "Fire Emblem: The Blazing Blade",
+			"id": 27519
+		},
+		{
+			"slug": "fist-of-the-north-star-kens-rage-2",
+			"name": "Fist of the North Star: Ken's Rage 2",
+			"id": 4091
+		},
+		{
+			"slug": "fit-music",
+			"name": "Fit Music",
+			"id": 27414
+		},
+		{
+			"slug": "fit-music-for-wii-u",
+			"name": "Fit Music for Wii U",
+			"id": 333563
+		},
+		{
+			"slug": "flapp-zegeta",
+			"name": "Flapp & Zegeta",
+			"id": 27497
+		},
+		{
+			"slug": "flight-of-light",
+			"name": "Flight of Light",
+			"id": 45037
+		},
+		{
+			"slug": "flowerworks-hd-follies-adventure",
+			"name": "Flowerworks HD: Follie's Adventure",
+			"id": 24032
+		},
+		{
+			"slug": "flying-dragon-the-secret-scroll",
+			"name": "Flying Dragon: The Secret Scroll",
+			"id": 27784
+		},
+		{
+			"slug": "flying-warriors",
+			"name": "Flying Warriors",
+			"id": 27876
+		},
+		{
+			"slug": "flying-warriors-1991",
+			"name": "Flying Warriors (1991)",
+			"id": 53821
+		},
+		{
+			"slug": "forced",
+			"name": "FORCED",
+			"id": 15308
+		},
+		{
+			"slug": "forest-escape",
+			"name": "Forest Escape",
+			"id": 47398
+		},
+		{
+			"slug": "forma8",
+			"name": "forma.8",
+			"id": 269
+		},
+		{
+			"slug": "frederic-resurrection-of-music",
+			"name": "Frederic: Resurrection of Music",
+			"id": 5776
+		},
+		{
+			"slug": "free-balling",
+			"name": "Free Balling",
+			"id": 18960
+		},
+		{
+			"slug": "freedom-planet",
+			"name": "Freedom Planet",
+			"id": 134
+		},
+		{
+			"slug": "freezeme",
+			"name": "FreezeME",
+			"id": 844
+		},
+		{
+			"slug": "frenchy-bird",
+			"name": "Frenchy Bird",
+			"id": 23959
+		},
+		{
+			"slug": "front-line",
+			"name": "Front Line",
+			"id": 52533
+		},
+		{
+			"slug": "fujiko-f-fujio-characters-great-assembly-slightly-",
+			"name": "Fujiko F. Fujio Characters: Great Assembly! Slightly Fantastic Slapstick Party",
+			"id": 333716
+		},
+		{
+			"slug": "fullblast",
+			"name": "FullBlast",
+			"id": 16204
+		},
+		{
+			"slug": "funk-of-titans",
+			"name": "Funk of Titans",
+			"id": 1508
+		},
+		{
+			"slug": "funky-barn-its-farming",
+			"name": "Funky Barn It's Farming!",
+			"id": 24114
+		},
+		{
+			"slug": "funky-physics",
+			"name": "Funky Physics",
+			"id": 27652
+		},
+		{
+			"slug": "gaiabreaker",
+			"name": "GAIABREAKER",
+			"id": 27455
+		},
+		{
+			"slug": "galaga",
+			"name": "Galaga",
+			"id": 25128
+		},
+		{
+			"slug": "galaga-1981",
+			"name": "Galaga (1981)",
+			"id": 53830
+		},
+		{
+			"slug": "galaxy-blaster",
+			"name": "GALAXY BLASTER",
+			"id": 27864
+		},
+		{
+			"slug": "game-wario",
+			"name": "Game & Wario",
+			"id": 27263
+		},
+		{
+			"slug": "game-party-champions",
+			"name": "Game Party Champions",
+			"id": 24112
+		},
+		{
+			"slug": "games-for-toddlers",
+			"name": "Games for Toddlers",
+			"id": 27812
+		},
+		{
+			"slug": "gear-gauntlet",
+			"name": "Gear Gauntlet",
+			"id": 1338
+		},
+		{
+			"slug": "gemology",
+			"name": "Gemology",
+			"id": 27657
+		},
+		{
+			"slug": "genghis-khan-ii-clan-of-the-gray-wolf",
+			"name": "Genghis Khan II: Clan of the Gray Wolf (1992)",
+			"id": 54264
+		},
+		{
+			"slug": "geom",
+			"name": "GEOM",
+			"id": 24003
+		},
+		{
+			"slug": "getclose-a-game-for-rivals",
+			"name": "GetClose: A game for RIVALS",
+			"id": 27517
+		},
+		{
+			"slug": "ghost-blade",
+			"name": "Ghost Blade",
+			"id": 1432
+		},
+		{
+			"slug": "ghosts-n-goblins-2",
+			"name": "Ghosts 'N Goblins",
+			"id": 27258
+		},
+		{
+			"slug": "ghosts-n-goblins-1985",
+			"name": "Ghosts 'n Goblins (1985)",
+			"id": 53839
+		},
+		{
+			"slug": "giana-sisters-twisted-dreams",
+			"name": "Giana Sisters: Twisted Dreams",
+			"id": 3987
+		},
+		{
+			"slug": "giana-sisters-twisted-dreams-directors-cut",
+			"name": "Giana Sisters: Twisted Dreams - Director's Cut",
+			"id": 1698
+		},
+		{
+			"slug": "ginsei-shogi-kyoutendo-toufuu-raijin",
+			"name": "Ginsei Shogi: Kyoutendo Toufuu Raijin",
+			"id": 333797
+		},
+		{
+			"slug": "girls-like-robots",
+			"name": "Girls Like Robots",
+			"id": 1905
+		},
+		{
+			"slug": "golf",
+			"name": "Golf",
+			"id": 27079
+		},
+		{
+			"slug": "golf-1980",
+			"name": "Golf (1980)",
+			"id": 52424
+		},
+		{
+			"slug": "gradius",
+			"name": "Gradius",
+			"id": 25086
+		},
+		{
+			"slug": "gradius-ii-gofer-no-yabou",
+			"name": "GRADIUS II GOFER NO YABOU",
+			"id": 25638
+		},
+		{
+			"slug": "grand-prix-rock-n-racing",
+			"name": "Grand Prix Rock 'N Racing",
+			"id": 891
+		},
+		{
+			"slug": "gravblocks-2",
+			"name": "GravBlocks+",
+			"id": 27560
+		},
+		{
+			"slug": "gravity-badgers",
+			"name": "Gravity Badgers",
+			"id": 3611
+		},
+		{
+			"slug": "gravity",
+			"name": "Gravity+",
+			"id": 27848
+		},
+		{
+			"slug": "grumpy-reaper",
+			"name": "Grumpy Reaper",
+			"id": 23883
+		},
+		{
+			"slug": "guacamelee-super-turbo-championship-edition",
+			"name": "Guacamelee! Super Turbo Championship Edition",
+			"id": 17875
+		},
+		{
+			"slug": "guitar-hero-live",
+			"name": "Guitar Hero Live",
+			"id": 2271
+		},
+		{
+			"slug": "gunman-clive-hd-collection",
+			"name": "Gunman Clive HD Collection",
+			"id": 27650
+		},
+		{
+			"slug": "harvest-moon-1996",
+			"name": "Harvest Moon",
+			"id": 57375
+		},
+		{
+			"slug": "harvest-moon-64-1999",
+			"name": "Harvest Moon 64 (1999)",
+			"id": 54406
+		},
+		{
+			"slug": "harvest-moon-friends-of-mineral-town",
+			"name": "Harvest Moon: Friends of Mineral Town (Wii)",
+			"id": 27612
+		},
+		{
+			"slug": "harvest-moon-more-friends-of-mineral-town",
+			"name": "Harvest Moon: MORE friends of Mineral Town",
+			"id": 23903
+		},
+		{
+			"slug": "heart-forth-alicia",
+			"name": "Heart Forth, Alicia",
+			"id": 283967
+		},
+		{
+			"slug": "hello-kitty-kruisers",
+			"name": "Hello Kitty Kruisers",
+			"id": 27387
+		},
+		{
+			"slug": "heptrix",
+			"name": "Heptrix",
+			"id": 27516
+		},
+		{
+			"slug": "high-strangeness",
+			"name": "High Strangeness",
+			"id": 20866
+		},
+		{
+			"slug": "hive-jump",
+			"name": "Hive Jump",
+			"id": 11803
+		},
+		{
+			"slug": "hogans-alley",
+			"name": "Hogan's Alley (Wii U)",
+			"id": 27700
+		},
+		{
+			"slug": "hold-your-fire-a-game-about-responsibility",
+			"name": "Hold Your Fire: A Game About Responsibility",
+			"id": 23909
+		},
+		{
+			"slug": "horror-stories",
+			"name": "Horror Stories",
+			"id": 292083
+		},
+		{
+			"slug": "hot-rod-racer",
+			"name": "Hot Rod Racer",
+			"id": 23866
+		},
+		{
+			"slug": "hot-wheels-worlds-best-driver",
+			"name": "Hot Wheels: World's Best Driver",
+			"id": 42346
+		},
+		{
+			"slug": "how-to-survive",
+			"name": "How to Survive",
+			"id": 3863
+		},
+		{
+			"slug": "how-to-train-your-dragon-2",
+			"name": "How To Train Your Dragon 2",
+			"id": 3668
+		},
+		{
+			"slug": "human-resource-machine",
+			"name": "Human Resource Machine",
+			"id": 5978
+		},
+		{
+			"slug": "humanitarian-helicopter",
+			"name": "Humanitarian Helicopter",
+			"id": 23864
+		},
+		{
+			"slug": "hurry-up-bird-hunter",
+			"name": "Hurry Up! Bird Hunter",
+			"id": 27835
+		},
+		{
+			"slug": "hyrule-warriors",
+			"name": "Hyrule Warriors",
+			"id": 23764
+		},
+		{
+			"slug": "i-c-redd",
+			"name": "I C REDD",
+			"id": 27880
+		},
+		{
+			"slug": "ive-got-to-run",
+			"name": "I've Got to Run!",
+			"id": 27420
+		},
+		{
+			"slug": "ice-climber",
+			"name": "Ice Climber",
+			"id": 25100
+		},
+		{
+			"slug": "ice-cream-surfer",
+			"name": "Ice Cream Surfer",
+			"id": 20075
+		},
+		{
+			"slug": "ice-hockey",
+			"name": "Ice Hockey",
+			"id": 24035
+		},
+		{
+			"slug": "ice-hockey-1981",
+			"name": "Ice Hockey (1981)",
+			"id": 52538
+		},
+		{
+			"slug": "imagefight",
+			"name": "IMAGEFIGHT",
+			"id": 52164
+		},
+		{
+			"slug": "imagefight-2",
+			"name": "IMAGEFIGHT 2",
+			"id": 52163
+		},
+		{
+			"slug": "infinity-runner",
+			"name": "Infinity Runner",
+			"id": 1620
+		},
+		{
+			"slug": "injustice-gods-among-us",
+			"name": "Injustice: Gods Among Us",
+			"id": 211
+		},
+		{
+			"slug": "insect-planet-td",
+			"name": "Insect Planet TD",
+			"id": 255298
+		},
+		{
+			"slug": "inside-my-radio",
+			"name": "Inside My Radio",
+			"id": 1543
+		},
+		{
+			"slug": "internal-invasion",
+			"name": "Internal Invasion",
+			"id": 27439
+		},
+		{
+			"slug": "invanoid",
+			"name": "INVANOID",
+			"id": 27780
+		},
+		{
+			"slug": "iq-test",
+			"name": "IQ Test",
+			"id": 27448
+		},
+		{
+			"slug": "island-flight-simulator",
+			"name": "Island Flight Simulator",
+			"id": 16482
+		},
+		{
+			"slug": "ittle-dew",
+			"name": "Ittle Dew",
+			"id": 6961
+		},
+		{
+			"slug": "jackpot-777",
+			"name": "JACKPOT 777",
+			"id": 27787
+		},
+		{
+			"slug": "jeopardy",
+			"name": "JEOPARDY!",
+			"id": 26548
+		},
+		{
+			"slug": "jetgetters",
+			"name": "JetGetters",
+			"id": 334289
+		},
+		{
+			"slug": "jett-tailfin",
+			"name": "Jett Tailfin",
+			"id": 27451
+		},
+		{
+			"slug": "jewel-quest",
+			"name": "Jewel Quest",
+			"id": 23882
+		},
+		{
+			"slug": "job-the-leprechaun",
+			"name": "Job the Leprechaun",
+			"id": 14427
+		},
+		{
+			"slug": "joes-diner",
+			"name": "Joe's Diner",
+			"id": 515
+		},
+		{
+			"slug": "jolt-family-robot-racer",
+			"name": "Jolt Family Robot Racer",
+			"id": 51424
+		},
+		{
+			"slug": "jones-on-fire",
+			"name": "Jones On Fire",
+			"id": 20253
+		},
+		{
+			"slug": "journey-of-a-special-average-balloon",
+			"name": "Journey of a Special Average Balloon",
+			"id": 23926
+		},
+		{
+			"slug": "just-dance-2014",
+			"name": "Just Dance 2014",
+			"id": 3847
+		},
+		{
+			"slug": "just-dance-2015",
+			"name": "Just Dance 2015",
+			"id": 3538
+		},
+		{
+			"slug": "just-dance-2016",
+			"name": "Just Dance 2016",
+			"id": 3117
+		},
+		{
+			"slug": "just-dance-2017",
+			"name": "Just Dance 2017",
+			"id": 956
+		},
+		{
+			"slug": "just-dance-2018",
+			"name": "Just Dance 2018",
+			"id": 46893
+		},
+		{
+			"slug": "just-dance-2019",
+			"name": "Just Dance 2019",
+			"id": 238395
+		},
+		{
+			"slug": "just-dance-4",
+			"name": "Just Dance 4",
+			"id": 4124
+		},
+		{
+			"slug": "just-dance-kids-2014",
+			"name": "Just Dance Kids 2014",
+			"id": 27323
+		},
+		{
+			"slug": "just-dance-disney-party-2",
+			"name": "Just Dance: Disney Party 2",
+			"id": 27669
+		},
+		{
+			"slug": "kamen-rider-battride-war-2",
+			"name": "Kamen Rider: Battride War II",
+			"id": 334357
+		},
+		{
+			"slug": "keytari-8-bit-music-maker",
+			"name": "KEYTARI: 8-bit Music Maker",
+			"id": 23922
+		},
+		{
+			"slug": "kick-fennick",
+			"name": "Kick & Fennick",
+			"id": 1644
+		},
+		{
+			"slug": "kid-icarus",
+			"name": "Kid Icarus",
+			"id": 24083
+		},
+		{
+			"slug": "killer-freaks-from-outer-space",
+			"name": "Killer Freaks from Outer Space",
+			"id": 334399
+		},
+		{
+			"slug": "kingdom-of-12-doors",
+			"name": "Kingdom of 12 Doors",
+			"id": 334414
+		},
+		{
+			"slug": "kirby-the-amazing-mirror",
+			"name": "Kirby & The Amazing Mirror (Wii U)",
+			"id": 24024
+		},
+		{
+			"slug": "kirby-and-the-rainbow-curse",
+			"name": "Kirby and the Rainbow Curse",
+			"id": 27557
+		},
+		{
+			"slug": "kirby-mass-attack",
+			"name": "Kirby Mass Attack",
+			"id": 26753
+		},
+		{
+			"slug": "kirby-squeak-squad",
+			"name": "Kirby Squeak Squad",
+			"id": 25075
+		},
+		{
+			"slug": "kirby-super-star",
+			"name": "Kirby Super Star",
+			"id": 26384
+		},
+		{
+			"slug": "kirby-canvas-curse",
+			"name": "Kirby: Canvas Curse",
+			"id": 24962
+		},
+		{
+			"slug": "kirby-64-the-crystal-shards",
+			"name": "Kirby: The Crystal Shards (Wii)",
+			"id": 25402
+		},
+		{
+			"slug": "kirby-adventure",
+			"name": "Kirby's Adventure",
+			"id": 334431
+		},
+		{
+			"slug": "kirbys-dream-course",
+			"name": "Kirby's Dream Course",
+			"id": 23868
+		},
+		{
+			"slug": "kirbys-dream-land-3",
+			"name": "Kirby's Dream Land 3",
+			"id": 24645
+		},
+		{
+			"slug": "kirbys-dream-land-3-1997",
+			"name": "Kirby's Dream Land 3 (1997)",
+			"id": 57404
+		},
+		{
+			"slug": "knytt-underground",
+			"name": "Knytt Underground",
+			"id": 4137
+		},
+		{
+			"slug": "koi-dx",
+			"name": "Koi DX",
+			"id": 27874
+		},
+		{
+			"slug": "konami-krazy-racers",
+			"name": "KONAMI KRAZY RACERS (Wii U)",
+			"id": 27688
+		},
+		{
+			"slug": "konamis-ping-pong",
+			"name": "Konami's Ping Pong",
+			"id": 56594
+		},
+		{
+			"slug": "kung-fu-fight",
+			"name": "Kung Fu FIGHT!",
+			"id": 27638
+		},
+		{
+			"slug": "kung-fu-panda-showdown-of-legendary-legends-2",
+			"name": "Kung Fu Panda: Showdown of Legendary Legends",
+			"id": 23754
+		},
+		{
+			"slug": "kung-fu-rabbit",
+			"name": "Kung Fu Rabbit",
+			"id": 2004
+		},
+		{
+			"slug": "kuru-kuru-kururin",
+			"name": "Kuru Kuru Kururin (Wii)",
+			"id": 27721
+		},
+		{
+			"slug": "land-it-rocket",
+			"name": "Land it Rocket",
+			"id": 13207
+		},
+		{
+			"slug": "laser-blaster",
+			"name": "Laser Blaster",
+			"id": 27822
+		},
+		{
+			"slug": "last-soldier",
+			"name": "Last Soldier",
+			"id": 45042
+		},
+		{
+			"slug": "legend-of-hero-tonma",
+			"name": "LEGEND OF HERO TONMA",
+			"id": 24849
+		},
+		{
+			"slug": "legend-of-kay-anniversary",
+			"name": "Legend of Kay Anniversary",
+			"id": 3243
+		},
+		{
+			"slug": "lego-batman-2",
+			"name": "LEGO Batman 2 DC Super Heroes",
+			"id": 19908
+		},
+		{
+			"slug": "lego-batman-3-beyond-gotham",
+			"name": "LEGO Batman 3: Beyond Gotham",
+			"id": 3513
+		},
+		{
+			"slug": "lego-city-undercover",
+			"name": "Lego City Undercover",
+			"id": 959
+		},
+		{
+			"slug": "lego-dimensions",
+			"name": "LEGO DIMENSIONS",
+			"id": 27988
+		},
+		{
+			"slug": "lego-jurassic-world",
+			"name": "LEGO Jurassic World",
+			"id": 3294
+		},
+		{
+			"slug": "lego-marvel",
+			"name": "LEGO Marvel Super Heroes",
+			"id": 3850
+		},
+		{
+			"slug": "lego-marvels-avengers",
+			"name": "LEGO Marvel's Avengers",
+			"id": 2866
+		},
+		{
+			"slug": "lego-star-wars-tfa",
+			"name": "LEGO Star Wars: The Force Awakens",
+			"id": 1935
+		},
+		{
+			"slug": "lego-the-hobbit",
+			"name": "LEGO The Hobbit",
+			"id": 3729
+		},
+		{
+			"slug": "lets-sing-2014",
+			"name": "Let's Sing 2014",
+			"id": 334561
+		},
+		{
+			"slug": "lets-sing-2015",
+			"name": "Let's Sing 2015",
+			"id": 334562
+		},
+		{
+			"slug": "letter-quest-remastered-2",
+			"name": "Letter Quest: Remastered",
+			"id": 27819
+		},
+		{
+			"slug": "level-22",
+			"name": "Level 22: Gary’s Misadventure - 2016 Edition",
+			"id": 19998
+		},
+		{
+			"slug": "life-force",
+			"name": "Life Force",
+			"id": 53916
+		},
+		{
+			"slug": "life-of-pixel",
+			"name": "Life of Pixel",
+			"id": 20167
+		},
+		{
+			"slug": "little-inferno",
+			"name": "Little Inferno",
+			"id": 5995
+		},
+		{
+			"slug": "little-ninja-brothers",
+			"name": "Little Ninja Brothers",
+			"id": 27873
+		},
+		{
+			"slug": "little-ninja-brothers-2015",
+			"name": "Little Ninja Brothers (2015)",
+			"id": 53915
+		},
+		{
+			"slug": "lode-runner",
+			"name": "Lode Runner",
+			"id": 25161
+		},
+		{
+			"slug": "lone-survivor",
+			"name": "Lone Survivor",
+			"id": 41510
+		},
+		{
+			"slug": "lone-survivor-the-directors-cut",
+			"name": "Lone Survivor: The Director's Cut",
+			"id": 3545
+		},
+		{
+			"slug": "lords-of-thunder",
+			"name": "Lords of Thunder",
+			"id": 24793
+		},
+		{
+			"slug": "lost-reavers",
+			"name": "Lost Reavers",
+			"id": 23876
+		},
+		{
+			"slug": "lovely-planet",
+			"name": "Lovely Planet",
+			"id": 1981
+		},
+		{
+			"slug": "lucadian-chronicles",
+			"name": "Lucadian Chronicles",
+			"id": 20787
+		},
+		{
+			"slug": "lucentek-activate",
+			"name": "Lucentek - Activate",
+			"id": 27687
+		},
+		{
+			"slug": "lucentek-beyond",
+			"name": "Lucentek Beyond",
+			"id": 27878
+		},
+		{
+			"slug": "lufia-the-ruins-of-lore",
+			"name": "Lufia: The Ruins of Lore",
+			"id": 53383
+		},
+		{
+			"slug": "luv-me-buddies-wonderland",
+			"name": "Luv Me Buddies Wonderland",
+			"id": 27415
+		},
+		{
+			"slug": "mach-rider",
+			"name": "Mach Rider",
+			"id": 24025
+		},
+		{
+			"slug": "mach-rider-1985",
+			"name": "Mach Rider (1985)",
+			"id": 53925
+		},
+		{
+			"slug": "magical-vacation",
+			"name": "Magical Vacation",
+			"id": 53387
+		},
+		{
+			"slug": "magmax",
+			"name": "MagMax",
+			"id": 53932
+		},
+		{
+			"slug": "mahjong",
+			"name": "Mahjong",
+			"id": 1337
+		},
+		{
+			"slug": "mahjong-deluxe-3",
+			"name": "Mahjong Deluxe 3",
+			"id": 595
+		},
+		{
+			"slug": "majin-tensei-ii-spiral-nemesis",
+			"name": "Majin Tensei II: Spiral Nemesis",
+			"id": 939751
+		},
+		{
+			"slug": "mario-luigi-partners-in-time",
+			"name": "Mario & Luigi: Partners in Time",
+			"id": 27620
+		},
+		{
+			"slug": "mario-sonic-at-the-rio-2016-olympic-games",
+			"name": "Mario & Sonic at the Rio 2016 Olympic Games",
+			"id": 27999
+		},
+		{
+			"slug": "mario-sonic-at-the-sochi-2014-olympic-winter-games",
+			"name": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+			"id": 27340
+		},
+		{
+			"slug": "mario-bros",
+			"name": "Mario Bros.",
+			"id": 24919
+		},
+		{
+			"slug": "mario-golf",
+			"name": "Mario Golf",
+			"id": 25606
+		},
+		{
+			"slug": "mario-golf-1999",
+			"name": "Mario Golf (1999)",
+			"id": 54433
+		},
+		{
+			"slug": "mario-golf-advance-tour",
+			"name": "Mario Golf: Advance Tour (Wii U)",
+			"id": 27474
+		},
+		{
+			"slug": "mario-hoops-3-on-3",
+			"name": "Mario Hoops 3-on-3",
+			"id": 25017
+		},
+		{
+			"slug": "mario-kart-64-1996",
+			"name": "Mario Kart 64 (1996)",
+			"id": 54435
+		},
+		{
+			"slug": "mario-kart-8",
+			"name": "Mario Kart 8",
+			"id": 27976
+		},
+		{
+			"slug": "mario-kart-8-dlc-pack-1",
+			"name": "Mario Kart 8 DLC Pack 1",
+			"id": 334729
+		},
+		{
+			"slug": "mario-kart-8-dlc-pack-2",
+			"name": "Mario Kart 8 DLC Pack 2",
+			"id": 334730
+		},
+		{
+			"slug": "mario-kart-ds",
+			"name": "Mario Kart DS",
+			"id": 23943
+		},
+		{
+			"slug": "mario-party-10",
+			"name": "Mario Party 10",
+			"id": 27981
+		},
+		{
+			"slug": "mario-party-2",
+			"name": "Mario Party 2",
+			"id": 23823
+		},
+		{
+			"slug": "mario-party-advance",
+			"name": "Mario Party Advance",
+			"id": 27536
+		},
+		{
+			"slug": "mario-party-ds",
+			"name": "Mario Party DS",
+			"id": 24177
+		},
+		{
+			"slug": "mario-pinball-land",
+			"name": "Mario Pinball Land (Wii U)",
+			"id": 27515
+		},
+		{
+			"slug": "mario-sports-mix",
+			"name": "Mario Sports Mix",
+			"id": 26628
+		},
+		{
+			"slug": "mario-strikers-charged",
+			"name": "Mario Strikers Charged",
+			"id": 24868
+		},
+		{
+			"slug": "mario-super-sluggers",
+			"name": "Mario Super Sluggers",
+			"id": 24725
+		},
+		{
+			"slug": "mario-tennis",
+			"name": "Mario Tennis",
+			"id": 23919
+		},
+		{
+			"slug": "mario-tennis-ultra-smash",
+			"name": "Mario Tennis: Ultra Smash",
+			"id": 27992
+		},
+		{
+			"slug": "mario-vs-donkey-kong",
+			"name": "Mario vs. Donkey Kong (2004)",
+			"id": 53397
+		},
+		{
+			"slug": "mario-vs-donkey-kong-2-march-of-the-minis",
+			"name": "Mario vs. Donkey Kong 2: March of the Minis",
+			"id": 25025
+		},
+		{
+			"slug": "mario-vs-donkey-kong-tipping-stars",
+			"name": "Mario vs. Donkey Kong Tipping Stars",
+			"id": 23952
+		},
+		{
+			"slug": "marvel-avengers-battle-for-earth",
+			"name": "Marvel Avengers: Battle for Earth",
+			"id": 27208
+		},
+		{
+			"slug": "masked-forces",
+			"name": "Masked Forces",
+			"id": 13381
+		},
+		{
+			"slug": "mass-effect-3",
+			"name": "Mass Effect 3",
+			"id": 4439
+		},
+		{
+			"slug": "master-reboot",
+			"name": "Master Reboot",
+			"id": 3756
+		},
+		{
+			"slug": "maze",
+			"name": "Maze",
+			"id": 27538
+		},
+		{
+			"slug": "maze-break",
+			"name": "Maze Break",
+			"id": 23818
+		},
+		{
+			"slug": "measure-up",
+			"name": "Measure Up",
+			"id": 334756
+		},
+		{
+			"slug": "medabots-ax-metabee",
+			"name": "Medabots AX: Metabee",
+			"id": 27731
+		},
+		{
+			"slug": "medabots-ax-rokusho",
+			"name": "Medabots AX: Rokusho",
+			"id": 27729
+		},
+		{
+			"slug": "mega-man",
+			"name": "Mega Man (1987)",
+			"id": 53938
+		},
+		{
+			"slug": "mega-man-bass",
+			"name": "MEGA MAN & BASS",
+			"id": 27592
+		},
+		{
+			"slug": "mega-man-bass-1998",
+			"name": "Mega Man & Bass (1998)",
+			"id": 53408
+		},
+		{
+			"slug": "mega-man-2",
+			"name": "Mega Man 2 (1988)",
+			"id": 53939
+		},
+		{
+			"slug": "mega-man-3-1990",
+			"name": "Mega Man 3 (1990)",
+			"id": 53940
+		},
+		{
+			"slug": "mega-man-5",
+			"name": "Mega Man 5 (1992)",
+			"id": 53943
+		},
+		{
+			"slug": "mega-man-6",
+			"name": "Mega Man 6 (1993)",
+			"id": 53942
+		},
+		{
+			"slug": "mega-man-7",
+			"name": "Mega Man 7 (1995)",
+			"id": 57420
+		},
+		{
+			"slug": "mega-man-battle-network",
+			"name": "Mega Man Battle Network (Wii U)",
+			"id": 27447
+		},
+		{
+			"slug": "mega-man-battle-network-2",
+			"name": "Mega Man Battle Network 2 (Wii U)",
+			"id": 27540
+		},
+		{
+			"slug": "mega-man-battle-network-3-blue",
+			"name": "MEGA MAN BATTLE NETWORK 3 BLUE",
+			"id": 27598
+		},
+		{
+			"slug": "mega-man-battle-network-3-white",
+			"name": "MEGA MAN BATTLE NETWORK 3 WHITE",
+			"id": 27597
+		},
+		{
+			"slug": "mega-man-battle-network-4-blue-moon",
+			"name": "MEGA MAN BATTLE NETWORK 4 BLUE MOON",
+			"id": 23932
+		},
+		{
+			"slug": "mega-man-battle-network-4-red-sun",
+			"name": "MEGA MAN BATTLE NETWORK 4 RED SUN",
+			"id": 23931
+		},
+		{
+			"slug": "rockman-exe-45-real-operation",
+			"name": "Mega Man Battle Network 4.5: Real Operation (Wii U)",
+			"id": 53508
+		},
+		{
+			"slug": "mega-man-battle-network-5-team-colonel",
+			"name": "MEGA MAN BATTLE NETWORK 5 TEAM COLONEL",
+			"id": 23898
+		},
+		{
+			"slug": "mega-man-battle-network-5-team-protoman",
+			"name": "MEGA MAN BATTLE NETWORK 5 TEAM PROTOMAN",
+			"id": 23897
+		},
+		{
+			"slug": "mega-man-battle-network-6-cybeast-falzar",
+			"name": "MEGA MAN BATTLE NETWORK 6 CYBEAST FALZAR",
+			"id": 23881
+		},
+		{
+			"slug": "mega-man-battle-network-6-cybeast-gregar",
+			"name": "MEGA MAN BATTLE NETWORK 6 CYBEAST GREGAR",
+			"id": 23880
+		},
+		{
+			"slug": "mega-man-x2",
+			"name": "Mega Man X2",
+			"id": 24048
+		},
+		{
+			"slug": "mega-man-x3",
+			"name": "MEGA MAN X3",
+			"id": 23990
+		},
+		{
+			"slug": "mega-man-x3-1995",
+			"name": "Mega Man X3 (1995)",
+			"id": 57424
+		},
+		{
+			"slug": "mega-man-zero",
+			"name": "MEGA MAN ZERO (Wii U)",
+			"id": 27527
+		},
+		{
+			"slug": "mega-man-zero-2",
+			"name": "MEGA MAN ZERO 2 (Wii U)",
+			"id": 27601
+		},
+		{
+			"slug": "mega-man-zero-3",
+			"name": "MEGA MAN ZERO 3 (Wii U)",
+			"id": 23929
+		},
+		{
+			"slug": "mega-man-zero-4",
+			"name": "MEGA MAN ZERO 4 (Wii U)",
+			"id": 23894
+		},
+		{
+			"slug": "mega-man-battle-chip-challenge",
+			"name": "Mega Man: Battle Chip Challenge (Wii U)",
+			"id": 27452
+		},
+		{
+			"slug": "mega-maze",
+			"name": "Mega Maze",
+			"id": 27871
+		},
+		{
+			"slug": "meme-run",
+			"name": "Meme Run",
+			"id": 358646
+		},
+		{
+			"slug": "mendel-palace",
+			"name": "Mendel Palace",
+			"id": 53944
+		},
+		{
+			"slug": "metal-marines",
+			"name": "Metal Marines",
+			"id": 24840
+		},
+		{
+			"slug": "metro-cross",
+			"name": "Metro-Cross",
+			"id": 56635
+		},
+		{
+			"slug": "metroid-prime-hunters",
+			"name": "Metroid Prime Hunters",
+			"id": 25002
+		},
+		{
+			"slug": "metroid-prime-trilogy",
+			"name": "Metroid Prime: Trilogy",
+			"id": 23958
+		},
+		{
+			"slug": "metroid-other-m",
+			"name": "Metroid: Other M",
+			"id": 24366
+		},
+		{
+			"slug": "midnight",
+			"name": "Midnight",
+			"id": 19751
+		},
+		{
+			"slug": "midnight-2",
+			"name": "Midnight 2",
+			"id": 27758
+		},
+		{
+			"slug": "midtown-crazy-race",
+			"name": "Midtown Crazy Race",
+			"id": 27457
+		},
+		{
+			"slug": "mighty-bomb-jack",
+			"name": "Mighty Bomb Jack",
+			"id": 24880
+		},
+		{
+			"slug": "mighty-bomb-jack-1986",
+			"name": "Mighty Bomb Jack (1986)",
+			"id": 53953
+		},
+		{
+			"slug": "mighty-final-fight",
+			"name": "Mighty Final Fight",
+			"id": 27513
+		},
+		{
+			"slug": "mighty-no-9",
+			"name": "Mighty No. 9",
+			"id": 2310
+		},
+		{
+			"slug": "mighty-switch-force-2-2",
+			"name": "Mighty Switch Force 2",
+			"id": 445434
+		},
+		{
+			"slug": "mighty-switch-force-2",
+			"name": "Mighty Switch Force! 2",
+			"id": 24087
+		},
+		{
+			"slug": "mighty-switch-force-hyper-drive-edition",
+			"name": "Mighty Switch Force! Hyper Drive Edition",
+			"id": 17760
+		},
+		{
+			"slug": "miko-mole",
+			"name": "Miko Mole",
+			"id": 3038
+		},
+		{
+			"slug": "mikrogame-rotator",
+			"name": "MikroGame: Rotator",
+			"id": 27800
+		},
+		{
+			"slug": "minecraft",
+			"name": "Minecraft",
+			"id": 22509
+		},
+		{
+			"slug": "minecraft-story-mode-complete",
+			"name": "Minecraft: Story Mode",
+			"id": 15916
+		},
+		{
+			"slug": "mini-mario-friends-amiibo-challenge",
+			"name": "Mini Mario & Friends: amiibo Challenge",
+			"id": 23777
+		},
+		{
+			"slug": "mini-games-madness-volume-1-hello-world",
+			"name": "MINI-GAMES MADNESS VOLUME: #1 - HELLO WORLD!",
+			"id": 27717
+		},
+		{
+			"slug": "mini-mario-and-friends-amiibo-challenge",
+			"name": "Mini-Mario & Friends: amiibo Challenge",
+			"id": 334846
+		},
+		{
+			"slug": "molly-maggot",
+			"name": "Molly Maggot",
+			"id": 27696
+		},
+		{
+			"slug": "momonga-pinball-adventures",
+			"name": "Momonga Pinball Adventures",
+			"id": 598
+		},
+		{
+			"slug": "mon-premier-karaoke",
+			"name": "Mon Premier Karaoké",
+			"id": 27582
+		},
+		{
+			"slug": "monkey-pirates",
+			"name": "Monkey Pirates",
+			"id": 1541
+		},
+		{
+			"slug": "monster-high-13-wishes",
+			"name": "Monster High: 13 Wishes",
+			"id": 971874
+		},
+		{
+			"slug": "monster-high-new-ghoul-in-school",
+			"name": "Monster High: New Ghoul in School",
+			"id": 3051
+		},
+		{
+			"slug": "monster-hunter-3-ultimate",
+			"name": "Monster Hunter 3 Ultimate",
+			"id": 27233
+		},
+		{
+			"slug": "monster-hunter-3g-packet-relay-tool",
+			"name": "Monster Hunter 3G Packet Relay Tool",
+			"id": 334903
+		},
+		{
+			"slug": "monster-hunter-frontier-g",
+			"name": "Monster Hunter Frontier G",
+			"id": 331365
+		},
+		{
+			"slug": "monster-hunter-frontier-g-genuine",
+			"name": "Monster Hunter Frontier G Genuine",
+			"id": 334907
+		},
+		{
+			"slug": "monster-hunter-frontier-g3",
+			"name": "Monster Hunter Frontier G3",
+			"id": 334909
+		},
+		{
+			"slug": "monster-hunter-frontier-g5",
+			"name": "Monster Hunter Frontier G5",
+			"id": 334910
+		},
+		{
+			"slug": "monster-hunter-frontier-g6",
+			"name": "Monster Hunter Frontier G6",
+			"id": 334911
+		},
+		{
+			"slug": "monster-hunter-frontier-g7",
+			"name": "Monster Hunter Frontier G7",
+			"id": 334912
+		},
+		{
+			"slug": "mop-operation-cleanup",
+			"name": "MOP: Operation Cleanup",
+			"id": 2824
+		},
+		{
+			"slug": "mortar-melon",
+			"name": "Mortar Melon",
+			"id": 27643
+		},
+		{
+			"slug": "motoroader",
+			"name": "MOTOROADER",
+			"id": 47541
+		},
+		{
+			"slug": "mountain-peak-battle-mess",
+			"name": "Mountain Peak Battle Mess",
+			"id": 392144
+		},
+		{
+			"slug": "mr-driller-2",
+			"name": "Mr. Driller 2",
+			"id": 27441
+		},
+		{
+			"slug": "mr-heli",
+			"name": "Mr. Heli",
+			"id": 55557
+		},
+		{
+			"slug": "mr-pumpkin-adventure",
+			"name": "Mr. Pumpkin Adventure",
+			"id": 18200
+		},
+		{
+			"slug": "mutant-alien-moles-of-the-dead",
+			"name": "Mutant Alien Moles of the Dead",
+			"id": 28144
+		},
+		{
+			"slug": "mutant-mudds-deluxe",
+			"name": "Mutant Mudds Deluxe",
+			"id": 800
+		},
+		{
+			"slug": "mutant-mudds-super-challenge",
+			"name": "Mutant Mudds Super Challenge",
+			"id": 18862
+		},
+		{
+			"slug": "my-arctic-farm",
+			"name": "My Arctic Farm",
+			"id": 27425
+		},
+		{
+			"slug": "my-exotic-farm",
+			"name": "My Exotic Farm",
+			"id": 24023
+		},
+		{
+			"slug": "my-farm",
+			"name": "My Farm",
+			"id": 24038
+		},
+		{
+			"slug": "my-first-songs",
+			"name": "My First Songs",
+			"id": 24034
+		},
+		{
+			"slug": "my-jurassic-farm",
+			"name": "My Jurassic Farm",
+			"id": 24011
+		},
+		{
+			"slug": "my-style-studio-hair-salon",
+			"name": "My Style Studio: Hair Salon",
+			"id": 27353
+		},
+		{
+			"slug": "my-style-studio-notebook",
+			"name": "My Style Studio: Notebook",
+			"id": 23954
+		},
+		{
+			"slug": "namco-museum",
+			"name": "NAMCO MUSEUM",
+			"id": 23779
+		},
+		{
+			"slug": "nano-assault-neo",
+			"name": "Nano Assault Neo",
+			"id": 27197
+		},
+		{
+			"slug": "napoleon",
+			"name": "Napoleon",
+			"id": 35556
+		},
+		{
+			"slug": "napster",
+			"name": "Napster",
+			"id": 23879
+		},
+		{
+			"slug": "natsume-championship-wrestling",
+			"name": "Natsume Championship Wrestling",
+			"id": 26654
+		},
+		{
+			"slug": "nba-2k13",
+			"name": "NBA 2K13",
+			"id": 4211
+		},
+		{
+			"slug": "near-earth-objects",
+			"name": "Near Earth Objects",
+			"id": 27709
+		},
+		{
+			"slug": "necromancer",
+			"name": "Necromancer",
+			"id": 42774
+		},
+		{
+			"slug": "need-for-speed-most-wanted-a-criterion-game",
+			"name": "Need for Speed: Most Wanted - A Criterion Game",
+			"id": 41498
+		},
+		{
+			"slug": "neon-battle",
+			"name": "Neon Battle",
+			"id": 23920
+		},
+		{
+			"slug": "nes-open-tournament-golf",
+			"name": "NES Open Tournament Golf",
+			"id": 24041
+		},
+		{
+			"slug": "nes-remix",
+			"name": "NES Remix",
+			"id": 27358
+		},
+		{
+			"slug": "nes-remix-2",
+			"name": "NES Remix 2",
+			"id": 27400
+		},
+		{
+			"slug": "nes-remix-pack",
+			"name": "NES Remix Pack",
+			"id": 23766
+		},
+		{
+			"slug": "never-alone",
+			"name": "Never Alone",
+			"id": 42776
+		},
+		{
+			"slug": "new-adventure-island",
+			"name": "NEW ADVENTURE ISLAND",
+			"id": 4682
+		},
+		{
+			"slug": "new-super-luigi-u",
+			"name": "New Super Luigi U",
+			"id": 24093
+		},
+		{
+			"slug": "new-super-mario-bros",
+			"name": "New Super Mario Bros.",
+			"id": 24933
+		},
+		{
+			"slug": "new-super-mario-bros-mii",
+			"name": "New Super Mario Bros. Mii",
+			"id": 335065
+		},
+		{
+			"slug": "new-super-mario-bros-u",
+			"name": "New Super Mario Bros. U",
+			"id": 27967
+		},
+		{
+			"slug": "nihilumbra",
+			"name": "Nihilumbra",
+			"id": 1892
+		},
+		{
+			"slug": "ninja-gaiden-3-razors-edge-2",
+			"name": "Ninja Gaiden 3: Razor's Edge",
+			"id": 5623
+		},
+		{
+			"slug": "ninja-gaiden-ii-the-dark-sword-of-chaos",
+			"name": "Ninja Gaiden II: The Dark Sword of Chaos (1990)",
+			"id": 53974
+		},
+		{
+			"slug": "ninja-pizza-girl",
+			"name": "Ninja Pizza Girl",
+			"id": 302
+		},
+		{
+			"slug": "ninja-spirit",
+			"name": "Ninja Spirit (WII)",
+			"id": 24885
+		},
+		{
+			"slug": "ninja-strike-dangerous-dash",
+			"name": "Ninja Strike: Dangerous Dash",
+			"id": 27665
+		},
+		{
+			"slug": "nintendo-land",
+			"name": "Nintendo Land",
+			"id": 27196
+		},
+		{
+			"slug": "nintendo-land-with-luigi-wii-remote-plus",
+			"name": "Nintendo Land with Luigi Wii Remote Plus",
+			"id": 27348
+		},
+		{
+			"slug": "nintendo-world-cup",
+			"name": "Nintendo World Cup",
+			"id": 59124
+		},
+		{
+			"slug": "nobunagas-ambition-2",
+			"name": "Nobunaga's Ambition",
+			"id": 23997
+		},
+		{
+			"slug": "nobunagas-ambition-2009",
+			"name": "Nobunaga's Ambition (2009)",
+			"id": 53455
+		},
+		{
+			"slug": "noitu-love-devolution",
+			"name": "Noitu Love: Devolution",
+			"id": 23855
+		},
+		{
+			"slug": "nova-111",
+			"name": "Nova-111",
+			"id": 1058
+		},
+		{
+			"slug": "now-i-know-my-abcs",
+			"name": "Now I know my ABCs",
+			"id": 27744
+		},
+		{
+			"slug": "octocopter-super-sub-squid-escape",
+			"name": "Octocopter: Super Sub Squid Escape",
+			"id": 27861
+		},
+		{
+			"slug": "octodad-dadliest-catch",
+			"name": "Octodad: Dadliest Catch",
+			"id": 3325
+		},
+		{
+			"slug": "oddworld-new-n-tasty",
+			"name": "Oddworld: New 'n' Tasty",
+			"id": 2889
+		},
+		{
+			"slug": "ohayou-beginners-japanese",
+			"name": "Ohayou! Beginner's Japanese",
+			"id": 27860
+		},
+		{
+			"slug": "olliolli",
+			"name": "OlliOlli",
+			"id": 1713
+		},
+		{
+			"slug": "olympia-rising",
+			"name": "Olympia Rising",
+			"id": 22420
+		},
+		{
+			"slug": "one-piece-unlimited-world-red",
+			"name": "ONE PIECE Unlimited World Red",
+			"id": 3643
+		},
+		{
+			"slug": "onimusha-tactics",
+			"name": "Onimusha Tactics (Wii U)",
+			"id": 27636
+		},
+		{
+			"slug": "orbit",
+			"name": "ORBIT",
+			"id": 1333
+		},
+		{
+			"slug": "outside-the-realm",
+			"name": "Outside the Realm",
+			"id": 27719
+		},
+		{
+			"slug": "overworld-defender-remix",
+			"name": "Overworld Defender Remix",
+			"id": 27792
+		},
+		{
+			"slug": "pac-attack",
+			"name": "Pac-Attack",
+			"id": 25359
+		},
+		{
+			"slug": "pac-attack-1993",
+			"name": "Pac-Attack (1993)",
+			"id": 55292
+		},
+		{
+			"slug": "pac-land",
+			"name": "Pac-Land",
+			"id": 27422
+		},
+		{
+			"slug": "pac-land-1985",
+			"name": "Pac-Land (1985)",
+			"id": 55576
+		},
+		{
+			"slug": "pac-man",
+			"name": "Pac-Man",
+			"id": 24881
+		},
+		{
+			"slug": "pac-man-2-the-new-adventures",
+			"name": "Pac-Man 2: The New Adventures",
+			"id": 27735
+		},
+		{
+			"slug": "pac-man-2-the-new-adventures-1994",
+			"name": "Pac-Man 2: The New Adventures (1994)",
+			"id": 57132
+		},
+		{
+			"slug": "pac-man-and-the-ghostly-adventures",
+			"name": "PAC-MAN and the Ghostly Adventures",
+			"id": 3870
+		},
+		{
+			"slug": "pac-man-and-the-ghostly-adventures-2",
+			"name": "PAC-MAN and the Ghostly Adventures 2",
+			"id": 3549
+		},
+		{
+			"slug": "pac-man-collection",
+			"name": "Pac-Man Collection (2001)",
+			"id": 53459
+		},
+		{
+			"slug": "panda-love",
+			"name": "PANDA LOVE",
+			"id": 27809
+		},
+		{
+			"slug": "paparazzi",
+			"name": "Paparazzi",
+			"id": 3428
+		},
+		{
+			"slug": "paper-mario-color-splash",
+			"name": "Paper Mario: Color Splash",
+			"id": 28015
+		},
+		{
+			"slug": "paper-monsters-recut",
+			"name": "Paper Monsters Recut",
+			"id": 3018
+		},
+		{
+			"slug": "paranautical-acivity",
+			"name": "Paranautical Activity",
+			"id": 1557
+		},
+		{
+			"slug": "peg-solitaire",
+			"name": "PEG SOLITAIRE",
+			"id": 23887
+		},
+		{
+			"slug": "penguins-of-madagascar",
+			"name": "Penguins of Madagascar",
+			"id": 23974
+		},
+		{
+			"slug": "pentapuzzle",
+			"name": "PENTAPUZZLE",
+			"id": 27574
+		},
+		{
+			"slug": "percys-predicament",
+			"name": "Percy's Predicament",
+			"id": 27368
+		},
+		{
+			"slug": "perpetual-blast",
+			"name": "Perpetual Blast",
+			"id": 27660
+		},
+		{
+			"slug": "petite-zombies",
+			"name": "Petite Zombies",
+			"id": 252660
+		},
+		{
+			"slug": "phineas-and-ferb-quest-for-cool-stuff",
+			"name": "Phineas and Ferb: Quest for Cool Stuff",
+			"id": 26957
+		},
+		{
+			"slug": "piano-teacher",
+			"name": "Piano Teacher",
+			"id": 27811
+		},
+		{
+			"slug": "pic-a-pix-color",
+			"name": "Pic-a-Pix Color",
+			"id": 27911
+		},
+		{
+			"slug": "picross-3d",
+			"name": "Picross 3D",
+			"id": 26370
+		},
+		{
+			"slug": "pictoparty",
+			"name": "PictoParty",
+			"id": 23902
+		},
+		{
+			"slug": "pier-solar-and-the-great-architects",
+			"name": "Pier Solar and the Great Architects",
+			"id": 3252
+		},
+		{
+			"slug": "pikmin-2",
+			"name": "Pikmin 2",
+			"id": 24239
+		},
+		{
+			"slug": "pikmin-3",
+			"name": "Pikmin 3",
+			"id": 27973
+		},
+		{
+			"slug": "pikmin-short-movies-hd",
+			"name": "Pikmin Short Movies HD",
+			"id": 23980
+		},
+		{
+			"slug": "pilotwings",
+			"name": "PilotWings",
+			"id": 24451
+		},
+		{
+			"slug": "pilotwings-1990",
+			"name": "Pilotwings (1990)",
+			"id": 57451
+		},
+		{
+			"slug": "pinball",
+			"name": "Pinball",
+			"id": 24915
+		},
+		{
+			"slug": "pinball-arcade",
+			"name": "Pinball Arcade",
+			"id": 147
+		},
+		{
+			"slug": "pinball-breakout",
+			"name": "Pinball Breakout",
+			"id": 27849
+		},
+		{
+			"slug": "ping-15",
+			"name": "PING 1.5+",
+			"id": 13565
+		},
+		{
+			"slug": "pirate-pop-plus",
+			"name": "Pirate Pop Plus",
+			"id": 15439
+		},
+		{
+			"slug": "pixel-paint",
+			"name": "Pixel Paint",
+			"id": 27490
+		},
+		{
+			"slug": "pixel-slime-u",
+			"name": "PIXEL SLIME U",
+			"id": 27645
+		},
+		{
+			"slug": "pixeljunk-monsters",
+			"name": "PixelJunk Monsters",
+			"id": 5434
+		},
+		{
+			"slug": "pixelmaker",
+			"name": "PixelMaker",
+			"id": 27754
+		},
+		{
+			"slug": "pixelmaker-studio",
+			"name": "PixelMaker Studio",
+			"id": 269921
+		},
+		{
+			"slug": "pixlcross",
+			"name": "PixlCross",
+			"id": 24183
+		},
+		{
+			"slug": "placards",
+			"name": "Placards",
+			"id": 23820
+		},
+		{
+			"slug": "planes-fire-rescue",
+			"name": "Planes Fire & Rescue",
+			"id": 27498
+		},
+		{
+			"slug": "plantera",
+			"name": "Plantera",
+			"id": 6446
+		},
+		{
+			"slug": "plenty-of-fishies",
+			"name": "Plenty of Fishies",
+			"id": 27532
+		},
+		{
+			"slug": "pocky-rocky-with-becky",
+			"name": "Pocky & Rocky with Becky (Wii U)",
+			"id": 27658
+		},
+		{
+			"slug": "pokemon-mystery-dungeon-blue-rescue-team",
+			"name": "Pokémon Mystery Dungeon: Blue Rescue Team",
+			"id": 25021
+		},
+		{
+			"slug": "pokemon-mystery-dungeon-explorers-of-sky",
+			"name": "Pokémon Mystery Dungeon: Explorers of Sky",
+			"id": 26090
+		},
+		{
+			"slug": "pokemon-mystery-dungeon-red-rescue-team",
+			"name": "Pokémon Mystery Dungeon: Red Rescue Team",
+			"id": 27776
+		},
+		{
+			"slug": "pokemon-pinball-ruby-sapphire",
+			"name": "Pokémon Pinball: Ruby & Sapphire (2003)",
+			"id": 53480
+		},
+		{
+			"slug": "pokemon-ranger",
+			"name": "Pokémon Ranger",
+			"id": 23863
+		},
+		{
+			"slug": "pokemon-ranger-guardian-signs",
+			"name": "Pokémon Ranger: Guardian Signs",
+			"id": 24358
+		},
+		{
+			"slug": "pokemon-ranger-shadows-of-almia",
+			"name": "Pokémon Ranger: Shadows of Almia",
+			"id": 25697
+		},
+		{
+			"slug": "pokemon-rumble-u",
+			"name": "Pokémon Rumble U",
+			"id": 24073
+		},
+		{
+			"slug": "pokemon-snap",
+			"name": "Pokémon Snap",
+			"id": 23833
+		},
+		{
+			"slug": "poker-dice-solitaire-future",
+			"name": "POKER DICE SOLITAIRE FUTURE",
+			"id": 27430
+		},
+		{
+			"slug": "pokken-tournament",
+			"name": "Pokkén Tournament",
+			"id": 27997
+		},
+		{
+			"slug": "polarium-advance",
+			"name": "Polarium Advance",
+			"id": 27718
+		},
+		{
+			"slug": "polarium-advance-2005",
+			"name": "Polarium Advance (2005)",
+			"id": 53481
+		},
+		{
+			"slug": "poncho",
+			"name": "PONCHO",
+			"id": 3093
+		},
+		{
+			"slug": "pooyan",
+			"name": "Pooyan",
+			"id": 52566
+		},
+		{
+			"slug": "power-golf",
+			"name": "Power Golf",
+			"id": 24824
+		},
+		{
+			"slug": "preston-sterling",
+			"name": "Preston Sterling",
+			"id": 15991
+		},
+		{
+			"slug": "prism-pets",
+			"name": "Prism Pets",
+			"id": 27782
+		},
+		{
+			"slug": "project-giant-robot",
+			"name": "Project Giant Robot",
+			"id": 335423
+		},
+		{
+			"slug": "project-guard",
+			"name": "Project Guard",
+			"id": 335425
+		},
+		{
+			"slug": "psibo",
+			"name": "PSIBO",
+			"id": 27834
+		},
+		{
+			"slug": "psyscrolr",
+			"name": "psyscrolr",
+			"id": 27584
+		},
+		{
+			"slug": "puddle",
+			"name": "Puddle",
+			"id": 3650
+		},
+		{
+			"slug": "pumped-bmx",
+			"name": "Pumped BMX +",
+			"id": 3165
+		},
+		{
+			"slug": "punch-out",
+			"name": "Punch-Out!!",
+			"id": 27030
+		},
+		{
+			"slug": "punch-out-1987",
+			"name": "Punch-Out!! (1987)",
+			"id": 53954
+		},
+		{
+			"slug": "punch-out-featuring-mr-dream",
+			"name": "Punch-Out!! Featuring Mr. Dream",
+			"id": 24142
+		},
+		{
+			"slug": "pure-chess",
+			"name": "Pure Chess",
+			"id": 3724
+		},
+		{
+			"slug": "pushmo-world",
+			"name": "Pushmo World",
+			"id": 27424
+		},
+		{
+			"slug": "puzzle-monkeys",
+			"name": "Puzzle Monkeys",
+			"id": 23963
+		},
+		{
+			"slug": "qube-directors-cut",
+			"name": "Q.U.B.E: Director's Cut",
+			"id": 1720
+		},
+		{
+			"slug": "quadcopter-pilot-challenge",
+			"name": "Quadcopter Pilot Challenge",
+			"id": 27624
+		},
+		{
+			"slug": "quarth-1990",
+			"name": "Quarth (1990)",
+			"id": 55889
+		},
+		{
+			"slug": "queens-garden",
+			"name": "Queen's Garden",
+			"id": 27760
+		},
+		{
+			"slug": "quest-of-dungeons",
+			"name": "Quest of Dungeons",
+			"id": 521
+		},
+		{
+			"slug": "r-type",
+			"name": "R-Type",
+			"id": 25082
+		},
+		{
+			"slug": "r-type-1987",
+			"name": "R-Type (1987)",
+			"id": 54885
+		},
+		{
+			"slug": "rabbids-land",
+			"name": "Rabbids Land",
+			"id": 27195
+		},
+		{
+			"slug": "race-the-sun",
+			"name": "Race The Sun",
+			"id": 2131
+		},
+		{
+			"slug": "radiantflux-hyperfractal",
+			"name": "RADIANTFLUX: HYPERFRACTAL",
+			"id": 23824
+		},
+		{
+			"slug": "rainbow-snake",
+			"name": "Rainbow Snake",
+			"id": 46935
+		},
+		{
+			"slug": "rakoo-friends",
+			"name": "Rakoo & Friends",
+			"id": 27666
+		},
+		{
+			"slug": "rapala-pro-bass-fishing",
+			"name": "Rapala Pro Bass Fishing",
+			"id": 27206
+		},
+		{
+			"slug": "rayman-legends",
+			"name": "Rayman Legends",
+			"id": 3771
+		},
+		{
+			"slug": "rayman-raving-rabbids",
+			"name": "Rayman Raving Rabbids",
+			"id": 19672
+		},
+		{
+			"slug": "red-riding-hood",
+			"name": "Red Riding Hood",
+			"id": 27473
+		},
+		{
+			"slug": "regina-mac",
+			"name": "Regina & Mac",
+			"id": 394066
+		},
+		{
+			"slug": "replay-vhs-is-not-dead",
+			"name": "Replay: VHS is not dead",
+			"id": 11
+		},
+		{
+			"slug": "reptilian-rebellion",
+			"name": "Reptilian Rebellion",
+			"id": 14676
+		},
+		{
+			"slug": "resident-evil-revelations-biohazard-revelations",
+			"name": "Resident Evil Revelations",
+			"id": 4012
+		},
+		{
+			"slug": "resident-evil-the-umbrella-chronicles-2",
+			"name": "Resident Evil: The Umbrella Chronicles",
+			"id": 25310
+		},
+		{
+			"slug": "retro-road-rumble",
+			"name": "Retro Road Rumble",
+			"id": 23852
+		},
+		{
+			"slug": "retroarch",
+			"name": "RetroArch",
+			"id": 349617
+		},
+		{
+			"slug": "revenant-saga",
+			"name": "Revenant Saga",
+			"id": 12954
+		},
+		{
+			"slug": "rhythm-heaven-fever",
+			"name": "Rhythm Heaven Fever",
+			"id": 27117
+		},
+		{
+			"slug": "rise-of-the-guardians-the-video-game",
+			"name": "Rise of the Guardians: The Video Game",
+			"id": 26928
+		},
+		{
+			"slug": "rival-turf",
+			"name": "Rival Turf",
+			"id": 23928
+		},
+		{
+			"slug": "rival-turf-1992",
+			"name": "Rival Turf! (1992)",
+			"id": 57468
+		},
+		{
+			"slug": "road-fighter",
+			"name": "Road Fighter",
+			"id": 34049
+		},
+		{
+			"slug": "road-redemption",
+			"name": "Road Redemption",
+			"id": 9540
+		},
+		{
+			"slug": "rock-n-racing-off-road",
+			"name": "Rock 'N Racing Off Road",
+			"id": 27549
+		},
+		{
+			"slug": "rock-n-racing-off-road-dx",
+			"name": "Rock 'N Racing Off Road DX",
+			"id": 6567
+		},
+		{
+			"slug": "rock-zombie",
+			"name": "Rock Zombie",
+			"id": 1538
+		},
+		{
+			"slug": "rodea-the-sky-soldier",
+			"name": "Rodea the Sky Soldier",
+			"id": 27677
+		},
+		{
+			"slug": "rorrim",
+			"name": "Rorrim",
+			"id": 27817
+		},
+		{
+			"slug": "roving-rogue",
+			"name": "Roving Rogue",
+			"id": 27623
+		},
+		{
+			"slug": "rto",
+			"name": "RTO",
+			"id": 49775
+		},
+		{
+			"slug": "rto-2",
+			"name": "RTO 2",
+			"id": 52191
+		},
+		{
+			"slug": "rubiks-cube",
+			"name": "Rubik's Cube",
+			"id": 27775
+		},
+		{
+			"slug": "run-run-and-die",
+			"name": "Run Run And Die",
+			"id": 14789
+		},
+		{
+			"slug": "runbow",
+			"name": "Runbow",
+			"id": 10291
+		},
+		{
+			"slug": "rush",
+			"name": "RUSH",
+			"id": 12725
+		},
+		{
+			"slug": "rynns-adventure-trouble-in-the-enchanted-forest",
+			"name": "Rynn's Adventure: Trouble in the Enchanted Forest",
+			"id": 19707
+		},
+		{
+			"slug": "salamander",
+			"name": "Salamander",
+			"id": 50042
+		},
+		{
+			"slug": "san-goku-shi-12",
+			"name": "San Goku Shi 12",
+			"id": 41793
+		},
+		{
+			"slug": "santa-factory",
+			"name": "Santa Factory",
+			"id": 23918
+		},
+		{
+			"slug": "scoop-around-the-world-in-80-spaces",
+			"name": "SCOOP! Around the World in 80 Spaces",
+			"id": 392047
+		},
+		{
+			"slug": "scram-kitty-and-his-buddy-on-rails",
+			"name": "Scram Kitty and his Buddy on Rails",
+			"id": 24017
+		},
+		{
+			"slug": "scribble",
+			"name": "Scribble",
+			"id": 27866
+		},
+		{
+			"slug": "scribblenauts-unlimited",
+			"name": "Scribblenauts Unlimited",
+			"id": 7317
+		},
+		{
+			"slug": "scribblenauts-unmasked-a-dc-comics-adventure",
+			"name": "Scribblenauts Unmasked: A DC Comics Adventure",
+			"id": 19294
+		},
+		{
+			"slug": "sdk-paint",
+			"name": "SDK Paint",
+			"id": 27495
+		},
+		{
+			"slug": "sdk-spriter",
+			"name": "SDK Spriter",
+			"id": 27868
+		},
+		{
+			"slug": "secret-files-tunguska",
+			"name": "Secret Files: Tunguska",
+			"id": 15987
+		},
+		{
+			"slug": "seicross",
+			"name": "Seicross",
+			"id": 54033
+		},
+		{
+			"slug": "severed",
+			"name": "Severed",
+			"id": 2049
+		},
+		{
+			"slug": "shadow-archer",
+			"name": "Shadow Archer",
+			"id": 27803
+		},
+		{
+			"slug": "shadow-archery",
+			"name": "Shadow Archery",
+			"id": 58114
+		},
+		{
+			"slug": "shadow-of-the-ninja",
+			"name": "Shadow of the Ninja",
+			"id": 23955
+		},
+		{
+			"slug": "shadow-puppeteer",
+			"name": "Shadow Puppeteer",
+			"id": 16819
+		},
+		{
+			"slug": "shantae-and-the-pirates-curse",
+			"name": "Shantae and the Pirate's Curse",
+			"id": 2548
+		},
+		{
+			"slug": "shantae-half-genie-hero",
+			"name": "Shantae: Half-Genie Hero",
+			"id": 607
+		},
+		{
+			"slug": "shantae-riskys-revenge-directors-cut",
+			"name": "Shantae: Risky's Revenge - Director's Cut",
+			"id": 3291
+		},
+		{
+			"slug": "shapes-of-gray",
+			"name": "Shapes of Gray",
+			"id": 18381
+		},
+		{
+			"slug": "shiftlings",
+			"name": "Shiftlings",
+			"id": 2366
+		},
+		{
+			"slug": "shin-megami-tensei",
+			"name": "Shin Megami Tensei",
+			"id": 54313
+		},
+		{
+			"slug": "shin-megami-tensei-if",
+			"name": "Shin Megami Tensei If...",
+			"id": 57759
+		},
+		{
+			"slug": "shin-megami-tensei-ii",
+			"name": "Shin Megami Tensei II",
+			"id": 57758
+		},
+		{
+			"slug": "shining-soul",
+			"name": "Shining Soul",
+			"id": 53529
+		},
+		{
+			"slug": "shining-soul-ii",
+			"name": "Shining Soul II",
+			"id": 53530
+		},
+		{
+			"slug": "shiny-the-firefly",
+			"name": "Shiny The Firefly",
+			"id": 6093
+		},
+		{
+			"slug": "shoot-the-ball",
+			"name": "SHOOT THE BALL",
+			"id": 27850
+		},
+		{
+			"slug": "shooting-range-by-thornbury-software",
+			"name": "Shooting Range by Thornbury Software",
+			"id": 27839
+		},
+		{
+			"slug": "shooty-space",
+			"name": "SHOOTY SPACE",
+			"id": 27821
+		},
+		{
+			"slug": "shovel-knight",
+			"name": "Shovel Knight",
+			"id": 3363
+		},
+		{
+			"slug": "shovel-knight-showdown",
+			"name": "Shovel Knight Showdown",
+			"id": 259784
+		},
+		{
+			"slug": "shovel-knight-king-of-cards",
+			"name": "Shovel Knight: King of Cards",
+			"id": 46156
+		},
+		{
+			"slug": "shovel-knight-plague-of-shadows",
+			"name": "Shovel Knight: Plague of Shadows",
+			"id": 42337
+		},
+		{
+			"slug": "shovel-knight-shovel-of-hope",
+			"name": "Shovel Knight: Shovel of Hope",
+			"id": 392459
+		},
+		{
+			"slug": "shovel-knight-treasure-trove",
+			"name": "Shovel Knight: Treasure Trove",
+			"id": 3364
+		},
+		{
+			"slug": "shut-the-box",
+			"name": "Shut the Box",
+			"id": 27450
+		},
+		{
+			"slug": "shutshimi",
+			"name": "Shutshimi",
+			"id": 3206
+		},
+		{
+			"slug": "shuttle-rush",
+			"name": "Shuttle Rush",
+			"id": 27493
+		},
+		{
+			"slug": "sing-party",
+			"name": "Sing Party",
+			"id": 27193
+		},
+		{
+			"slug": "sinister-assistant",
+			"name": "Sinister Assistant",
+			"id": 293464
+		},
+		{
+			"slug": "skeasy",
+			"name": "SKEASY",
+			"id": 27712
+		},
+		{
+			"slug": "sketch-wars",
+			"name": "Sketch Wars",
+			"id": 27693
+		},
+		{
+			"slug": "skorb",
+			"name": "SKORB",
+			"id": 27833
+		},
+		{
+			"slug": "skunky-bs-super-slots-saga-1",
+			"name": "Skunky B's Super Slots Saga #1",
+			"id": 27807
+		},
+		{
+			"slug": "sky-force-anniversary",
+			"name": "Sky Force Anniversary",
+			"id": 1374
+		},
+		{
+			"slug": "sky-kid-1986",
+			"name": "Sky Kid (1986)",
+			"id": 54049
+		},
+		{
+			"slug": "skykid",
+			"name": "SkyKid",
+			"id": 23948
+		},
+		{
+			"slug": "skylanders-giants",
+			"name": "Skylanders Giants",
+			"id": 5656
+		},
+		{
+			"slug": "skylanders-giants-wii-u",
+			"name": "Skylanders Giants Wii U",
+			"id": 27194
+		},
+		{
+			"slug": "skylanders-imaginators",
+			"name": "Skylanders Imaginators",
+			"id": 1045
+		},
+		{
+			"slug": "skylanders-spyros-adventure",
+			"name": "Skylanders Spyro's Adventure",
+			"id": 5657
+		},
+		{
+			"slug": "skylanders-superchargers",
+			"name": "Skylanders SuperChargers",
+			"id": 27985
+		},
+		{
+			"slug": "skylanders-superchargers-portal-owners-pack",
+			"name": "Skylanders SuperChargers Portal Owner's Pack",
+			"id": 3170
+		},
+		{
+			"slug": "skylanders-swap-force",
+			"name": "Skylanders SWAP Force",
+			"id": 26968
+		},
+		{
+			"slug": "skylanders-trap-team",
+			"name": "Skylanders Trap Team",
+			"id": 24201
+		},
+		{
+			"slug": "slender-the-arrival",
+			"name": "Slender: The Arrival",
+			"id": 3396
+		},
+		{
+			"slug": "slots-pharaohs-riches",
+			"name": "Slots - Pharaoh's Riches",
+			"id": 27752
+		},
+		{
+			"slug": "smart-adventures-mission-math",
+			"name": "Smart Adventures - Mission Math",
+			"id": 27730
+		},
+		{
+			"slug": "snake-den",
+			"name": "Snake Den",
+			"id": 27511
+		},
+		{
+			"slug": "sniper-elite-v2",
+			"name": "Sniper Elite V2",
+			"id": 3892
+		},
+		{
+			"slug": "snowball-2",
+			"name": "Snowball",
+			"id": 27870
+		},
+		{
+			"slug": "soccer",
+			"name": "Soccer",
+			"id": 24913
+		},
+		{
+			"slug": "soccer-1985",
+			"name": "Soccer (1985)",
+			"id": 54055
+		},
+		{
+			"slug": "solitaire",
+			"name": "Solitaire",
+			"id": 1122
+		},
+		{
+			"slug": "solitaire-dungeon-escape",
+			"name": "Solitaire Dungeon Escape",
+			"id": 27616
+		},
+		{
+			"slug": "sonic-all-stars-racing-transformed",
+			"name": "Sonic & All-Stars Racing Transformed",
+			"id": 966
+		},
+		{
+			"slug": "sonic-advance",
+			"name": "Sonic Advance",
+			"id": 53546
+		},
+		{
+			"slug": "sonic-advance-2",
+			"name": "Sonic Advance 2",
+			"id": 53547
+		},
+		{
+			"slug": "sonic-advance-3",
+			"name": "Sonic Advance 3",
+			"id": 53548
+		},
+		{
+			"slug": "sonic-boom-rise-of-lyric",
+			"name": "Sonic Boom: Rise of Lyric",
+			"id": 27505
+		},
+		{
+			"slug": "sonic-lost-world",
+			"name": "Sonic Lost World",
+			"id": 14988
+		},
+		{
+			"slug": "soon-shine",
+			"name": "Soon Shine",
+			"id": 27454
+		},
+		{
+			"slug": "soul-axiom",
+			"name": "Soul Axiom",
+			"id": 1459
+		},
+		{
+			"slug": "space-hulk",
+			"name": "Space Hulk",
+			"id": 538
+		},
+		{
+			"slug": "space-hunted",
+			"name": "Space Hunted",
+			"id": 28141
+		},
+		{
+			"slug": "space-hunted-the-lost-levels",
+			"name": "Space Hunted: The Lost Levels",
+			"id": 532219
+		},
+		{
+			"slug": "space-intervention",
+			"name": "Space Intervention",
+			"id": 392138
+		},
+		{
+			"slug": "spaceroads",
+			"name": "SpaceRoads",
+			"id": 27755
+		},
+		{
+			"slug": "spellcasters-assistant",
+			"name": "Spellcaster's Assistant",
+			"id": 52361
+		},
+		{
+			"slug": "spelunker",
+			"name": "Spelunker",
+			"id": 25428
+		},
+		{
+			"slug": "sphere-slice",
+			"name": "SPHERE SLICE",
+			"id": 23792
+		},
+		{
+			"slug": "spherezor",
+			"name": "SphereZor",
+			"id": 27818
+		},
+		{
+			"slug": "spheroids",
+			"name": "Spheroids",
+			"id": 560
+		},
+		{
+			"slug": "spikey-walls",
+			"name": "Spikey Walls",
+			"id": 27464
+		},
+		{
+			"slug": "spin-the-bottle-bumpies-party",
+			"name": "Spin The Bottle: Bumpie's Party",
+			"id": 27285
+		},
+		{
+			"slug": "splashy-duck",
+			"name": "SPLASHY DUCK",
+			"id": 27774
+		},
+		{
+			"slug": "splatoon",
+			"name": "Splatoon",
+			"id": 23935
+		},
+		{
+			"slug": "spongebob-squarepants-planktons-robotic-revenge",
+			"name": "SpongeBob SquarePants: Plankton's Robotic Revenge",
+			"id": 26970
+		},
+		{
+			"slug": "sports-connection",
+			"name": "Sports Connection",
+			"id": 336011
+		},
+		{
+			"slug": "sportsball",
+			"name": "Sportsball",
+			"id": 23983
+		},
+		{
+			"slug": "spot-the-differences-party",
+			"name": "Spot The Differences: Party!",
+			"id": 27292
+		},
+		{
+			"slug": "spy-chameleon",
+			"name": "Spy Chameleon - RGB Agent",
+			"id": 20426
+		},
+		{
+			"slug": "squids",
+			"name": "Squids Odyssey",
+			"id": 27412
+		},
+		{
+			"slug": "star-fox-command",
+			"name": "Star Fox Command",
+			"id": 25013
+		},
+		{
+			"slug": "star-fox-guard",
+			"name": "Star Fox Guard",
+			"id": 28002
+		},
+		{
+			"slug": "star-fox-zero",
+			"name": "Star Fox Zero",
+			"id": 28004
+		},
+		{
+			"slug": "star-ghost",
+			"name": "Star Ghost",
+			"id": 23886
+		},
+		{
+			"slug": "star-sky",
+			"name": "Star Sky",
+			"id": 27653
+		},
+		{
+			"slug": "star-sky-2",
+			"name": "Star Sky 2",
+			"id": 27777
+		},
+		{
+			"slug": "star-splash-shattered-star",
+			"name": "Star Splash: Shattered Star",
+			"id": 27879
+		},
+		{
+			"slug": "star-wars-pinball",
+			"name": "Star Wars Pinball",
+			"id": 27276
+		},
+		{
+			"slug": "startropics",
+			"name": "StarTropics",
+			"id": 24801
+		},
+		{
+			"slug": "startropics-1990",
+			"name": "StarTropics (1990)",
+			"id": 54072
+		},
+		{
+			"slug": "starwhal",
+			"name": "STARWHAL",
+			"id": 3424
+		},
+		{
+			"slug": "stealth-inc-2-game-of-clones",
+			"name": "Stealth Inc 2: A Game of Clones",
+			"id": 3374
+		},
+		{
+			"slug": "steamworld-collection",
+			"name": "SteamWorld Collection",
+			"id": 401800
+		},
+		{
+			"slug": "steamworld-dig",
+			"name": "SteamWorld Dig",
+			"id": 3748
+		},
+		{
+			"slug": "steamworld-heist",
+			"name": "SteamWorld Heist",
+			"id": 1165
+		},
+		{
+			"slug": "steel-lords",
+			"name": "STEEL LORDS",
+			"id": 27786
+		},
+		{
+			"slug": "steel-rivals",
+			"name": "STEEL RIVALS",
+			"id": 20578
+		},
+		{
+			"slug": "stick-it-to-the-man",
+			"name": "Stick it to The Man!",
+			"id": 16761
+		},
+		{
+			"slug": "stinger",
+			"name": "STINGER",
+			"id": 27673
+		},
+		{
+			"slug": "stone-shire",
+			"name": "Stone Shire",
+			"id": 27603
+		},
+		{
+			"slug": "street-fighter-2010-the-final-fight",
+			"name": "Street Fighter 2010: The Final Fight (1990)",
+			"id": 54073
+		},
+		{
+			"slug": "street-fighter-ii-turbo-hyper-fighting",
+			"name": "Street Fighter II Turbo: Hyper Fighting",
+			"id": 23861
+		},
+		{
+			"slug": "street-fighter-2",
+			"name": "Street Fighter II: The World Warrior (1991)",
+			"id": 55132
+		},
+		{
+			"slug": "street-fighter-ii-turbo-hyper-fighting-2",
+			"name": "Street Fighter II' Turbo: Hyper Fighting",
+			"id": 24068
+		},
+		{
+			"slug": "style-savvy",
+			"name": "Style Savvy",
+			"id": 26139
+		},
+		{
+			"slug": "sudoku-and-permudoku",
+			"name": "Sudoku and Permudoku",
+			"id": 23877
+		},
+		{
+			"slug": "sudoku-party",
+			"name": "Sudoku Party",
+			"id": 27898
+		},
+		{
+			"slug": "super-c",
+			"name": "Super C",
+			"id": 25200
+		},
+		{
+			"slug": "super-castlevania-iv",
+			"name": "Super Castlevania IV",
+			"id": 24059
+		},
+		{
+			"slug": "super-destronaut",
+			"name": "Super Destronaut",
+			"id": 18533
+		},
+		{
+			"slug": "super-destronaut-2-go-duck-yourself",
+			"name": "Super Destronaut 2: Go Duck Yourself",
+			"id": 23851
+		},
+		{
+			"slug": "super-dodge-ball",
+			"name": "Super Dodge Ball",
+			"id": 25580
+		},
+		{
+			"slug": "super-edf-earth-defense-force-2",
+			"name": "SUPER E.D.F. Earth Defense Force",
+			"id": 27600
+		},
+		{
+			"slug": "super-hero-math",
+			"name": "Super Hero Math",
+			"id": 27806
+		},
+		{
+			"slug": "super-mario-3d-world",
+			"name": "Super Mario 3D World",
+			"id": 27974
+		},
+		{
+			"slug": "super-mario-bros",
+			"name": "Super Mario Bros.",
+			"id": 25080
+		},
+		{
+			"slug": "super-mario-bros-2",
+			"name": "Super Mario Bros. 2",
+			"id": 25173
+		},
+		{
+			"slug": "super-mario-bros-3",
+			"name": "Super Mario Bros. 3",
+			"id": 24030
+		},
+		{
+			"slug": "super-mario-bros-the-lost-levels",
+			"name": "Super Mario Bros.: The Lost Levels",
+			"id": 24107
+		},
+		{
+			"slug": "super-mario-galaxy-2",
+			"name": "Super Mario Galaxy 2",
+			"id": 27036
+		},
+		{
+			"slug": "super-mario-kart",
+			"name": "Super Mario Kart",
+			"id": 24478
+		},
+		{
+			"slug": "super-mario-maker",
+			"name": "Super Mario Maker",
+			"id": 27984
+		},
+		{
+			"slug": "super-meat-boy",
+			"name": "Super Meat Boy",
+			"id": 3144
+		},
+		{
+			"slug": "super-metroid",
+			"name": "Super Metroid",
+			"id": 27022
+		},
+		{
+			"slug": "super-ninja-boy",
+			"name": "Super Ninja Boy",
+			"id": 57522
+		},
+		{
+			"slug": "super-paper-mario",
+			"name": "Super Paper Mario",
+			"id": 23873
+		},
+		{
+			"slug": "super-punch-out",
+			"name": "Super Punch-Out!!",
+			"id": 23878
+		},
+		{
+			"slug": "super-robo-mouse",
+			"name": "SUPER ROBO MOUSE",
+			"id": 27747
+		},
+		{
+			"slug": "super-smash-bros",
+			"name": "Super Smash Bros. Wii U",
+			"id": 23763
+		},
+		{
+			"slug": "super-street-fighter-ii-turbo-revival",
+			"name": "SUPER STREET FIGHTER II TURBO REVIVAL",
+			"id": 27682
+		},
+		{
+			"slug": "super-street-fighter-ii-the-new-challengers",
+			"name": "Super Street Fighter II: The New Challengers",
+			"id": 23859
+		},
+		{
+			"slug": "super-toy-cars",
+			"name": "Super Toy Cars",
+			"id": 2928
+		},
+		{
+			"slug": "super-ultra-star-shooter",
+			"name": "Super Ultra Star Shooter",
+			"id": 46903
+		},
+		{
+			"slug": "supertux",
+			"name": "SuperTux",
+			"id": 58963
+		},
+		{
+			"slug": "surfin-sam-attack-of-the-aqualites",
+			"name": "Surfin' Sam - Attack of the Aqualites",
+			"id": 27796
+		},
+		{
+			"slug": "suspension-railroad-simulator",
+			"name": "Suspension Railroad Simulator",
+			"id": 23942
+		},
+		{
+			"slug": "swap-blocks",
+			"name": "SWAP BLOCKS",
+			"id": 23795
+		},
+		{
+			"slug": "swap-fire",
+			"name": "Swap Fire",
+			"id": 27863
+		},
+		{
+			"slug": "sweetest-thing",
+			"name": "Sweetest Thing",
+			"id": 27761
+		},
+		{
+			"slug": "swords-soldiers",
+			"name": "Swords & Soldiers",
+			"id": 24021
+		},
+		{
+			"slug": "swords-soldiers-ii",
+			"name": "Swords & Soldiers II",
+			"id": 27602
+		},
+		{
+			"slug": "tabletop-gallery",
+			"name": "TABLETOP GALLERY",
+			"id": 27698
+		},
+		{
+			"slug": "tachyon-project",
+			"name": "Tachyon Project",
+			"id": 1534
+		},
+		{
+			"slug": "tadpole-treble",
+			"name": "Tadpole Treble",
+			"id": 18440
+		},
+		{
+			"slug": "taiko-no-tatsujin-tokumori",
+			"name": "Taiko no Tatsujin: Tokumori",
+			"id": 336192
+		},
+		{
+			"slug": "taiko-drum-master",
+			"name": "Taiko: Drum Master",
+			"id": 336190
+		},
+		{
+			"slug": "takeshis-challenge-takeshi-no-chousenjou",
+			"name": "Takeshi’s Challenge  (Takeshi no Chousenjou)",
+			"id": 52245
+		},
+		{
+			"slug": "tallowmere",
+			"name": "Tallowmere",
+			"id": 1795
+		},
+		{
+			"slug": "tank-tank-tank",
+			"name": "TANK! TANK! TANK!",
+			"id": 24111
+		},
+		{
+			"slug": "tap-tap-arcade",
+			"name": "TAP TAP ARCADE",
+			"id": 27722
+		},
+		{
+			"slug": "tap-tap-arcade-2",
+			"name": "TAP TAP ARCADE 2",
+			"id": 27783
+		},
+		{
+			"slug": "tecmo-bowl",
+			"name": "Tecmo Bowl",
+			"id": 27018
+		},
+		{
+			"slug": "tecmo-bowl-1990",
+			"name": "Tecmo Bowl (1990)",
+			"id": 54089
+		},
+		{
+			"slug": "tekken-tag-tournament-2",
+			"name": "Tekken Tag Tournament 2",
+			"id": 4195
+		},
+		{
+			"slug": "temple-of-yog",
+			"name": "Temple of Yog",
+			"id": 23892
+		},
+		{
+			"slug": "tengami",
+			"name": "Tengami",
+			"id": 5757
+		},
+		{
+			"slug": "tennis",
+			"name": "Tennis",
+			"id": 24166
+		},
+		{
+			"slug": "terraria",
+			"name": "Terraria",
+			"id": 422
+		},
+		{
+			"slug": "teslagrad",
+			"name": "Teslagrad",
+			"id": 1077
+		},
+		{
+			"slug": "teslapunk",
+			"name": "Teslapunk",
+			"id": 8561
+		},
+		{
+			"slug": "test-your-mind",
+			"name": "Test Your Mind",
+			"id": 27680
+		},
+		{
+			"slug": "tetraminos",
+			"name": "Tetraminos",
+			"id": 2727
+		},
+		{
+			"slug": "tetrobot-and-co",
+			"name": "Tetrobot and Co.",
+			"id": 14
+		},
+		{
+			"slug": "the-amazing-spider-man",
+			"name": "The Amazing Spider-Man",
+			"id": 957
+		},
+		{
+			"slug": "the-beggars-ride",
+			"name": "The Beggar's Ride",
+			"id": 8200
+		},
+		{
+			"slug": "the-binding-of-isaac-rebirth",
+			"name": "The Binding of Isaac: Rebirth",
+			"id": 250
+		},
+		{
+			"slug": "the-book-of-unwritten-tales-2",
+			"name": "The Book of Unwritten Tales 2",
+			"id": 2386
+		},
+		{
+			"slug": "the-bridge",
+			"name": "The Bridge",
+			"id": 2784
+		},
+		{
+			"slug": "the-cave",
+			"name": "The Cave",
+			"id": 2570
+		},
+		{
+			"slug": "the-croods-prehistoric-party",
+			"name": "The Croods: Prehistoric Party!",
+			"id": 24102
+		},
+		{
+			"slug": "the-deer-god",
+			"name": "The Deer God",
+			"id": 1312
+		},
+		{
+			"slug": "the-fall",
+			"name": "The Fall",
+			"id": 2964
+		},
+		{
+			"slug": "the-gem-collector",
+			"name": "The Gem Collector",
+			"id": 27816
+		},
+		{
+			"slug": "the-girl-and-the-robot",
+			"name": "The Girl and the Robot",
+			"id": 18030
+		},
+		{
+			"slug": "the-ignition-factor",
+			"name": "THE IGNITION FACTOR (Wii)",
+			"id": 23907
+		},
+		{
+			"slug": "the-legend-of-kage-1986",
+			"name": "The Legend of Kage (1986)",
+			"id": 53910
+		},
+		{
+			"slug": "the-legend-of-the-mystical-ninja",
+			"name": "The Legend of The Mystical Ninja",
+			"id": 25138
+		},
+		{
+			"slug": "the-legend-of-zelda",
+			"name": "The Legend of Zelda",
+			"id": 24072
+		},
+		{
+			"slug": "legend-of-zelda-wii-u",
+			"name": "The Legend of Zelda Wii U",
+			"id": 334551
+		},
+		{
+			"slug": "the-legend-of-zelda-a-link-to-the-past",
+			"name": "The Legend of Zelda: A Link to the Past",
+			"id": 25096
+		},
+		{
+			"slug": "the-legend-of-zelda-breath-of-the-wild",
+			"name": "The Legend of Zelda: Breath of the Wild",
+			"id": 22511
+		},
+		{
+			"slug": "the-legend-of-zelda-phantom-hourglass",
+			"name": "The Legend of Zelda: Phantom Hourglass",
+			"id": 27023
+		},
+		{
+			"slug": "the-legend-of-zelda-skyward-sword",
+			"name": "The Legend of Zelda: Skyward Sword",
+			"id": 26824
+		},
+		{
+			"slug": "the-legend-of-zelda-spirit-tracks",
+			"name": "The Legend of Zelda: Spirit Tracks",
+			"id": 23850
+		},
+		{
+			"slug": "the-legend-of-zelda-the-minish-cap",
+			"name": "The Legend of Zelda: The Minish Cap",
+			"id": 27418
+		},
+		{
+			"slug": "the-legend-of-zelda-the-wind-waker-hd",
+			"name": "The Legend of Zelda: The Wind Waker HD",
+			"id": 27975
+		},
+		{
+			"slug": "the-legend-of-zelda-twilight-princess",
+			"name": "The Legend of Zelda: Twilight Princess",
+			"id": 27015
+		},
+		{
+			"slug": "the-legend-of-zelda-twilight-princess-hd",
+			"name": "The Legend of Zelda: Twilight Princess HD",
+			"id": 24182
+		},
+		{
+			"slug": "lego-movie-videogame",
+			"name": "The LEGO Movie - Videogame",
+			"id": 17543
+		},
+		{
+			"slug": "the-letter",
+			"name": "The Letter",
+			"id": 27433
+		},
+		{
+			"slug": "the-mysterious-cities-of-gold-secret-paths",
+			"name": "The Mysterious Cities of Gold: Secret Paths",
+			"id": 9139
+		},
+		{
+			"slug": "the-mysterious-murasame-castle-1986",
+			"name": "The Mysterious Murasame Castle (1986)",
+			"id": 53200
+		},
+		{
+			"slug": "the-peanuts-movie-snoopys-grand-adventure",
+			"name": "The Peanuts Movie: Snoopy's Grand Adventure",
+			"id": 290861
+		},
+		{
+			"slug": "the-perplexing-orb",
+			"name": "The Perplexing Orb",
+			"id": 27706
+		},
+		{
+			"slug": "the-pinball-arcade",
+			"name": "The Pinball Arcade",
+			"id": 41393
+		},
+		{
+			"slug": "the-quiet-collection",
+			"name": "The Quiet Collection",
+			"id": 3218
+		},
+		{
+			"slug": "the-rivers-of-alice-extended-version",
+			"name": "The Rivers of Alice: Extended Version",
+			"id": 27656
+		},
+		{
+			"slug": "the-stonecutter",
+			"name": "The Stonecutter",
+			"id": 27605
+		},
+		{
+			"slug": "the-swapper",
+			"name": "The Swapper",
+			"id": 1789
+		},
+		{
+			"slug": "the-swindle",
+			"name": "The Swindle",
+			"id": 1271
+		},
+		{
+			"slug": "twd-survival-instinct",
+			"name": "The Walking Dead: Survival Instinct",
+			"id": 24101
+		},
+		{
+			"slug": "the-wonderful-101",
+			"name": "The Wonderful 101",
+			"id": 27297
+		},
+		{
+			"slug": "thomas-was-alone",
+			"name": "Thomas Was Alone",
+			"id": 3494
+		},
+		{
+			"slug": "tilelicious-delicious-tiles",
+			"name": "Tilelicious: Delicious Tiles",
+			"id": 23946
+		},
+		{
+			"slug": "tiny-galaxy",
+			"name": "Tiny Galaxy",
+			"id": 23927
+		},
+		{
+			"slug": "titans-tower",
+			"name": "TITANS TOWER",
+			"id": 23854
+		},
+		{
+			"slug": "toby-the-secret-mine",
+			"name": "Toby: The Secret Mine",
+			"id": 3417
+		},
+		{
+			"slug": "toki-tori",
+			"name": "Toki Tori",
+			"id": 12726
+		},
+		{
+			"slug": "toki-tori-2001",
+			"name": "Toki Tori (2001)",
+			"id": 54915
+		},
+		{
+			"slug": "toki-tori-2",
+			"name": "Toki Tori 2+",
+			"id": 327
+		},
+		{
+			"slug": "tokyo-mirage-sessions-9839fe",
+			"name": "Tokyo Mirage Sessions #FE",
+			"id": 28009
+		},
+		{
+			"slug": "tom-clancys-splinter-cell-blacklist",
+			"name": "Tom Clancy’s Splinter Cell Blacklist",
+			"id": 3933
+		},
+		{
+			"slug": "tomato-adventure",
+			"name": "Tomato Adventure",
+			"id": 53612
+		},
+		{
+			"slug": "tomeling-in-trouble",
+			"name": "Tomeling in Trouble",
+			"id": 46446
+		},
+		{
+			"slug": "toon-tanks",
+			"name": "Toon Tanks",
+			"id": 23965
+		},
+		{
+			"slug": "toon-war",
+			"name": "Toon War",
+			"id": 52128
+		},
+		{
+			"slug": "toss-n-go",
+			"name": "TOSS N GO",
+			"id": 27529
+		},
+		{
+			"slug": "totem-topple",
+			"name": "Totem Topple",
+			"id": 27691
+		},
+		{
+			"slug": "toto-temple-deluxe",
+			"name": "Toto Temple Deluxe",
+			"id": 3
+		},
+		{
+			"slug": "touch-selections",
+			"name": "TOUCH SELECTIONS",
+			"id": 27814
+		},
+		{
+			"slug": "transformers-prime",
+			"name": "TRANSFORMERS PRIME",
+			"id": 27189
+		},
+		{
+			"slug": "transformers-rotds",
+			"name": "TRANSFORMERS: Rise of the Dark Spark",
+			"id": 3658
+		},
+		{
+			"slug": "trashmania-trilogy",
+			"name": "Trashmania Trilogy",
+			"id": 336400
+		},
+		{
+			"slug": "trauma-team",
+			"name": "Trauma Team",
+			"id": 26388
+		},
+		{
+			"slug": "tri-strip",
+			"name": "Tri-Strip",
+			"id": 23962
+		},
+		{
+			"slug": "trine-2-directors-cut",
+			"name": "Trine 2: Director's Cut",
+			"id": 27191
+		},
+		{
+			"slug": "triple-breakout",
+			"name": "Triple Breakout",
+			"id": 27916
+		},
+		{
+			"slug": "tumblestone",
+			"name": "Tumblestone",
+			"id": 1657
+		},
+		{
+			"slug": "turbo-super-stunt-squad",
+			"name": "Turbo: Super Stunt Squad",
+			"id": 24204
+		},
+		{
+			"slug": "turtle-tale",
+			"name": "Turtle Tale",
+			"id": 24019
+		},
+		{
+			"slug": "twin-robots",
+			"name": "Twin Robots",
+			"id": 16771
+		},
+		{
+			"slug": "twisted-fusion",
+			"name": "Twisted Fusion",
+			"id": 27847
+		},
+		{
+			"slug": "typoman",
+			"name": "Typoman",
+			"id": 333
+		},
+		{
+			"slug": "u-host",
+			"name": "U Host",
+			"id": 27737
+		},
+		{
+			"slug": "ufouria-the-saga",
+			"name": "Ufouria: The Saga",
+			"id": 23999
+		},
+		{
+			"slug": "ultratron",
+			"name": "Ultratron",
+			"id": 3340
+		},
+		{
+			"slug": "unalive",
+			"name": "Unalive",
+			"id": 14715
+		},
+		{
+			"slug": "underground",
+			"name": "Underground",
+			"id": 27580
+		},
+		{
+			"slug": "unepic",
+			"name": "Unepic",
+			"id": 1984
+		},
+		{
+			"slug": "urban-champion",
+			"name": "Urban Champion (Wii U)",
+			"id": 25083
+		},
+		{
+			"slug": "use-your-words",
+			"name": "Use Your Words",
+			"id": 11165
+		},
+		{
+			"slug": "uwordsmith",
+			"name": "uWordsmith",
+			"id": 27542
+		},
+		{
+			"slug": "vector-assault",
+			"name": "Vector Assault",
+			"id": 18867
+		},
+		{
+			"slug": "vegas-stakes",
+			"name": "Vegas Stakes",
+			"id": 25330
+		},
+		{
+			"slug": "vegas-stakes-1993",
+			"name": "Vegas Stakes (1993)",
+			"id": 55303
+		},
+		{
+			"slug": "vektor-wars",
+			"name": "Vektor Wars",
+			"id": 18101
+		},
+		{
+			"slug": "victory-run",
+			"name": "VICTORY RUN",
+			"id": 4693
+		},
+		{
+			"slug": "vigilante",
+			"name": "VIGILANTE",
+			"id": 24898
+		},
+		{
+			"slug": "vigilante-1988",
+			"name": "Vigilante (1988)",
+			"id": 55701
+		},
+		{
+			"slug": "volcanic-field-2",
+			"name": "Volcanic Field 2",
+			"id": 27728
+		},
+		{
+			"slug": "volgarr-the-viking",
+			"name": "Volgarr the Viking",
+			"id": 835
+		},
+		{
+			"slug": "volleyball",
+			"name": "Volleyball",
+			"id": 25305
+		},
+		{
+			"slug": "volleyball-1986",
+			"name": "Volleyball (1986)",
+			"id": 54133
+		},
+		{
+			"slug": "voxelmaker",
+			"name": "VoxelMaker",
+			"id": 23912
+		},
+		{
+			"slug": "vrog",
+			"name": "VRog",
+			"id": 10711
+		},
+		{
+			"slug": "vs-excitebike",
+			"name": "VS. Excitebike",
+			"id": 27649
+		},
+		{
+			"slug": "wario-land-shake-it",
+			"name": "Wario Land: Shake It!",
+			"id": 25577
+		},
+		{
+			"slug": "wario-master-of-disguise",
+			"name": "Wario: Master of Disguise",
+			"id": 23870
+		},
+		{
+			"slug": "warios-woods",
+			"name": "Wario's Woods",
+			"id": 27016
+		},
+		{
+			"slug": "warios-woods-1994",
+			"name": "Wario's Woods (1994)",
+			"id": 54135
+		},
+		{
+			"slug": "warriors-orochi-3-hyper",
+			"name": "Warriors Orochi 3 Hyper",
+			"id": 27190
+		},
+		{
+			"slug": "warriors-orochi-3-ultimate",
+			"name": "WARRIORS OROCHI 3 Ultimate",
+			"id": 3034
+		},
+		{
+			"slug": "watch-dogs",
+			"name": "Watch Dogs",
+			"id": 3687
+		},
+		{
+			"slug": "watchup-your-daily-newscast",
+			"name": "Watchup: Your Daily Newscast",
+			"id": 27648
+		},
+		{
+			"slug": "wheel-of-fortune",
+			"name": "Wheel of Fortune",
+			"id": 26546
+		},
+		{
+			"slug": "whispering-willows",
+			"name": "Whispering Willows",
+			"id": 1744
+		},
+		{
+			"slug": "wicked-monsters-blast-hd-2",
+			"name": "Wicked Monsters BLAST! HD+",
+			"id": 27705
+		},
+		{
+			"slug": "wii-fit-u",
+			"name": "Wii Fit U",
+			"id": 27327
+		},
+		{
+			"slug": "wii-fit-u-packaged-version",
+			"name": "Wii Fit U - Packaged Version",
+			"id": 27362
+		},
+		{
+			"slug": "wii-karaoke-u",
+			"name": "Wii Karaoke U",
+			"id": 336653
+		},
+		{
+			"slug": "wii-party-u",
+			"name": "Wii Party U",
+			"id": 27972
+		},
+		{
+			"slug": "wii-sports-club",
+			"name": "Wii Sports Club",
+			"id": 27444
+		},
+		{
+			"slug": "wii-street-u",
+			"name": "Wii Street U",
+			"id": 336654
+		},
+		{
+			"slug": "wii-u-panorama-view",
+			"name": "Wii U Panorama View",
+			"id": 27246
+		},
+		{
+			"slug": "wii-u-play",
+			"name": "Wii U Play",
+			"id": 336655
+		},
+		{
+			"slug": "wii-u-sports",
+			"name": "Wii U Sports Club",
+			"id": 336656
+		},
+		{
+			"slug": "wild-gunman",
+			"name": "Wild Gunman (Wii U)",
+			"id": 27697
+		},
+		{
+			"slug": "wild-guns",
+			"name": "Wild Guns",
+			"id": 26395
+		},
+		{
+			"slug": "wild-guns-1994",
+			"name": "Wild Guns (1994)",
+			"id": 57568
+		},
+		{
+			"slug": "wind-up-knight-2",
+			"name": "Wind-up Knight 2",
+			"id": 2325
+		},
+		{
+			"slug": "wings-of-magloryx",
+			"name": "Wings of Magloryx",
+			"id": 23856
+		},
+		{
+			"slug": "winkings",
+			"name": "WinKings",
+			"id": 732
+		},
+		{
+			"slug": "wipeout-3",
+			"name": "Wipeout 3 (2012)",
+			"id": 26900
+		},
+		{
+			"slug": "wipeout-create-crash",
+			"name": "Wipeout: Create & Crash",
+			"id": 392222
+		},
+		{
+			"slug": "woah-dave",
+			"name": "Woah Dave!",
+			"id": 3384
+		},
+		{
+			"slug": "wooden-sensey",
+			"name": "Wooden Sen'SeY",
+			"id": 17986
+		},
+		{
+			"slug": "word-logic-by-powgi",
+			"name": "Word Logic by POWGI",
+			"id": 27798
+		},
+		{
+			"slug": "word-party",
+			"name": "Word Party",
+			"id": 27678
+		},
+		{
+			"slug": "word-puzzles-by-powgi",
+			"name": "Word Puzzles by POWGI",
+			"id": 23889
+		},
+		{
+			"slug": "word-search-by-powgi",
+			"name": "Word Search by POWGI",
+			"id": 23940
+		},
+		{
+			"slug": "words-up-academy",
+			"name": "Words Up! Academy",
+			"id": 27884
+		},
+		{
+			"slug": "world-sports-competition",
+			"name": "WORLD SPORTS COMPETITION",
+			"id": 4694
+		},
+		{
+			"slug": "wrecking-crew",
+			"name": "Wrecking Crew",
+			"id": 24091
+		},
+		{
+			"slug": "wrecking-crew-1985",
+			"name": "Wrecking Crew (1985)",
+			"id": 53203
+		},
+		{
+			"slug": "xtype-plus",
+			"name": "X-Type Plus",
+			"id": 336728
+		},
+		{
+			"slug": "xavier",
+			"name": "Xavier",
+			"id": 27502
+		},
+		{
+			"slug": "xenoblade-chronicles-x",
+			"name": "Xenoblade Chronicles X",
+			"id": 23756
+		},
+		{
+			"slug": "xeodrifter",
+			"name": "Xeodrifter",
+			"id": 3197
+		},
+		{
+			"slug": "xevious",
+			"name": "Xevious",
+			"id": 24100
+		},
+		{
+			"slug": "xevious-1983",
+			"name": "Xevious (1983)",
+			"id": 53204
+		},
+		{
+			"slug": "yasg",
+			"name": "Y.A.S.G",
+			"id": 27883
+		},
+		{
+			"slug": "year-walk",
+			"name": "Year Walk",
+			"id": 730
+		},
+		{
+			"slug": "yoshi",
+			"name": "Yoshi",
+			"id": 25176
+		},
+		{
+			"slug": "yoshi-touch-go",
+			"name": "Yoshi Touch & Go",
+			"id": 23937
+		},
+		{
+			"slug": "yoshis-island-ds",
+			"name": "Yoshi's Island DS",
+			"id": 25040
+		},
+		{
+			"slug": "yoshis-story",
+			"name": "Yoshi's Story",
+			"id": 25211
+		},
+		{
+			"slug": "yoshis-story-1997",
+			"name": "Yoshi's Story (1997)",
+			"id": 54574
+		},
+		{
+			"slug": "yoshis-woolly-world",
+			"name": "Yoshi's Woolly World",
+			"id": 27989
+		},
+		{
+			"slug": "your-shape-fitness-evolved-2013",
+			"name": "Your Shape Fitness Evolved 2013",
+			"id": 27188
+		},
+		{
+			"slug": "zacisas-last-stand",
+			"name": "ZaciSa's Last Stand",
+			"id": 27429
+		},
+		{
+			"slug": "zelda-ii-the-adventure-of-link-2",
+			"name": "Zelda II: The Adventure of Link",
+			"id": 53205
+		},
+		{
+			"slug": "zen-pinball-2",
+			"name": "Zen Pinball 2",
+			"id": 3808
+		},
+		{
+			"slug": "ziggurat",
+			"name": "Ziggurat",
+			"id": 3214
+		},
+		{
+			"slug": "zodas-revenge-star-tropics-ii",
+			"name": "Zoda's Revenge: Star Tropics II",
+			"id": 27764
+		},
+		{
+			"slug": "zodas-revenge-startropics-ii",
+			"name": "Zoda's Revenge: StarTropics II",
+			"id": 24641
+		},
+		{
+			"slug": "zombeer",
+			"name": "Zombeer",
+			"id": 3786
+		},
+		{
+			"slug": "zombie-brigade-no-brain-no-gain",
+			"name": "Zombie Brigade: No Brain No Gain",
+			"id": 23831
+		},
+		{
+			"slug": "zombie-defense",
+			"name": "Zombie Defense",
+			"id": 8093
+		},
+		{
+			"slug": "zombiu",
+			"name": "ZombiU",
+			"id": 27192
+		},
+		{
+			"slug": "zombiu-2",
+			"name": "ZombiU 2",
+			"id": 336782
+		},
+		{
+			"slug": "zumba-fitness-world-party",
+			"name": "Zumba Fitness World Party",
+			"id": 6622
+		}
+	]
+}

@@ -1,0 +1,1820 @@
+{
+	"platform": "Nintendo 64",
+	"games": [
+		{
+			"slug": "the-world-is-not-enough",
+			"name": "007: The World is not Enough",
+			"id": 54339
+		},
+		{
+			"slug": "1080deg-snowboarding-1998",
+			"name": "1080° Snowboarding (N64)",
+			"id": 54338
+		},
+		{
+			"slug": "40-winks",
+			"name": "40 Winks",
+			"id": 52646
+		},
+		{
+			"slug": "64-ozumo",
+			"name": "64 Ōzumō",
+			"id": 54340
+		},
+		{
+			"slug": "aero-fighters-assault",
+			"name": "Aero Fighters Assault",
+			"id": 54341
+		},
+		{
+			"slug": "aerogauge",
+			"name": "AeroGauge",
+			"id": 54342
+		},
+		{
+			"slug": "aidyn-chronicles-the-first-mage",
+			"name": "Aidyn Chronicles: The First Mage",
+			"id": 54343
+		},
+		{
+			"slug": "air-boarder-64",
+			"name": "Air Boarder 64",
+			"id": 54344
+		},
+		{
+			"slug": "all-star-tennis-99",
+			"name": "All Star Tennis '99",
+			"id": 52661
+		},
+		{
+			"slug": "all-star-baseball-99",
+			"name": "All-Star Baseball '99",
+			"id": 368036
+		},
+		{
+			"slug": "all-star-baseball-2000",
+			"name": "All-Star Baseball 2000",
+			"id": 368035
+		},
+		{
+			"slug": "animal-crossing",
+			"name": "Animal Crossing",
+			"id": 54346
+		},
+		{
+			"slug": "armorines-project-swarm",
+			"name": "Armorines: Project S.W.A.R.M.",
+			"id": 52683
+		},
+		{
+			"slug": "army-men-air-attack",
+			"name": "Army Men: Air Attack (1999)",
+			"id": 52685
+		},
+		{
+			"slug": "army-men-sarges-heroes",
+			"name": "Army Men: Sarge's Heroes",
+			"id": 29733
+		},
+		{
+			"slug": "army-men-sarges-heroes-2",
+			"name": "Army Men: Sarge's Heroes 2",
+			"id": 52687
+		},
+		{
+			"slug": "automobili-lamborghini",
+			"name": "Automobili Lamborghini",
+			"id": 54348
+		},
+		{
+			"slug": "b3313",
+			"name": "B3313",
+			"id": 708985
+		},
+		{
+			"slug": "bakusho-jinsei-64-mezase-resort-o",
+			"name": "Bakushō Jinsei 64: Mezase! Resort Ō",
+			"id": 54350
+		},
+		{
+			"slug": "bangai-o",
+			"name": "Bangai-O",
+			"id": 54349
+		},
+		{
+			"slug": "banjo-dreamie",
+			"name": "Banjo Dreamie",
+			"id": 736206
+		},
+		{
+			"slug": "banjo-kazooie-jiggies-of-time",
+			"name": "Banjo Kazooie: Jiggies of Time",
+			"id": 708984
+		},
+		{
+			"slug": "banjo-kazooie",
+			"name": "Banjo-Kazooie",
+			"id": 28532
+		},
+		{
+			"slug": "banjo-tooie",
+			"name": "Banjo-Tooie",
+			"id": 28437
+		},
+		{
+			"slug": "bass-masters-2000",
+			"name": "Bass Masters 2000",
+			"id": 54345
+		},
+		{
+			"slug": "bass-rush",
+			"name": "Bass Rush",
+			"id": 502127
+		},
+		{
+			"slug": "batman-beyond-return-of-the-joker",
+			"name": "Batman Beyond: Return of the Joker",
+			"id": 52709
+		},
+		{
+			"slug": "battletanx",
+			"name": "BattleTanx",
+			"id": 54354
+		},
+		{
+			"slug": "battletanx-global-assault",
+			"name": "BattleTanx: Global Assault",
+			"id": 52718
+		},
+		{
+			"slug": "battlezone-1998",
+			"name": "Battlezone (1998)",
+			"id": 32208
+		},
+		{
+			"slug": "beetle-adventure-racing",
+			"name": "Beetle Adventure Racing",
+			"id": 54347
+		},
+		{
+			"slug": "big-mountain-2000",
+			"name": "Big Mountain 2000",
+			"id": 54355
+		},
+		{
+			"slug": "bio-freaks",
+			"name": "Bio F.R.E.A.K.S.",
+			"id": 31872
+		},
+		{
+			"slug": "blast-corps",
+			"name": "Blast Corps",
+			"id": 54356
+		},
+		{
+			"slug": "blues-brothers-2000",
+			"name": "Blues Brothers 2000",
+			"id": 54357
+		},
+		{
+			"slug": "body-harvest",
+			"name": "Body Harvest",
+			"id": 54358
+		},
+		{
+			"slug": "bomberman-64-1997",
+			"name": "Bomberman 64 (1997)",
+			"id": 54359
+		},
+		{
+			"slug": "bomberman-64-the-second-attack",
+			"name": "Bomberman 64: The Second Attack",
+			"id": 54361
+		},
+		{
+			"slug": "bomberman-hero-1998",
+			"name": "Bomberman Hero (1998)",
+			"id": 54362
+		},
+		{
+			"slug": "bottom-of-the-9th-1996",
+			"name": "Bottom of the 9th (1996)",
+			"id": 52746
+		},
+		{
+			"slug": "brunswick-circuit-pro-bowling",
+			"name": "Brunswick Circuit Pro Bowling",
+			"id": 52757
+		},
+		{
+			"slug": "buck-bumble",
+			"name": "Buck Bumble",
+			"id": 54364
+		},
+		{
+			"slug": "bust-a-move-2-arcade-edition",
+			"name": "Bust-A-Move 2: Arcade Edition",
+			"id": 33330
+		},
+		{
+			"slug": "california-speed",
+			"name": "California Speed",
+			"id": 54365
+		},
+		{
+			"slug": "carmageddon",
+			"name": "Carmageddon",
+			"id": 1864
+		},
+		{
+			"slug": "castlevania-1998",
+			"name": "Castlevania (1999)",
+			"id": 401373
+		},
+		{
+			"slug": "castlevania-legacy-of-darkness",
+			"name": "Castlevania: Legacy of Darkness",
+			"id": 54366
+		},
+		{
+			"slug": "lets-smash",
+			"name": "Centre Court Tennis",
+			"id": 54367
+		},
+		{
+			"slug": "chameleon-twist",
+			"name": "Chameleon Twist",
+			"id": 54368
+		},
+		{
+			"slug": "chameleon-twist-2",
+			"name": "Chameleon Twist 2",
+			"id": 54369
+		},
+		{
+			"slug": "charlie-blasts-territory",
+			"name": "Charlie Blast's Territory",
+			"id": 379445
+		},
+		{
+			"slug": "chokukan-night-pro-yakyu-king",
+			"name": "Chōkūkan Night: Pro Yakyū King",
+			"id": 54371
+		},
+		{
+			"slug": "chokukan-night-pro-yakyu-king-2",
+			"name": "Chōkūkan Night: Pro Yakyū King 2",
+			"id": 54363
+		},
+		{
+			"slug": "chopper-attack",
+			"name": "Chopper Attack",
+			"id": 54370
+		},
+		{
+			"slug": "penny-racers",
+			"name": "Choro Q 64",
+			"id": 54480
+		},
+		{
+			"slug": "choro-q-64-2-hachamecha-grand-prix-race",
+			"name": "Choro Q 64 2",
+			"id": 54360
+		},
+		{
+			"slug": "clayfighter-63-13",
+			"name": "ClayFighter 63⅓",
+			"id": 54372
+		},
+		{
+			"slug": "clayfighter-sculptors-cut",
+			"name": "ClayFighter: Sculptor's Cut",
+			"id": 534136
+		},
+		{
+			"slug": "conkers-bad-fur-day",
+			"name": "Conker's Bad Fur Day",
+			"id": 54373
+		},
+		{
+			"slug": "cruisn-exotica",
+			"name": "Cruis'n Exotica",
+			"id": 54374
+		},
+		{
+			"slug": "cruisn-usa-1996",
+			"name": "Cruis'n USA (1996)",
+			"id": 54375
+		},
+		{
+			"slug": "cruisn-world",
+			"name": "Cruis'n World",
+			"id": 54376
+		},
+		{
+			"slug": "custom-robo",
+			"name": "Custom Robo",
+			"id": 54377
+		},
+		{
+			"slug": "custom-robo-v2",
+			"name": "Custom Robo V2",
+			"id": 54378
+		},
+		{
+			"slug": "cybertiger",
+			"name": "CyberTiger",
+			"id": 52842
+		},
+		{
+			"slug": "dark-rift",
+			"name": "Dark Rift",
+			"id": 32112
+		},
+		{
+			"slug": "densha-de-go-2-kosoku-hen",
+			"name": "Densha de Go! 2 Kōsoku-hen",
+			"id": 54815
+		},
+		{
+			"slug": "densha-de-go-64",
+			"name": "Densha de Go! 64",
+			"id": 368033
+		},
+		{
+			"slug": "destruction-derby",
+			"name": "Destruction Derby",
+			"id": 5489
+		},
+		{
+			"slug": "dezaimon-3d",
+			"name": "Dezaimon 3D",
+			"id": 974791
+		},
+		{
+			"slug": "diddy-kong-racing",
+			"name": "Diddy Kong Racing",
+			"id": 54379
+		},
+		{
+			"slug": "dinosaur-planet-prototype",
+			"name": "Dinosaur Planet (N64)",
+			"id": 953924
+		},
+		{
+			"slug": "disneys-tarzan",
+			"name": "Disney's Tarzan",
+			"id": 52879
+		},
+		{
+			"slug": "tiggers-honey-hunt",
+			"name": "Disney's Tigger's Honey Hunt",
+			"id": 32146
+		},
+		{
+			"slug": "bugs-life-a",
+			"name": "Disney•Pixar A Bug's Life",
+			"id": 4748
+		},
+		{
+			"slug": "donald-duck-goin-quackers",
+			"name": "Donald Duck: Goin' Quackers",
+			"id": 52875
+		},
+		{
+			"slug": "donkey-kong-64",
+			"name": "Donkey Kong 64",
+			"id": 54380
+		},
+		{
+			"slug": "doom-64",
+			"name": "Doom 64",
+			"id": 54381
+		},
+		{
+			"slug": "doraemon-2-nobita-to-hikari-no-shinden",
+			"name": "Doraemon 2: Nobita to Hikari no Shinden",
+			"id": 368032
+		},
+		{
+			"slug": "doraemon-nobita-to-3-tsu-no-seireiseki",
+			"name": "Doraemon: Nobita to 3 Tsu no Seireiseki",
+			"id": 368031
+		},
+		{
+			"slug": "dr-mario-64",
+			"name": "Dr. Mario 64",
+			"id": 54382
+		},
+		{
+			"slug": "dual-heroes",
+			"name": "Dual Heroes",
+			"id": 54383
+		},
+		{
+			"slug": "duck-dodgers-starring-daffy-duck",
+			"name": "Duck Dodgers Starring Daffy Duck",
+			"id": 54384
+		},
+		{
+			"slug": "duke-nukem-64",
+			"name": "Duke Nukem 64",
+			"id": 688750
+		},
+		{
+			"slug": "duke-nukem-zero-hour",
+			"name": "Duke Nukem: Zero Hour",
+			"id": 54386
+		},
+		{
+			"slug": "earthworm-jim-3d",
+			"name": "Earthworm Jim 3D",
+			"id": 21524
+		},
+		{
+			"slug": "ecw-hardcore-revolution",
+			"name": "ECW Hardcore Revolution",
+			"id": 52901
+		},
+		{
+			"slug": "excitebike-64-2000",
+			"name": "Excitebike 64 (2000)",
+			"id": 54387
+		},
+		{
+			"slug": "extreme-g",
+			"name": "Extreme-G",
+			"id": 54388
+		},
+		{
+			"slug": "extreme-g-2",
+			"name": "Extreme-G 2",
+			"id": 54389
+		},
+		{
+			"slug": "f-1-world-grand-prix",
+			"name": "F-1 World Grand Prix",
+			"id": 52919
+		},
+		{
+			"slug": "f-1-world-grand-prix-ii",
+			"name": "F-1 World Grand Prix II",
+			"id": 54391
+		},
+		{
+			"slug": "f-zero-x-1998",
+			"name": "F-Zero X",
+			"id": 54392
+		},
+		{
+			"slug": "f-zero-x-climax",
+			"name": "F-Zero X Climax (Hack)",
+			"id": 339954
+		},
+		{
+			"slug": "f1-pole-position-64",
+			"name": "F1 Pole Position 64",
+			"id": 54394
+		},
+		{
+			"slug": "f1-racing-championship",
+			"name": "F1 Racing Championship",
+			"id": 31436
+		},
+		{
+			"slug": "f1-world-grand-prix",
+			"name": "F1 World Grand Prix",
+			"id": 330587
+		},
+		{
+			"slug": "famista-64",
+			"name": "Famista 64",
+			"id": 54385
+		},
+		{
+			"slug": "fifa-98-road-to-world-cup",
+			"name": "FIFA '98: Road to World Cup",
+			"id": 32419
+		},
+		{
+			"slug": "fifa-soccer-64",
+			"name": "FIFA Soccer 64",
+			"id": 368030
+		},
+		{
+			"slug": "fifa-road-to-world-cup-98",
+			"name": "FIFA: Road to World Cup 98",
+			"id": 52927
+		},
+		{
+			"slug": "fighters-destiny",
+			"name": "Fighters Destiny",
+			"id": 54395
+		},
+		{
+			"slug": "fighting-force",
+			"name": "Fighting Force",
+			"id": 5144
+		},
+		{
+			"slug": "flying-dragon",
+			"name": "Flying Dragon",
+			"id": 54396
+		},
+		{
+			"slug": "forsaken",
+			"name": "Forsaken",
+			"id": 29640
+		},
+		{
+			"slug": "fox-sports-college-hoops-99",
+			"name": "Fox Sports College Hoops '99",
+			"id": 54397
+		},
+		{
+			"slug": "gasp-fighters-nextream",
+			"name": "G.A.S.P!! Fighters' NEXTream",
+			"id": 54399
+		},
+		{
+			"slug": "gauntlet-legends",
+			"name": "Gauntlet Legends",
+			"id": 52984
+		},
+		{
+			"slug": "getter-love-cho-renai-party-game-tanjo",
+			"name": "Getter Love!!: Cho Renai Party Game Tanjou",
+			"id": 54393
+		},
+		{
+			"slug": "gex-3-deep-cover-gecko",
+			"name": "Gex 3: Deep Cover Gecko (1999)",
+			"id": 52989
+		},
+		{
+			"slug": "gex-enter-the-gecko",
+			"name": "Gex: Enter the Gecko (1998)",
+			"id": 52988
+		},
+		{
+			"slug": "glover",
+			"name": "Glover",
+			"id": 52993
+		},
+		{
+			"slug": "goemon-mononoke-sugoroku",
+			"name": "Goemon Mononoke Sugoroku",
+			"id": 54398
+		},
+		{
+			"slug": "goemons-great-adventure",
+			"name": "Goemon's Great Adventure",
+			"id": 54402
+		},
+		{
+			"slug": "golden-nugget-64",
+			"name": "Golden Nugget 64",
+			"id": 54404
+		},
+		{
+			"slug": "goldeneye-007-1997",
+			"name": "GoldenEye 007 (1997)",
+			"id": 54403
+		},
+		{
+			"slug": "gt-64-championship-edition",
+			"name": "GT 64: Championship Edition",
+			"id": 54405
+		},
+		{
+			"slug": "hamster-monogatari-64",
+			"name": "Hamster Monogatari 64",
+			"id": 54400
+		},
+		{
+			"slug": "harvest-moon-64-1999",
+			"name": "Harvest Moon 64 (1999)",
+			"id": 54406
+		},
+		{
+			"slug": "heiwa-pachinko-world-64",
+			"name": "Heiwa Pachinko World 64",
+			"id": 54401
+		},
+		{
+			"slug": "hercules-the-legendary-journeys",
+			"name": "Hercules: The Legendary Journeys (N64)",
+			"id": 517328
+		},
+		{
+			"slug": "hexen-for-windows-95",
+			"name": "HeXen: Beyond Heretic",
+			"id": 21285
+		},
+		{
+			"slug": "hey-you-pikachu",
+			"name": "Hey You, Pikachu!",
+			"id": 51675
+		},
+		{
+			"slug": "hot-wheels-turbo-racing",
+			"name": "Hot Wheels Turbo Racing",
+			"id": 53021
+		},
+		{
+			"slug": "hybrid-heaven",
+			"name": "Hybrid Heaven",
+			"id": 54408
+		},
+		{
+			"slug": "hydro-thunder-1999",
+			"name": "Hydro Thunder (1999)",
+			"id": 53024
+		},
+		{
+			"slug": "iggys-reckin-balls",
+			"name": "Iggy's Reckin' Balls",
+			"id": 54409
+		},
+		{
+			"slug": "in-fisherman-bass-hunter-64",
+			"name": "In-Fisherman Bass Hunter 64",
+			"id": 54353
+		},
+		{
+			"slug": "indiana-jones-and-the-infernal-machine",
+			"name": "Indiana Jones and the Infernal Machine",
+			"id": 32986
+		},
+		{
+			"slug": "indy-racing-2000",
+			"name": "Indy Racing 2000",
+			"id": 54414
+		},
+		{
+			"slug": "international-superstar-soccer",
+			"name": "International Superstar Soccer",
+			"id": 53034
+		},
+		{
+			"slug": "international-superstar-soccer-2000",
+			"name": "International Superstar Soccer 2000",
+			"id": 54416
+		},
+		{
+			"slug": "international-superstar-soccer-64",
+			"name": "International Superstar Soccer 64",
+			"id": 54417
+		},
+		{
+			"slug": "international-superstar-soccer-98",
+			"name": "International Superstar Soccer 98",
+			"id": 368029
+		},
+		{
+			"slug": "international-track-field",
+			"name": "International Track & Field 2000",
+			"id": 53038
+		},
+		{
+			"slug": "itoi-shigesato-no-bass-tsuri-no-1",
+			"name": "Itoi Shigesato no Bass Tsuri No. 1",
+			"id": 54410
+		},
+		{
+			"slug": "j-league-dynamite-soccer-64",
+			"name": "J-League Dynamite Soccer 64",
+			"id": 54411
+		},
+		{
+			"slug": "j-league-eleven-beat-1997",
+			"name": "J-League Eleven Beat 1997",
+			"id": 54412
+		},
+		{
+			"slug": "j-league-tactics-soccer",
+			"name": "J-League Tactics Soccer",
+			"id": 54415
+		},
+		{
+			"slug": "j-league-live-64",
+			"name": "J. League Live 64",
+			"id": 54413
+		},
+		{
+			"slug": "jeremy-mcgrath-supercross-2000",
+			"name": "Jeremy McGrath Supercross 2000",
+			"id": 53052
+		},
+		{
+			"slug": "jet-force-gemini",
+			"name": "Jet Force Gemini",
+			"id": 54420
+		},
+		{
+			"slug": "jikkyo-gi-stable",
+			"name": "Jikkyō GI Stable",
+			"id": 54418
+		},
+		{
+			"slug": "jinsei-game-64",
+			"name": "Jinsei Game 64",
+			"id": 54419
+		},
+		{
+			"slug": "daikatana",
+			"name": "John Romero's Daikatana",
+			"id": 22900
+		},
+		{
+			"slug": "ken-griffey-jrs-slugfest",
+			"name": "Ken Griffey Jr.'s Slugfest",
+			"id": 54422
+		},
+		{
+			"slug": "killer-instinct-gold",
+			"name": "Killer Instinct Gold",
+			"id": 54423
+		},
+		{
+			"slug": "kira-tto-kaiketsu-64-tanteidan",
+			"name": "Kira tto Kaiketsu! 64 Tanteidan",
+			"id": 54421
+		},
+		{
+			"slug": "kirby-64-the-crystal-shards-2000",
+			"name": "Kirby 64: The Crystal Shards",
+			"id": 54424
+		},
+		{
+			"slug": "knife-edge-nose-gunner",
+			"name": "Knife Edge: Nose Gunner",
+			"id": 54425
+		},
+		{
+			"slug": "knockout-kings-2000",
+			"name": "Knockout Kings 2000",
+			"id": 362733
+		},
+		{
+			"slug": "kobe-bryant-in-nba-courtside",
+			"name": "Kobe Bryant in NBA Courtside",
+			"id": 54426
+		},
+		{
+			"slug": "lego-racers",
+			"name": "LEGO Racers",
+			"id": 32251
+		},
+		{
+			"slug": "lode-runner-3-d",
+			"name": "Lode Runner 3-D",
+			"id": 54428
+		},
+		{
+			"slug": "mace-the-dark-age",
+			"name": "Mace: The Dark Age",
+			"id": 54429
+		},
+		{
+			"slug": "madden-football-64",
+			"name": "Madden Football 64",
+			"id": 54430
+		},
+		{
+			"slug": "madden-nfl-2000",
+			"name": "Madden NFL 2000",
+			"id": 30986
+		},
+		{
+			"slug": "madden-nfl-2001",
+			"name": "Madden NFL 2001",
+			"id": 30987
+		},
+		{
+			"slug": "madden-nfl-2002",
+			"name": "Madden NFL 2002",
+			"id": 30989
+		},
+		{
+			"slug": "madden-nfl-99-2",
+			"name": "Madden NFL 99",
+			"id": 54431
+		},
+		{
+			"slug": "magical-tetris-challenge",
+			"name": "Magical Tetris Challenge",
+			"id": 52878
+		},
+		{
+			"slug": "major-league-baseball-featuring-ken-griffey-jr",
+			"name": "Major League Baseball Featuring Ken Griffey Jr.",
+			"id": 54434
+		},
+		{
+			"slug": "mario-golf-1999",
+			"name": "Mario Golf (1999)",
+			"id": 54433
+		},
+		{
+			"slug": "mario-kart-64-1996",
+			"name": "Mario Kart 64 (1996)",
+			"id": 54435
+		},
+		{
+			"slug": "mario-no-photopi",
+			"name": "Mario no Photopi",
+			"id": 54436
+		},
+		{
+			"slug": "mario-party",
+			"name": "Mario Party",
+			"id": 53394
+		},
+		{
+			"slug": "mario-party-2",
+			"name": "Mario Party 2",
+			"id": 23823
+		},
+		{
+			"slug": "mario-party-3",
+			"name": "Mario Party 3",
+			"id": 54437
+		},
+		{
+			"slug": "mario-tennis-2000",
+			"name": "Mario Tennis (2000)",
+			"id": 54439
+		},
+		{
+			"slug": "masters-98-haruka-naru-augusta",
+			"name": "Masters '98: Haruka Naru Augusta",
+			"id": 54432
+		},
+		{
+			"slug": "mega-man-64-2001",
+			"name": "Mega Man 64 (2001)",
+			"id": 390532
+		},
+		{
+			"slug": "mia-hamm-64-soccer",
+			"name": "Mia Hamm 64 Soccer",
+			"id": 368028
+		},
+		{
+			"slug": "michael-owens-wls-2000",
+			"name": "Michael Owen's WLS 2000",
+			"id": 54857
+		},
+		{
+			"slug": "mickeys-speedway-usa",
+			"name": "Mickey's Speedway USA",
+			"id": 54442
+		},
+		{
+			"slug": "micro-machines-v3",
+			"name": "Micro Machines V3",
+			"id": 29705
+		},
+		{
+			"slug": "midways-greatest-arcade-hits",
+			"name": "Midway's Greatest Arcade Hits",
+			"id": 53424
+		},
+		{
+			"slug": "mike-piazzas-strike-zone",
+			"name": "Mike Piazza's Strike Zone",
+			"id": 54443
+		},
+		{
+			"slug": "milos-astro-lanes",
+			"name": "Milo's Astro Lanes",
+			"id": 54445
+		},
+		{
+			"slug": "mischief-makers",
+			"name": "Mischief Makers",
+			"id": 54444
+		},
+		{
+			"slug": "mission-impossible-1998",
+			"name": "Mission: Impossible (1998)",
+			"id": 795383
+		},
+		{
+			"slug": "monaco-grand-prix",
+			"name": "Monaco Grand Prix",
+			"id": 54446
+		},
+		{
+			"slug": "monopoly-1999",
+			"name": "Monopoly (1999)",
+			"id": 368027
+		},
+		{
+			"slug": "monster-truck-madness-2",
+			"name": "Monster Truck Madness 2",
+			"id": 31282
+		},
+		{
+			"slug": "morita-shogi-64",
+			"name": "Morita Shogi 64",
+			"id": 54438
+		},
+		{
+			"slug": "mortal-kombat-4",
+			"name": "Mortal Kombat 4",
+			"id": 29429
+		},
+		{
+			"slug": "mortal-kombat-mythologies-sub-zero",
+			"name": "Mortal Kombat Mythologies: Sub-Zero",
+			"id": 54447
+		},
+		{
+			"slug": "mortal-kombat-trilogy",
+			"name": "Mortal Kombat Trilogy",
+			"id": 32781
+		},
+		{
+			"slug": "mrc-multi-racing-championship",
+			"name": "MRC: Multi-Racing Championship",
+			"id": 54448
+		},
+		{
+			"slug": "ms-pac-man-maze-madness",
+			"name": "Ms. Pac-Man Maze Madness",
+			"id": 53438
+		},
+		{
+			"slug": "mystical-ninja-starring-goemon-1997",
+			"name": "Mystical Ninja Starring Goemon (1997)",
+			"id": 54449
+		},
+		{
+			"slug": "nagano-winter-olympics-98",
+			"name": "Nagano Winter Olympics '98",
+			"id": 54450
+		},
+		{
+			"slug": "namco-museum-1995",
+			"name": "Namco Museum (1995)",
+			"id": 53440
+		},
+		{
+			"slug": "nascar-2000",
+			"name": "NASCAR 2000",
+			"id": 54452
+		},
+		{
+			"slug": "nascar-99",
+			"name": "NASCAR 99",
+			"id": 54451
+		},
+		{
+			"slug": "nba-courtside-2-featuring-kobe-bryant",
+			"name": "NBA Courtside 2: Featuring Kobe Bryant",
+			"id": 54453
+		},
+		{
+			"slug": "nba-hangtime",
+			"name": "NBA Hangtime",
+			"id": 54454
+		},
+		{
+			"slug": "nba-in-the-zone",
+			"name": "NBA in the Zone",
+			"id": 54459
+		},
+		{
+			"slug": "nba-in-the-zone-98",
+			"name": "NBA In The Zone '98",
+			"id": 362721
+		},
+		{
+			"slug": "nba-jam-2000",
+			"name": "NBA Jam 2000",
+			"id": 54456
+		},
+		{
+			"slug": "nba-jam-99",
+			"name": "NBA Jam 99",
+			"id": 54455
+		},
+		{
+			"slug": "nba-live-2000",
+			"name": "NBA Live 2000",
+			"id": 31276
+		},
+		{
+			"slug": "nba-live-99",
+			"name": "NBA Live 99",
+			"id": 54457
+		},
+		{
+			"slug": "nba-showtime-nba-on-nbc",
+			"name": "NBA Showtime: NBA on NBC",
+			"id": 54458
+		},
+		{
+			"slug": "neon-genesis-evangelion-1999",
+			"name": "Neon Genesis Evangelion (N64)",
+			"id": 54460
+		},
+		{
+			"slug": "nfl-blitz-1998",
+			"name": "NFL Blitz (1998)",
+			"id": 53452
+		},
+		{
+			"slug": "nfl-qb-club-2001",
+			"name": "NFL QB Club 2001",
+			"id": 54473
+		},
+		{
+			"slug": "nfl-quarterback-club-2000",
+			"name": "NFL Quarterback Club 2000",
+			"id": 54465
+		},
+		{
+			"slug": "nfl-quarterback-club-98",
+			"name": "NFL Quarterback Club 98",
+			"id": 54462
+		},
+		{
+			"slug": "nfl-quarterback-club-99",
+			"name": "NFL Quarterback Club 99",
+			"id": 54464
+		},
+		{
+			"slug": "nhl-99",
+			"name": "NHL 99",
+			"id": 54467
+		},
+		{
+			"slug": "nhl-blades-of-steel-99",
+			"name": "NHL Blades of Steel '99",
+			"id": 54468
+		},
+		{
+			"slug": "nhl-breakaway-98",
+			"name": "NHL Breakaway 98",
+			"id": 54471
+		},
+		{
+			"slug": "nhl-breakaway-99",
+			"name": "NHL Breakaway 99",
+			"id": 54472
+		},
+		{
+			"slug": "nightmare-creatures",
+			"name": "Nightmare Creatures",
+			"id": 30425
+		},
+		{
+			"slug": "nuclear-strike",
+			"name": "Nuclear Strike",
+			"id": 5269
+		},
+		{
+			"slug": "nushi-tsuri-64",
+			"name": "Nushi Tsuri 64",
+			"id": 54474
+		},
+		{
+			"slug": "nushi-tsuri-64-shiokaze-ninotte",
+			"name": "Nushi Tsuri 64: Shiokaze Ninotte",
+			"id": 54463
+		},
+		{
+			"slug": "off-road-challenge",
+			"name": "Off Road Challenge",
+			"id": 54476
+		},
+		{
+			"slug": "ogre-battle-64-person-of-lordly-caliber",
+			"name": "Ogre Battle 64: Person of Lordly Caliber",
+			"id": 23815
+		},
+		{
+			"slug": "olympic-hockey-nagano-98",
+			"name": "Olympic Hockey Nagano '98",
+			"id": 54466
+		},
+		{
+			"slug": "paper-mario",
+			"name": "Paper Mario (2000)",
+			"id": 25178
+		},
+		{
+			"slug": "paperboy",
+			"name": "Paperboy",
+			"id": 53467
+		},
+		{
+			"slug": "parlor-pro-64-pachinko-jikki-simulation",
+			"name": "Parlor! Pro 64: Pachinko Jikki Simulation",
+			"id": 54469
+		},
+		{
+			"slug": "pd-ultraman-battle-collection-64",
+			"name": "PD Ultraman Battle Collection 64",
+			"id": 54470
+		},
+		{
+			"slug": "perfect-dark",
+			"name": "Perfect Dark",
+			"id": 28495
+		},
+		{
+			"slug": "pga-european-tour",
+			"name": "PGA European Tour",
+			"id": 335268
+		},
+		{
+			"slug": "pilotwings-64",
+			"name": "Pilotwings 64",
+			"id": 54479
+		},
+		{
+			"slug": "pokemon-puzzle-league-2000",
+			"name": "Pokémon Puzzle League (2000)",
+			"id": 54482
+		},
+		{
+			"slug": "pokemon-snap",
+			"name": "Pokémon Snap",
+			"id": 23833
+		},
+		{
+			"slug": "pokemon-stadium",
+			"name": "Pokémon Stadium",
+			"id": 54481
+		},
+		{
+			"slug": "pokemon-stadium-2",
+			"name": "Pokémon Stadium 2",
+			"id": 54484
+		},
+		{
+			"slug": "polaris-snocross",
+			"name": "Polaris SnoCross",
+			"id": 54485
+		},
+		{
+			"slug": "power-league-64",
+			"name": "Power League 64",
+			"id": 54475
+		},
+		{
+			"slug": "power-rangers-lightspeed-rescue",
+			"name": "Power Rangers Lightspeed Rescue",
+			"id": 54486
+		},
+		{
+			"slug": "premier-manager-ninety-nine",
+			"name": "Premier Manager: Ninety Nine",
+			"id": 54488
+		},
+		{
+			"slug": "puyo-puyo-sun",
+			"name": "Puyo Puyo SUN",
+			"id": 54489
+		},
+		{
+			"slug": "puyo-puyon",
+			"name": "Puyo Puyo~n",
+			"id": 54490
+		},
+		{
+			"slug": "puzzle-bobble-2",
+			"name": "Puzzle Bobble 2",
+			"id": 52772
+		},
+		{
+			"slug": "puzzle-bobble-3",
+			"name": "Puzzle Bobble 3",
+			"id": 52780
+		},
+		{
+			"slug": "quake",
+			"name": "Quake",
+			"id": 54491
+		},
+		{
+			"slug": "quake-2",
+			"name": "Quake II",
+			"id": 54492
+		},
+		{
+			"slug": "quest-64",
+			"name": "Quest 64",
+			"id": 54494
+		},
+		{
+			"slug": "rakugakids",
+			"name": "Rakugakids",
+			"id": 54493
+		},
+		{
+			"slug": "rally-challenge-2000",
+			"name": "Rally Challenge 2000",
+			"id": 54495
+		},
+		{
+			"slug": "rampage-2-universal-tour",
+			"name": "Rampage 2: Universal Tour",
+			"id": 54497
+		},
+		{
+			"slug": "rampage-world-tour",
+			"name": "Rampage World Tour",
+			"id": 29853
+		},
+		{
+			"slug": "rat-attack",
+			"name": "Rat Attack!",
+			"id": 54498
+		},
+		{
+			"slug": "rayman-2-the-great-escape",
+			"name": "Rayman 2: The Great Escape",
+			"id": 5415
+		},
+		{
+			"slug": "razor-freestyle-scooter",
+			"name": "Razor Freestyle Scooter",
+			"id": 52966
+		},
+		{
+			"slug": "re-volt",
+			"name": "Re-Volt",
+			"id": 30162
+		},
+		{
+			"slug": "ready-2-rumble-boxing",
+			"name": "Ready 2 Rumble Boxing",
+			"id": 54500
+		},
+		{
+			"slug": "ready-2-rumble-boxing-round-2",
+			"name": "Ready 2 Rumble Boxing: Round 2",
+			"id": 53492
+		},
+		{
+			"slug": "resident-evil-2",
+			"name": "Resident Evil 2 (1998)",
+			"id": 5159
+		},
+		{
+			"slug": "ridge-racer-64",
+			"name": "Ridge Racer 64",
+			"id": 54501
+		},
+		{
+			"slug": "road-rash-64",
+			"name": "Road Rash 64",
+			"id": 54502
+		},
+		{
+			"slug": "roadsters",
+			"name": "Roadsters",
+			"id": 54503
+		},
+		{
+			"slug": "robot-ponkottsu-64-nanatsu-no-umi-no-caramel",
+			"name": "Robot Ponkottsu 64: Nanatsu no Umi no Caramel",
+			"id": 54496
+		},
+		{
+			"slug": "robotech-crystal-dreams",
+			"name": "Robotech: Crystal Dreams",
+			"id": 368026
+		},
+		{
+			"slug": "robotron-64",
+			"name": "Robotron 64",
+			"id": 338383
+		},
+		{
+			"slug": "robotron-2084",
+			"name": "Robotron: 2084",
+			"id": 54508
+		},
+		{
+			"slug": "rocket-robot-on-wheels",
+			"name": "Rocket: Robot on Wheels",
+			"id": 54504
+		},
+		{
+			"slug": "rugrats-in-paris-the-movie",
+			"name": "Rugrats in Paris: The Movie",
+			"id": 30167
+		},
+		{
+			"slug": "rugrats-scavenger-hunt",
+			"name": "Rugrats: Scavenger Hunt",
+			"id": 54505
+		},
+		{
+			"slug": "rush-2-extreme-racing-usa",
+			"name": "Rush 2: Extreme Racing USA",
+			"id": 54506
+		},
+		{
+			"slug": "scars",
+			"name": "S.C.A.R.S.",
+			"id": 54507
+		},
+		{
+			"slug": "saikyo-habu-shogi",
+			"name": "Saikyō Habu Shōgi",
+			"id": 54499
+		},
+		{
+			"slug": "san-francisco-rush-2049",
+			"name": "San Francisco Rush 2049",
+			"id": 54511
+		},
+		{
+			"slug": "san-francisco-rush-extreme-racing",
+			"name": "San Francisco Rush: Extreme Racing",
+			"id": 54509
+		},
+		{
+			"slug": "scooby-doo-classic-creep-capers",
+			"name": "Scooby-Doo! Classic Creep Capers",
+			"id": 54512
+		},
+		{
+			"slug": "shadow-man",
+			"name": "Shadow Man",
+			"id": 19163
+		},
+		{
+			"slug": "shadowgate-64-trials-of-the-four-towers",
+			"name": "Shadowgate 64: Trials of the Four Towers",
+			"id": 54514
+		},
+		{
+			"slug": "shiren-the-wanderer-2-oni-invasion-shiren-castle",
+			"name": "Shiren the Wanderer 2: Oni Invasion! Shiren Castle!",
+			"id": 884684
+		},
+		{
+			"slug": "simcity-2000",
+			"name": "SimCity 2000",
+			"id": 5360
+		},
+		{
+			"slug": "sin-punishment",
+			"name": "Sin and Punishment - Successor of the Earth",
+			"id": 54515
+		},
+		{
+			"slug": "snowboard-kids",
+			"name": "Snowboard Kids",
+			"id": 54516
+		},
+		{
+			"slug": "snowboard-kids-2",
+			"name": "Snowboard Kids 2",
+			"id": 54517
+		},
+		{
+			"slug": "south-park-1998",
+			"name": "South Park (1998)",
+			"id": 54518
+		},
+		{
+			"slug": "south-park-rally",
+			"name": "South Park Rally",
+			"id": 30607
+		},
+		{
+			"slug": "south-park-chefs-luv-shack",
+			"name": "South Park: Chef's Luv Shack",
+			"id": 54519
+		},
+		{
+			"slug": "space-invaders-1978",
+			"name": "Space Invaders (1978)",
+			"id": 52444
+		},
+		{
+			"slug": "space-station-silicon-valley",
+			"name": "Space Station Silicon Valley",
+			"id": 52913
+		},
+		{
+			"slug": "spider-man-2000",
+			"name": "Spider-Man (2000)",
+			"id": 249966
+		},
+		{
+			"slug": "star-fox-64",
+			"name": "Star Fox 64 (1997)",
+			"id": 54520
+		},
+		{
+			"slug": "star-revenge-1-star-takeover",
+			"name": "Star Revenge 1: Star Takeover",
+			"id": 736289
+		},
+		{
+			"slug": "star-soldier-vanishing-earth",
+			"name": "Star Soldier: Vanishing Earth",
+			"id": 54521
+		},
+		{
+			"slug": "star-wars-episode-i-battle-for-naboo",
+			"name": "Star Wars Episode I: Battle for Naboo",
+			"id": 54513
+		},
+		{
+			"slug": "star-wars-episode-i-racer",
+			"name": "STAR WARS: Episode I Racer",
+			"id": 58297
+		},
+		{
+			"slug": "star-wars-rogue-squadron-3d",
+			"name": "STAR WARS: Rogue Squadron 3D",
+			"id": 15855
+		},
+		{
+			"slug": "star-wars-shadows-of-the-empire",
+			"name": "Star Wars: Shadows of the Empire",
+			"id": 32672
+		},
+		{
+			"slug": "starcraft",
+			"name": "StarCraft",
+			"id": 32716
+		},
+		{
+			"slug": "starshot-space-circus-fever-1998",
+			"name": "Starshot: Space Circus Fever (1998)",
+			"id": 54524
+		},
+		{
+			"slug": "stunt-racer-64",
+			"name": "Stunt Racer 64",
+			"id": 54525
+		},
+		{
+			"slug": "super-b-daman-battle-phoenix-64",
+			"name": "Super B-Daman: Battle Phoenix 64",
+			"id": 54526
+		},
+		{
+			"slug": "super-bowling",
+			"name": "Super Bowling",
+			"id": 54527
+		},
+		{
+			"slug": "super-mario-64-1996",
+			"name": "Super Mario 64",
+			"id": 54528
+		},
+		{
+			"slug": "super-mario-64-last-impact",
+			"name": "Super Mario 64: Last Impact",
+			"id": 708986
+		},
+		{
+			"slug": "super-robot-spirits",
+			"name": "Super Robot Spirits",
+			"id": 54529
+		},
+		{
+			"slug": "super-robot-wars-64",
+			"name": "Super Robot Wars 64",
+			"id": 54530
+		},
+		{
+			"slug": "super-smash-bros-1999",
+			"name": "Super Smash Bros. (1999)",
+			"id": 54531
+		},
+		{
+			"slug": "supercross-2000",
+			"name": "Supercross 2000",
+			"id": 54532
+		},
+		{
+			"slug": "superman-the-new-superman-adventures",
+			"name": "Superman: The New Adventures",
+			"id": 368025
+		},
+		{
+			"slug": "takua-64",
+			"name": "Takua 64",
+			"id": 967875
+		},
+		{
+			"slug": "tamagotchi-64-minna-de-tamagotchi-world",
+			"name": "Tamagotchi 64: Minna de Tamagotchi World",
+			"id": 54523
+		},
+		{
+			"slug": "taz-express",
+			"name": "Taz Express",
+			"id": 54533
+		},
+		{
+			"slug": "tetris-64",
+			"name": "Tetris 64",
+			"id": 54534
+		},
+		{
+			"slug": "tetrisphere-1997",
+			"name": "Tetrisphere (1997)",
+			"id": 368024
+		},
+		{
+			"slug": "the-legend-of-zelda-majoras-mask",
+			"name": "The Legend of Zelda: Majora's Mask",
+			"id": 25924
+		},
+		{
+			"slug": "the-legend-of-zelda-ocarina-of-time",
+			"name": "The Legend of Zelda: Ocarina of Time",
+			"id": 25097
+		},
+		{
+			"slug": "the-legend-of-zelda-the-missing-link",
+			"name": "The Legend of Zelda: The Missing Link",
+			"id": 739635
+		},
+		{
+			"slug": "the-new-tetris",
+			"name": "The New Tetris",
+			"id": 54461
+		},
+		{
+			"slug": "the-powerpuff-girls-chemical-x-traction",
+			"name": "The Powerpuff Girls: Chemical X-traction",
+			"id": 54487
+		},
+		{
+			"slug": "tom-clancys-rainbow-six",
+			"name": "Tom Clancy's Rainbow Six",
+			"id": 5350
+		},
+		{
+			"slug": "tonic-trouble",
+			"name": "Tonic Trouble",
+			"id": 30113
+		},
+		{
+			"slug": "tony-hawks-pro-skater",
+			"name": "Tony Hawk's Pro Skater",
+			"id": 57944
+		},
+		{
+			"slug": "tony-hawks-pro-skater-2",
+			"name": "Tony Hawk's Pro Skater 2",
+			"id": 32575
+		},
+		{
+			"slug": "tony-hawks-pro-skater-3",
+			"name": "Tony Hawk's Pro Skater 3",
+			"id": 32577
+		},
+		{
+			"slug": "top-gear-hyper-bike",
+			"name": "Top Gear Hyper Bike",
+			"id": 54537
+		},
+		{
+			"slug": "top-gear-overdrive",
+			"name": "Top Gear Overdrive",
+			"id": 54538
+		},
+		{
+			"slug": "top-gear-rally",
+			"name": "Top Gear Rally",
+			"id": 53615
+		},
+		{
+			"slug": "top-gear-rally-2",
+			"name": "Top Gear Rally 2",
+			"id": 57946
+		},
+		{
+			"slug": "toy-story-2-buzz-lightyear-to-the-rescue",
+			"name": "Toy Story 2: Buzz Lightyear to the Rescue",
+			"id": 54541
+		},
+		{
+			"slug": "transformers-beast-wars-transmetals",
+			"name": "Transformers: Beast Wars Transmetals",
+			"id": 54542
+		},
+		{
+			"slug": "triple-play-2000",
+			"name": "Triple Play 2000",
+			"id": 54543
+		},
+		{
+			"slug": "turok-2-seeds-of-evil",
+			"name": "Turok 2: Seeds of Evil",
+			"id": 10446
+		},
+		{
+			"slug": "turok-3-shadow-of-oblivion",
+			"name": "Turok 3: Shadow of Oblivion",
+			"id": 54547
+		},
+		{
+			"slug": "turok",
+			"name": "Turok: Dinosaur Hunter",
+			"id": 14829
+		},
+		{
+			"slug": "turok-rage-wars",
+			"name": "Turok: Rage Wars",
+			"id": 54548
+		},
+		{
+			"slug": "twisted-edge-extreme-snowboarding",
+			"name": "Twisted Edge Extreme Snowboarding",
+			"id": 54549
+		},
+		{
+			"slug": "ucchannanchan-no-hono-no-challenger-denryu-iraira-",
+			"name": "Ucchannanchan no Honō no Challenger: Denryū Iraira Bō",
+			"id": 54539
+		},
+		{
+			"slug": "v-rally-1997",
+			"name": "V-Rally (1997)",
+			"id": 54550
+		},
+		{
+			"slug": "viewpoint-2064",
+			"name": "Viewpoint 2064",
+			"id": 966576
+		},
+		{
+			"slug": "vigilante-8",
+			"name": "Vigilante 8",
+			"id": 54551
+		},
+		{
+			"slug": "vigilante-8-2nd-offense",
+			"name": "Vigilante 8: 2nd Offense",
+			"id": 54552
+		},
+		{
+			"slug": "virtual-chess-64",
+			"name": "Virtual Chess 64",
+			"id": 54553
+		},
+		{
+			"slug": "virtual-pool-64",
+			"name": "Virtual Pool 64",
+			"id": 54554
+		},
+		{
+			"slug": "virtual-pro-wrestling-2-odo-keisho",
+			"name": "Virtual Pro Wrestling 2: Oudou Keishou",
+			"id": 54544
+		},
+		{
+			"slug": "virtual-pro-wrestling-64",
+			"name": "Virtual Pro Wrestling 64",
+			"id": 54545
+		},
+		{
+			"slug": "waialae-country-club-true-golf-classics",
+			"name": "Waialae Country Club: True Golf Classics",
+			"id": 54546
+		},
+		{
+			"slug": "war-gods",
+			"name": "War Gods",
+			"id": 30027
+		},
+		{
+			"slug": "wave-race-64",
+			"name": "Wave Race 64: Kawasaki Jet Ski",
+			"id": 54556
+		},
+		{
+			"slug": "wayne-gretzkys-3d-hockey",
+			"name": "Wayne Gretzky's 3D Hockey",
+			"id": 54557
+		},
+		{
+			"slug": "wayne-gretzkys-3d-hockey-98",
+			"name": "Wayne Gretzky's 3D Hockey '98",
+			"id": 54558
+		},
+		{
+			"slug": "wcw-backstage-assault",
+			"name": "WCW Backstage Assault",
+			"id": 54559
+		},
+		{
+			"slug": "wcw-mayhem",
+			"name": "WCW Mayhem",
+			"id": 54560
+		},
+		{
+			"slug": "wcw-nitro",
+			"name": "WCW Nitro",
+			"id": 32796
+		},
+		{
+			"slug": "wcw-vs-nwo-world-tour",
+			"name": "WCW vs. nWo: World Tour",
+			"id": 54561
+		},
+		{
+			"slug": "wcwnwo-revenge",
+			"name": "WCW/nWo Revenge",
+			"id": 368023
+		},
+		{
+			"slug": "wetrix",
+			"name": "Wetrix",
+			"id": 54562
+		},
+		{
+			"slug": "wheel-of-fortune-old",
+			"name": "Wheel of Fortune (Old)",
+			"id": 54138
+		},
+		{
+			"slug": "winback-covert-operations",
+			"name": "Winback: Covert Operations",
+			"id": 4224
+		},
+		{
+			"slug": "wipeout-64",
+			"name": "Wipeout 64",
+			"id": 54563
+		},
+		{
+			"slug": "wonder-project-j2",
+			"name": "Wonder Project J2",
+			"id": 54565
+		},
+		{
+			"slug": "world-cup-98-2",
+			"name": "World Cup 98",
+			"id": 54568
+		},
+		{
+			"slug": "world-driver-championship",
+			"name": "World Driver Championship",
+			"id": 54566
+		},
+		{
+			"slug": "worms-armageddon",
+			"name": "Worms Armageddon",
+			"id": 20466
+		},
+		{
+			"slug": "wwf-attitude",
+			"name": "WWF Attitude",
+			"id": 54569
+		},
+		{
+			"slug": "wwf-no-mercy",
+			"name": "WWF No Mercy",
+			"id": 54570
+		},
+		{
+			"slug": "wwf-war-zone",
+			"name": "WWF War Zone",
+			"id": 54571
+		},
+		{
+			"slug": "wwf-warzone",
+			"name": "WWF Warzone",
+			"id": 563272
+		},
+		{
+			"slug": "wwf-wrestlemania-2000",
+			"name": "WWF WrestleMania 2000",
+			"id": 54572
+		},
+		{
+			"slug": "xena-warrior-princess-the-talisman-of-fate",
+			"name": "Xena: Warrior Princess: The Talisman of Fate",
+			"id": 54573
+		},
+		{
+			"slug": "yoshis-story-1997",
+			"name": "Yoshi's Story (1997)",
+			"id": 54574
+		},
+		{
+			"slug": "zoor-maju-tsukai-densetsu",
+			"name": "Zool: Majuu Tsukai Densetsu",
+			"id": 54564
+		}
+	]
+}

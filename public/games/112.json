@@ -1,0 +1,205 @@
+{
+	"platform": "Jaguar",
+	"games": [
+		{
+			"slug": "aero-the-acro-bat",
+			"name": "Aero the Acro-Bat",
+			"id": 53124
+		},
+		{
+			"slug": "alien-vs-predator-atari-jaguar",
+			"name": "Alien vs Predator (Atari Jaguar)",
+			"id": 817977
+		},
+		{
+			"slug": "another-world",
+			"name": "Another World",
+			"id": 29908
+		},
+		{
+			"slug": "atari-karts",
+			"name": "Atari Karts",
+			"id": 817976
+		},
+		{
+			"slug": "baldies",
+			"name": "Baldies",
+			"id": 52700
+		},
+		{
+			"slug": "brain-dead-13",
+			"name": "Brain Dead 13",
+			"id": 32079
+		},
+		{
+			"slug": "brutal-sports-football",
+			"name": "Brutal Sports - Football",
+			"id": 362893
+		},
+		{
+			"slug": "cannon-fodder",
+			"name": "Cannon Fodder",
+			"id": 22746
+		},
+		{
+			"slug": "doom-2",
+			"name": "DOOM",
+			"id": 52884
+		},
+		{
+			"slug": "double-dragon-v-the-shadow-falls",
+			"name": "Double Dragon V: The Shadow Falls",
+			"id": 57341
+		},
+		{
+			"slug": "dragon-the-bruce-lee-story",
+			"name": "Dragon: The Bruce Lee Story",
+			"id": 57007
+		},
+		{
+			"slug": "dragons-lair",
+			"name": "Dragon's Lair",
+			"id": 53802
+		},
+		{
+			"slug": "fever-pitch-soccer",
+			"name": "Fever Pitch Soccer",
+			"id": 57060
+		},
+		{
+			"slug": "flashback-1992",
+			"name": "Flashback: The Quest for Identity",
+			"id": 30459
+		},
+		{
+			"slug": "iron-soldier",
+			"name": "Iron Soldier",
+			"id": 53044
+		},
+		{
+			"slug": "kasumi-ninja",
+			"name": "Kasumi Ninja",
+			"id": 974490
+		},
+		{
+			"slug": "myst",
+			"name": "Myst",
+			"id": 4377
+		},
+		{
+			"slug": "pinball-fantasies",
+			"name": "Pinball Fantasies (1992)",
+			"id": 55240
+		},
+		{
+			"slug": "pitfall-the-mayan-adventure",
+			"name": "Pitfall: The Mayan Adventure",
+			"id": 25886
+		},
+		{
+			"slug": "primal-rage",
+			"name": "Primal Rage",
+			"id": 30645
+		},
+		{
+			"slug": "raiden-1991",
+			"name": "Raiden (1991)",
+			"id": 55598
+		},
+		{
+			"slug": "rayman",
+			"name": "Rayman",
+			"id": 5463
+		},
+		{
+			"slug": "robinsons-requiem",
+			"name": "Robinson's Requiem",
+			"id": 30076
+		},
+		{
+			"slug": "soccer-kid-1993",
+			"name": "Soccer Kid (1993)",
+			"id": 53543
+		},
+		{
+			"slug": "space-ace",
+			"name": "Space Ace",
+			"id": 4781
+		},
+		{
+			"slug": "space-ace-1984",
+			"name": "Space Ace (1984)",
+			"id": 54322
+		},
+		{
+			"slug": "switchblade",
+			"name": "Switchblade",
+			"id": 55665
+		},
+		{
+			"slug": "syndicate",
+			"name": "Syndicate",
+			"id": 54327
+		},
+		{
+			"slug": "syndicate-1993",
+			"name": "Syndicate (1993)",
+			"id": 31951
+		},
+		{
+			"slug": "tempest-2000",
+			"name": "Tempest 2000",
+			"id": 30059
+		},
+		{
+			"slug": "the-humans",
+			"name": "The Humans",
+			"id": 26006
+		},
+		{
+			"slug": "theme-park",
+			"name": "Theme Park",
+			"id": 22953
+		},
+		{
+			"slug": "total-carnage-1992",
+			"name": "Total Carnage (1992)",
+			"id": 55253
+		},
+		{
+			"slug": "towers-2-plight-of-the-stargazer",
+			"name": "Towers 2: Plight of the Stargazer",
+			"id": 336379
+		},
+		{
+			"slug": "treasure-island-dizzy",
+			"name": "Treasure Island Dizzy",
+			"id": 55154
+		},
+		{
+			"slug": "troy-aikman-nfl-football",
+			"name": "Troy Aikman NFL Football",
+			"id": 57230
+		},
+		{
+			"slug": "wolfenstein-3d",
+			"name": "Wolfenstein 3D",
+			"id": 4005
+		},
+		{
+			"slug": "worms",
+			"name": "Worms",
+			"id": 5383
+		},
+		{
+			"slug": "xenon-2-megablast",
+			"name": "Xenon 2: Megablast",
+			"id": 31831
+		},
+		{
+			"slug": "zool-2",
+			"name": "Zool 2",
+			"id": 31136
+		}
+	]
+}

@@ -1,0 +1,500 @@
+{
+	"platform": "3DO",
+	"games": [
+		{
+			"slug": "alone-in-the-dark-1",
+			"name": "Alone in the Dark 1",
+			"id": 15512
+		},
+		{
+			"slug": "alone-in-the-dark-2-1994",
+			"name": "Alone in the Dark 2",
+			"id": 52662
+		},
+		{
+			"slug": "another-world",
+			"name": "Another World",
+			"id": 29908
+		},
+		{
+			"slug": "ballz",
+			"name": "Ballz",
+			"id": 56931
+		},
+		{
+			"slug": "battle-chess-enhanced-cd-rom",
+			"name": "Battle Chess Enhanced CD-ROM",
+			"id": 34061
+		},
+		{
+			"slug": "battlesport",
+			"name": "BattleSport",
+			"id": 52717
+		},
+		{
+			"slug": "bc-racers",
+			"name": "BC Racers",
+			"id": 31295
+		},
+		{
+			"slug": "brain-dead-13",
+			"name": "Brain Dead 13",
+			"id": 32079
+		},
+		{
+			"slug": "cannon-fodder",
+			"name": "Cannon Fodder",
+			"id": 22746
+		},
+		{
+			"slug": "captain-quazar",
+			"name": "Captain Quazar",
+			"id": 30563
+		},
+		{
+			"slug": "casper",
+			"name": "Casper",
+			"id": 52788
+		},
+		{
+			"slug": "corpse-killer",
+			"name": "Corpse Killer",
+			"id": 54245
+		},
+		{
+			"slug": "creature-shock-1996",
+			"name": "Creature Shock (1996)",
+			"id": 52834
+		},
+		{
+			"slug": "crime-patrol",
+			"name": "Crime Patrol",
+			"id": 54246
+		},
+		{
+			"slug": "crime-patrol-2-drug-wars",
+			"name": "Crime Patrol 2: Drug Wars",
+			"id": 30492
+		},
+		{
+			"slug": "cyberdillo",
+			"name": "Cyberdillo",
+			"id": 286492
+		},
+		{
+			"slug": "cyberia",
+			"name": "Cyberia",
+			"id": 22996
+		},
+		{
+			"slug": "d",
+			"name": "D",
+			"id": 29396
+		},
+		{
+			"slug": "defcon-5",
+			"name": "Defcon 5",
+			"id": 33497
+		},
+		{
+			"slug": "demolition-man",
+			"name": "Demolition Man",
+			"id": 54247
+		},
+		{
+			"slug": "doctor-hauzer",
+			"name": "Doctor Hauzer",
+			"id": 1005607
+		},
+		{
+			"slug": "doom-2",
+			"name": "DOOM",
+			"id": 52884
+		},
+		{
+			"slug": "dragon-lore-the-legend-begins",
+			"name": "Dragon Lore: The Legend Begins",
+			"id": 22948
+		},
+		{
+			"slug": "dragons-lair",
+			"name": "Dragon's Lair",
+			"id": 53802
+		},
+		{
+			"slug": "fifa-1993",
+			"name": "FIFA (1993)",
+			"id": 52928
+		},
+		{
+			"slug": "fifa-international-soccer",
+			"name": "FIFA International Soccer",
+			"id": 31472
+		},
+		{
+			"slug": "flashback-1992",
+			"name": "Flashback: The Quest for Identity",
+			"id": 30459
+		},
+		{
+			"slug": "gex",
+			"name": "Gex",
+			"id": 5170
+		},
+		{
+			"slug": "gridders",
+			"name": "Gridders",
+			"id": 438609
+		},
+		{
+			"slug": "hell-a-cyberpunk-thriller",
+			"name": "Hell: A Cyberpunk Thriller",
+			"id": 831677
+		},
+		{
+			"slug": "iron-angel-of-the-apocalypse",
+			"name": "Iron Angel of the Apocalypse",
+			"id": 438613
+		},
+		{
+			"slug": "jammit",
+			"name": "Jammit",
+			"id": 32607
+		},
+		{
+			"slug": "johnny-bazookatone",
+			"name": "Johnny Bazookatone",
+			"id": 29656
+		},
+		{
+			"slug": "killing-time",
+			"name": "Killing Time",
+			"id": 15435
+		},
+		{
+			"slug": "kingdom-the-far-reaches",
+			"name": "Kingdom: The Far Reaches",
+			"id": 22722
+		},
+		{
+			"slug": "lemmings",
+			"name": "Lemmings",
+			"id": 5498
+		},
+		{
+			"slug": "lost-eden",
+			"name": "Lost Eden",
+			"id": 13679
+		},
+		{
+			"slug": "luciennes-quest",
+			"name": "Lucienne's Quest",
+			"id": 371821
+		},
+		{
+			"slug": "mad-dog-ii-the-lost-gold",
+			"name": "Mad Dog II: The Lost Gold",
+			"id": 54277
+		},
+		{
+			"slug": "mad-dog-mccree-1993",
+			"name": "Mad Dog McCree (1993)",
+			"id": 54276
+		},
+		{
+			"slug": "megarace",
+			"name": "MegaRace",
+			"id": 54281
+		},
+		{
+			"slug": "microcosm-1994",
+			"name": "Microcosm (1994)",
+			"id": 54282
+		},
+		{
+			"slug": "myst",
+			"name": "Myst",
+			"id": 4377
+		},
+		{
+			"slug": "night-trap",
+			"name": "Night Trap",
+			"id": 54288
+		},
+		{
+			"slug": "novastorm",
+			"name": "Novastorm",
+			"id": 54291
+		},
+		{
+			"slug": "off-world-interceptor",
+			"name": "Off-World Interceptor",
+			"id": 281860
+		},
+		{
+			"slug": "olympic-soccer",
+			"name": "Olympic Soccer",
+			"id": 34211
+		},
+		{
+			"slug": "olympic-summer-games-atlanta-1996",
+			"name": "Olympic Summer Games: Atlanta 1996",
+			"id": 33178
+		},
+		{
+			"slug": "onside-soccer",
+			"name": "Onside Soccer",
+			"id": 33719
+		},
+		{
+			"slug": "panzer-general",
+			"name": "Panzer General",
+			"id": 28311
+		},
+		{
+			"slug": "pataank",
+			"name": "PaTaank",
+			"id": 964621
+		},
+		{
+			"slug": "phoenix-3",
+			"name": "Phoenix 3",
+			"id": 371822
+		},
+		{
+			"slug": "poed",
+			"name": "PO'ed",
+			"id": 57684
+		},
+		{
+			"slug": "policenauts",
+			"name": "Policenauts",
+			"id": 57686
+		},
+		{
+			"slug": "pretty-soldier-sailor-moon-s",
+			"name": "Pretty Soldier Sailor Moon S",
+			"id": 438608
+		},
+		{
+			"slug": "primal-rage",
+			"name": "Primal Rage",
+			"id": 30645
+		},
+		{
+			"slug": "princess-maker-2",
+			"name": "Princess Maker 2",
+			"id": 30394
+		},
+		{
+			"slug": "psychic-detective",
+			"name": "Psychic Detective",
+			"id": 30247
+		},
+		{
+			"slug": "puzzle-bobble-1994",
+			"name": "Puzzle Bobble (1994)",
+			"id": 57318
+		},
+		{
+			"slug": "quarantine-1994",
+			"name": "Quarantine (1994)",
+			"id": 282817
+		},
+		{
+			"slug": "return-fire",
+			"name": "Return Fire",
+			"id": 30948
+		},
+		{
+			"slug": "rise-of-the-robots",
+			"name": "Rise of the Robots",
+			"id": 31511
+		},
+		{
+			"slug": "road-rash",
+			"name": "Road Rash (1996)",
+			"id": 31321
+		},
+		{
+			"slug": "robinsons-requiem",
+			"name": "Robinson's Requiem",
+			"id": 30076
+		},
+		{
+			"slug": "romance-of-the-three-kingdoms-iv",
+			"name": "Romance of the Three Kingdoms IV: Wall of Fire",
+			"id": 54736
+		},
+		{
+			"slug": "samurai-shodown",
+			"name": "Samurai Shodown",
+			"id": 54303
+		},
+		{
+			"slug": "sewer-shark",
+			"name": "Sewer Shark",
+			"id": 54307
+		},
+		{
+			"slug": "simtower",
+			"name": "SimTower",
+			"id": 34524
+		},
+		{
+			"slug": "snow-job",
+			"name": "Snow Job",
+			"id": 405996
+		},
+		{
+			"slug": "soccer-kid-1993",
+			"name": "Soccer Kid (1993)",
+			"id": 53543
+		},
+		{
+			"slug": "space-ace-1984",
+			"name": "Space Ace (1984)",
+			"id": 54322
+		},
+		{
+			"slug": "space-hulk-venegance-of-the-blood-angels",
+			"name": "Space Hulk: Venegance of the Blood Angels",
+			"id": 29483
+		},
+		{
+			"slug": "space-pirates-american-laser-games",
+			"name": "Space Pirates (American Laser Games)",
+			"id": 286476
+		},
+		{
+			"slug": "space-pirates-light-gun-shooter",
+			"name": "Space Pirates (Light Gun Shooter)",
+			"id": 405994
+		},
+		{
+			"slug": "star-control-2",
+			"name": "Star Control 2",
+			"id": 520304
+		},
+		{
+			"slug": "star-trek-the-next-generation-1993",
+			"name": "Star Trek: The Next Generation (1993)",
+			"id": 475067
+		},
+		{
+			"slug": "star-wars-rebel-assault",
+			"name": "Star Wars: Rebel Assault",
+			"id": 31658
+		},
+		{
+			"slug": "starblade-1994",
+			"name": "Starblade (1994)",
+			"id": 54324
+		},
+		{
+			"slug": "street-fighter-2",
+			"name": "Street Fighter II: The World Warrior (1991)",
+			"id": 55132
+		},
+		{
+			"slug": "super-street-fighter-2-turbo",
+			"name": "Super Street Fighter 2 Turbo",
+			"id": 32929
+		},
+		{
+			"slug": "super-wing-commander",
+			"name": "Super Wing Commander",
+			"id": 698999
+		},
+		{
+			"slug": "supreme-warrior",
+			"name": "Supreme Warrior",
+			"id": 54325
+		},
+		{
+			"slug": "syndicate",
+			"name": "Syndicate",
+			"id": 54327
+		},
+		{
+			"slug": "syndicate-1993",
+			"name": "Syndicate (1993)",
+			"id": 31951
+		},
+		{
+			"slug": "the-horde",
+			"name": "The Horde",
+			"id": 30644
+		},
+		{
+			"slug": "the-incredible-machine",
+			"name": "The Incredible Machine",
+			"id": 32392
+		},
+		{
+			"slug": "the-lost-files-of-sherlock-holmes-the-case-of-the-",
+			"name": "The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel",
+			"id": 30098
+		},
+		{
+			"slug": "the-need-for-speed",
+			"name": "The Need for Speed",
+			"id": 31235
+		},
+		{
+			"slug": "theme-park",
+			"name": "Theme Park",
+			"id": 22953
+		},
+		{
+			"slug": "total-eclipse-1994",
+			"name": "Total Eclipse (1994)",
+			"id": 57915
+		},
+		{
+			"slug": "true-golf-classics-waialae-country-club",
+			"name": "True Golf Classics: Waialae Country Club",
+			"id": 57554
+		},
+		{
+			"slug": "true-golf-classics-wicked-18",
+			"name": "True Golf Classics: Wicked 18",
+			"id": 56994
+		},
+		{
+			"slug": "twisted-the-game-show",
+			"name": "Twisted: The Game Show",
+			"id": 419936
+		},
+		{
+			"slug": "ultimate-mortal-kombat-3",
+			"name": "Ultimate Mortal Kombat 3",
+			"id": 53432
+		},
+		{
+			"slug": "way-of-the-warrior",
+			"name": "Way of the Warrior",
+			"id": 419935
+		},
+		{
+			"slug": "who-shot-johnny-rock",
+			"name": "Who Shot Johnny Rock?",
+			"id": 54333
+		},
+		{
+			"slug": "wing-commander-3-heart-of-the-tiger",
+			"name": "Wing Commander 3 Heart of the Tiger",
+			"id": 22708
+		},
+		{
+			"slug": "winning-post",
+			"name": "Winning Post",
+			"id": 53637
+		},
+		{
+			"slug": "wolfenstein-3d",
+			"name": "Wolfenstein 3D",
+			"id": 4005
+		}
+	]
+}
