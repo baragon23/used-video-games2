@@ -1,6 +1,6 @@
 'use client';
 
-import { Typography, Container, Box, Grid } from '@mui/material';
+import { Typography, Container, Box, Grid, Divider } from '@mui/material';
 import { ebayMockListings } from '../../../lib/mockData';
 import EbayConditionTable from '../../../components/EbayConditionTable';
 import { useSearchParams } from 'next/navigation';
@@ -16,7 +16,11 @@ const GameDetailPage = () => {
 	const gameId = searchParams.get('id');
 	const gameName = searchParams.get('name');
 
-	/*const grouped: Record<string, any[]> = {};
+	const grouped: Record<string, any[]> = {};
+
+	useEffect(() => {
+		console.log(grouped);
+	}, [grouped]);
 
 	ebayMockListings.forEach((item) => {
 		if (item.itemLocation.country !== 'US') return;
@@ -37,23 +41,36 @@ const GameDetailPage = () => {
 		const condition = item.condition || 'Unknown';
 		if (!grouped[condition]) grouped[condition] = [];
 		grouped[condition].push(row);
-	});*/
+	});
 
 	return (
 		<Grid container>
-			<Grid size={12}>
+			<Grid
+				size={12}
+				sx={{ display: 'flex', marginBottom: '2rem' }}
+				justifyContent={'center'}
+				alignItems={'center'}
+			>
 				<Typography variant="h1" display="flex" justifyContent="center">
 					<TitleShadow>
 						{gameName} - {platform}
 					</TitleShadow>
 				</Typography>
 			</Grid>
-			<Grid size={12}>
-				<Details id={gameId} />
+			<Grid size={{ lg: 9, md: 9, sm: 12, xs: 12 }}>
+				{Object.keys(grouped).map((key, i) => {
+					return <EbayConditionTable condition={key} key={i} listings={grouped[key]} />;
+				})}
 			</Grid>
-			<Grid size={12}>
-				<Screenshots id={gameId} />
+			<Grid
+				size={{ lg: 3, md: 3, sm: 12, xs: 12 }}
+				sx={{ border: '1px solid grey', padding: '1rem' }}
+			>
+				<Details id={gameId} name={gameName} />
+				<Divider variant="middle" sx={{ margin: '1rem 0' }} />
+				<Screenshots id={gameId} name={gameName} />
 			</Grid>
+			<Grid size={12}></Grid>
 		</Grid>
 	);
 };

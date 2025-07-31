@@ -1,13 +1,17 @@
 'use client';
+import { Screenshot, ScreenshotResponse } from '@/app/Types/Screenshot';
 import CallApi from '@/app/utils/callApi';
-import { Grid } from '@mui/material';
-import { useEffect, useMemo } from 'react';
+import { Grid, Typography } from '@mui/material';
+import Image from 'next/image';
+import { useMemo } from 'react';
+import LoadingSpinner from '../LoadingSpinner';
 
 interface ScreenshotsProps {
 	id: string | null;
+	name: string;
 }
 
-const Screenshots = ({ id }: ScreenshotsProps) => {
+const Screenshots = ({ id, name }: ScreenshotsProps) => {
 	const gameConfig = useMemo(
 		() => ({
 			method: 'get',
@@ -19,15 +23,40 @@ const Screenshots = ({ id }: ScreenshotsProps) => {
 		[id],
 	);
 
-	const { data, loading, error } = CallApi(gameConfig);
+	const { data, loading, error } = CallApi<ScreenshotResponse>(gameConfig);
 
-	useEffect(() => {
-		console.log(data.results);
-	}, [data]);
+	if (error) {
+		console.log('Screenshots error: ', error);
+		return '';
+	}
 
 	return (
 		<Grid container>
-			<Grid size={12}>{loading ? 'Loading...' : 'screenshots loaded'}</Grid>
+			<Grid size={12}>
+				<Typography variant="h6">{name} Screenshots</Typography>
+			</Grid>
+			<Grid size={12} display="flex" alignItems="center" flexDirection="column">
+				{loading ? (
+					<LoadingSpinner />
+				) : (
+					data?.results.map((s: Screenshot, i: number) => {
+						return (
+							<Image
+								key={s.id}
+								src={s.image}
+								width="256"
+								height="224"
+								alt={`screenshot ${i}`}
+								style={{
+									height: 'auto',
+									margin: '0.5rem 0',
+									maxWidth: '100%',
+								}}
+							/>
+						);
+					})
+				)}
+			</Grid>
 		</Grid>
 	);
 };

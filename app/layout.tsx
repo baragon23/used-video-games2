@@ -1,7 +1,7 @@
 'use client';
 
 import { ReactNode, useMemo, useState, useEffect, createContext } from 'react';
-import { ThemeProvider, CssBaseline } from '@mui/material';
+import { ThemeProvider, CssBaseline, Box } from '@mui/material';
 import { getTheme } from '../styles/theme';
 import SearchBar from '@/components/SearchBar';
 import './globals.css';
@@ -39,14 +39,14 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 			<body>
 				<ColorModeContext.Provider value={colorMode}>
 					<ThemeProvider theme={theme}>
-						<CssBaseline />
-						<header>
-							<SearchBar />
-						</header>
-						<main>{children}</main>
-						<footer>
+						<Box display="flex" flexDirection="column" minHeight="100vh">
+							<CssBaseline />
+							<header>
+								<SearchBar />
+							</header>
+							<main>{children}</main>
 							<Footer />
-						</footer>
+						</Box>
 					</ThemeProvider>
 				</ColorModeContext.Provider>
 			</body>

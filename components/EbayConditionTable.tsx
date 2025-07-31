@@ -13,7 +13,7 @@ import {
 } from '@mui/material';
 
 interface GameListingRow {
-	id: string;
+	id: number;
 	price: number;
 	feedback: string;
 	title: string;
@@ -52,7 +52,7 @@ export default function EbayConditionTable({ condition, listings }: Props) {
 				<TableBody>
 					{listings.map((game) => (
 						<TableRow
-							key={game.id}
+							key={game.id * Math.random()}
 							hover
 							onClick={() => handleRowClick(game.url)}
 							sx={{ cursor: 'pointer' }}

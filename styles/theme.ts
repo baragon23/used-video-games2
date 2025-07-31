@@ -29,14 +29,14 @@ export const getTheme = (mode: 'light' | 'dark') => {
 	const theme = createTheme(baseTheme, {
 		typography: {
 			h1: {
-				fontSize: '6rem',
+				fontSize: '4rem',
 				// this first media query is a hard-coded min-width
 				'@media (max-width: 600px)': {
 					fontSize: '2rem',
 				},
 				// this uses the baseTheme's breakpoints
 				[baseTheme.breakpoints.up('md')]: {
-					fontSize: '4rem',
+					fontSize: '2.75rem',
 				},
 			},
 		},

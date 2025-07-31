@@ -1,13 +1,16 @@
 'use client';
+import GameDetail from '@/app/Types/GameDetail';
 import CallApi from '@/app/utils/callApi';
-import { Grid } from '@mui/material';
+import { Grid, Typography } from '@mui/material';
 import { useEffect, useMemo } from 'react';
+import LoadingSpinner from '../LoadingSpinner';
 
 interface DetailsProps {
 	id: string | null;
+	name: string;
 }
 
-const Details = ({ id }: DetailsProps) => {
+const Details = ({ id, name }: DetailsProps) => {
 	const gameConfig = useMemo(
 		() => ({
 			method: 'get',
@@ -19,16 +22,29 @@ const Details = ({ id }: DetailsProps) => {
 		[id],
 	);
 
-	const { data, loading, error } = CallApi(gameConfig);
+	const { data, loading, error } = CallApi<GameDetail>(gameConfig);
 
 	useEffect(() => {
 		console.log(data);
 	}, [data]);
 
+	if (error) return <div>There was an error.</div>;
+
 	return (
 		<Grid container>
 			<Grid size={12}>
-				{loading ? 'Loading...' : <div dangerouslySetInnerHTML={{ __html: data.description }} />}
+				<Typography variant="h6">{name} Description:</Typography>
+				{loading ? (
+					<LoadingSpinner />
+				) : data ? (
+					<Typography
+						variant="subtitle2"
+						component="div"
+						dangerouslySetInnerHTML={{ __html: data.description }}
+					/>
+				) : (
+					<Typography>No description available.</Typography>
+				)}
 			</Grid>
 		</Grid>
 	);
