@@ -44,7 +44,7 @@ const GameDetailPage = () => {
 	});
 
 	return (
-		<Grid container>
+		<Grid container spacing={2}>
 			<Grid
 				size={12}
 				sx={{ display: 'flex', marginBottom: '2rem' }}

@@ -6,6 +6,7 @@ import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import platforms from '@/lib/platforms';
 import Link from 'next/link';
 import TitleShadow from '@/components/styled/TitleShadow';
+import { Game } from '@/lib/platforms';
 
 function slugify(name: string): string {
 	return name
@@ -62,9 +63,20 @@ const HomePage = () => {
 								</Link>
 							</Typography>
 							<ul style={{ paddingLeft: 16, marginTop: 4 }}>
-								{platform.games.map((game: string, index: number) => (
+								{platform.games.map((game: Game, index: number) => (
 									<li key={index}>
-										<Link href={`/${platform.slug}/${slugify(game)}`}>{game}</Link>
+										<Link
+											href={{
+												pathname: `/${platform.slug}/${slugify(game.name)}`,
+												query: {
+													id: game.id,
+													name: game.name,
+													platform: platform.name,
+												},
+											}}
+										>
+											{game.name}
+										</Link>
 									</li>
 								))}
 							</ul>
