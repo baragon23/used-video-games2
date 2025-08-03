@@ -1,6 +1,6 @@
 'use client';
 import GameDetail from '@/app/Types/GameDetail';
-import CallApi from '@/app/utils/callApi';
+import CallApi from '@/utils/callApi';
 import { Grid, Typography } from '@mui/material';
 import { useEffect, useMemo } from 'react';
 import LoadingSpinner from '../LoadingSpinner';
@@ -23,10 +23,6 @@ const Details = ({ id, name }: DetailsProps) => {
 	);
 
 	const { data, loading, error } = CallApi<GameDetail>(gameConfig);
-
-	useEffect(() => {
-		console.log(data);
-	}, [data]);
 
 	if (error) return <div>There was an error.</div>;
 

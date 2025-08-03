@@ -200,7 +200,7 @@ const platforms: Platform[] = [
 		games: [
 			{ id: 4890, name: 'Pokémon Ruby & Sapphire' },
 			{ id: 4891, name: 'Pokémon FireRed & LeafGreen' },
-			{ id: 2240, name: 'Super Mario Advance' },
+			{ id: 23981, name: 'Super Mario Advance' },
 			{ id: 2881, name: 'Mario Kart: Super Circuit' },
 			{ id: 2845, name: 'Takara Tomy’s Mario Party Advance' },
 			{ id: 2247, name: 'Super Mario World: Super Mario Advance 2' },

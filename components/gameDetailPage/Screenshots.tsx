@@ -1,6 +1,6 @@
 'use client';
 import { Screenshot, ScreenshotResponse } from '@/app/Types/Screenshot';
-import CallApi from '@/app/utils/callApi';
+import CallApi from '@/utils/callApi';
 import { Grid, Typography } from '@mui/material';
 import Image from 'next/image';
 import { useMemo } from 'react';

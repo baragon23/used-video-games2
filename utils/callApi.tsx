@@ -11,7 +11,6 @@ function CallApi<T>(config: AxiosRequestConfig) {
 			try {
 				const response = await axios.request<T>(config);
 				setData(response.data);
-				console.log('data from api: ', response.data);
 			} catch (e: any) {
 				setError(e.message ?? 'Unknown CallApi error');
 			} finally {

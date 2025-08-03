@@ -4,6 +4,11 @@ const nextConfig: NextConfig = {
 	images: {
 		remotePatterns: [new URL('https://media.rawg.io/media/**')],
 	},
+	logging: {
+		fetches: {
+			fullUrl: true,
+		},
+	},
 };
 
 export default nextConfig;

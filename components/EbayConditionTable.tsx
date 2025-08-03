@@ -10,7 +10,10 @@ import {
 	Paper,
 	Tooltip,
 	Typography,
+	styled,
+	useTheme,
 } from '@mui/material';
+import { useEffect } from 'react';
 
 interface GameListingRow {
 	id: number;
@@ -26,27 +29,37 @@ interface Props {
 	listings: GameListingRow[];
 }
 
+const StyledTableCell = styled(TableCell)(({ theme }) => ({
+	backgroundColor: theme.palette.primary.main,
+}));
+
 export default function EbayConditionTable({ condition, listings }: Props) {
 	const handleRowClick = (url: string) => window.open(url, '_blank');
+	const theme = useTheme();
+
+	useEffect(() => {
+		console.log(condition);
+		console.log(listings);
+	}, [condition, listings]);
 
 	return (
-		<TableContainer component={Paper} sx={{ mb: 4 }}>
-			<Typography variant="h6" sx={{ m: 2 }}>
-				{condition}
+		<TableContainer
+			component={Paper}
+			sx={{ backgroundColor: theme.palette.primary.main, maxHeight: 440, mb: 4 }}
+		>
+			<Typography variant="h5" sx={{ m: 1 }}>
+				{condition} Condition
 			</Typography>
-			<Table size="small">
+			<Table size="small" sx={{ minWidth: '650px' }}>
 				<TableHead>
 					<TableRow>
-						<TableCell>
-							Price (includes shipping{' '}
-							<Tooltip title="Sometimes eBay does not provide shipping cost for specific items.">
-								<span>*</span>
-							</Tooltip>
-							)
-						</TableCell>
-						<TableCell>Seller Feedback</TableCell>
-						<TableCell>Description</TableCell>
-						<TableCell>Ships From</TableCell>
+						<StyledTableCell>
+							Total Price
+							<Typography sx={{ fontSize: '0.6rem' }}>Includes Shipping</Typography>
+						</StyledTableCell>
+						<StyledTableCell>Seller Feedback</StyledTableCell>
+						<StyledTableCell>Description</StyledTableCell>
+						<StyledTableCell>Ships From</StyledTableCell>
 					</TableRow>
 				</TableHead>
 				<TableBody>
@@ -55,7 +68,7 @@ export default function EbayConditionTable({ condition, listings }: Props) {
 							key={game.id * Math.random()}
 							hover
 							onClick={() => handleRowClick(game.url)}
-							sx={{ cursor: 'pointer' }}
+							sx={{ backgroundColor: '#616161', cursor: 'pointer' }}
 						>
 							<TableCell>{game.price}</TableCell>
 							<TableCell>{game.feedback}</TableCell>
