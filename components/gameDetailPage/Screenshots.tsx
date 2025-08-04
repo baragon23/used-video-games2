@@ -5,6 +5,7 @@ import { Grid, Typography } from '@mui/material';
 import Image from 'next/image';
 import { useMemo } from 'react';
 import LoadingSpinner from '../LoadingSpinner';
+import PaperSubTitle from '../styled/PaperSubTitle';
 
 interface ScreenshotsProps {
 	id: string | null;
@@ -33,28 +34,32 @@ const Screenshots = ({ id, name }: ScreenshotsProps) => {
 	return (
 		<Grid container>
 			<Grid size={12}>
-				<Typography variant="h6">{name} Screenshots</Typography>
+				<PaperSubTitle>
+					<Typography variant="h6">{name} Screenshots</Typography>
+				</PaperSubTitle>
 			</Grid>
 			<Grid size={12} display="flex" alignItems="center" flexDirection="column">
 				{loading ? (
 					<LoadingSpinner />
+				) : !data?.results || data.results.length === 0 ? (
+					<Typography variant="body1" sx={{ mt: 2 }}>
+						No screenshots available
+					</Typography>
 				) : (
-					data?.results.map((s: Screenshot, i: number) => {
-						return (
-							<Image
-								key={s.id}
-								src={s.image}
-								width="256"
-								height="224"
-								alt={`screenshot ${i}`}
-								style={{
-									height: 'auto',
-									margin: '0.5rem 0',
-									maxWidth: '100%',
-								}}
-							/>
-						);
-					})
+					data.results.map((s: Screenshot, i: number) => (
+						<Image
+							key={s.id}
+							src={s.image}
+							width={256}
+							height={224}
+							alt={`screenshot ${i}`}
+							style={{
+								height: 'auto',
+								margin: '0.5rem 0',
+								maxWidth: '100%',
+							}}
+						/>
+					))
 				)}
 			</Grid>
 		</Grid>

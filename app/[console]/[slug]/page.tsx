@@ -7,6 +7,7 @@ import Details from '@/components/gameDetailPage/Details';
 import Screenshots from '@/components/gameDetailPage/Screenshots';
 import EbayContainer from '@/components/EbayContainer';
 import Link from 'next/link';
+import Videos from '@/components/gameDetailPage/Videos';
 
 const GameDetailPage = () => {
 	const searchParams = useSearchParams();
@@ -28,6 +29,11 @@ const GameDetailPage = () => {
 					</TitleShadow>
 				</Typography>
 			</Grid>
+			<Grid size={12}>
+				<Typography variant="h6">
+					Used Video Game listings from <strong>ebay</strong>
+				</Typography>
+			</Grid>
 			<Grid size={{ lg: 9, md: 9, sm: 12, xs: 12 }}>
 				<EbayContainer game={gameName} platform={platform} />
 			</Grid>
@@ -38,6 +44,8 @@ const GameDetailPage = () => {
 				<Details id={gameId} name={gameName} />
 				<Divider variant="middle" sx={{ margin: '1rem 0' }} />
 				<Screenshots id={gameId} name={gameName} />
+				<Divider variant="middle" sx={{ margin: '1rem 0' }} />
+				<Videos name={gameName} platform={platform} />
 				<Divider variant="middle" sx={{ margin: '1rem 0' }} />
 				<Typography sx={{ fontSize: '0.7rem' }}>
 					<Link href="https://rawg.io/">

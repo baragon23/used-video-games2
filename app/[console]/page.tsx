@@ -41,15 +41,15 @@ export default function ConsolePage() {
 		);
 	}
 
-	// Build the sub-nav groups: "123", "A"…"Z"
+	// build the sub-nav groups: "123", "A"…"Z"
 	const groups = ['123', ...Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i))];
 
-	// Handle tab (group) change
+	// handle tab (group) change
 	const handleGroupChange = (_: React.SyntheticEvent, newValue: string) => {
 		setSelectedGroup(newValue);
 	};
 
-	// Filter games by selected group
+	// filter games by selected group
 	const filtered = games.filter((game) => {
 		const first = game.name.charAt(0).toUpperCase();
 		if (selectedGroup === '123') {

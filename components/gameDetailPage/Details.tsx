@@ -2,8 +2,9 @@
 import GameDetail from '@/app/Types/GameDetail';
 import CallApi from '@/utils/callApi';
 import { Grid, Typography } from '@mui/material';
-import { useEffect, useMemo } from 'react';
+import { useMemo } from 'react';
 import LoadingSpinner from '../LoadingSpinner';
+import PaperSubTitle from '@/components/styled/PaperSubTitle';
 
 interface DetailsProps {
 	id: string | null;
@@ -29,7 +30,9 @@ const Details = ({ id, name }: DetailsProps) => {
 	return (
 		<Grid container>
 			<Grid size={12}>
-				<Typography variant="h6">{name} Description:</Typography>
+				<PaperSubTitle>
+					<Typography variant="h6">{name} Description:</Typography>
+				</PaperSubTitle>
 				{loading ? (
 					<LoadingSpinner />
 				) : data ? (

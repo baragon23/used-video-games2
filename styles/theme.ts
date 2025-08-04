@@ -1,5 +1,15 @@
 import { createTheme } from '@mui/material/styles';
 import { cyan } from '@mui/material/colors';
+import '@mui/material/styles';
+
+declare module '@mui/material/styles' {
+	interface Palette {
+		lightGray: string;
+	}
+	interface PaletteOptions {
+		lightGray?: string;
+	}
+}
 
 export const getTheme = (mode: 'light' | 'dark') => {
 	const baseTheme = createTheme({
@@ -14,6 +24,7 @@ export const getTheme = (mode: 'light' | 'dark') => {
 			background: {
 				default: '#303030' /* grey background for site */,
 			},
+			lightGray: '#616161',
 		},
 		components: {
 			MuiPaper: {

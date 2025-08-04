@@ -3,31 +3,43 @@
 import { useEffect, useState } from 'react';
 import EbayConditionTable from './EbayConditionTable';
 import LoadingSpinner from './LoadingSpinner';
+import { GameListingRow } from '@/app/Types/GameListingRow';
 
 interface EbayContainerProps {
 	game: string;
 	platform: string;
 }
 
+type ListingsMap = Record<string, GameListingRow[]>;
+
+const conditionOrder = [
+	'Brand New',
+	'Like New',
+	'Like New - Refurbished',
+	'Very Good',
+	'Very Good - Refurbished',
+	'Good',
+	'Good - Refurbished',
+	'Acceptable',
+	'Acceptable - Refurbished',
+];
+
 const EbayContainer = ({ game, platform }: EbayContainerProps) => {
-	const grouped: Record<string, any[]> = {};
-	const [listings, setListings] = useState([]);
+	const [listings, setListings] = useState<ListingsMap>({});
 	const [loading, setLoading] = useState<boolean>(true);
 
 	useEffect(() => {
 		setLoading(true);
 		fetch(`/api/ebay/browse?q=${encodeURIComponent(game)}%20${platform}`)
 			.then((response) => response.json())
-			.then((data) => setListings(groupListings(data.itemSummaries)))
+			.then((data) => setListings(groupListings(data.itemSummaries || [])))
 			.catch(console.error)
 			.finally(() => setLoading(false));
 	}, [game, platform]);
 
-	useEffect(() => {
-		console.log(listings);
-	}, [listings]);
+	const groupListings = (listings): Record<string, GameListingRow[]> => {
+		const grouped: Record<string, GameListingRow[]> = {};
 
-	const groupListings = (listings) => {
 		listings.forEach((item) => {
 			// if (item.itemLocation.country !== 'US') return;
 
@@ -44,9 +56,10 @@ const EbayContainer = ({ game, platform }: EbayContainerProps) => {
 
 			const totalPrice = formatter.format(price);
 
-			const row = {
+			const row: GameListingRow = {
 				id: item.itemId,
 				price: totalPrice,
+				priceNum: price,
 				feedback: `${item.seller.feedbackPercentage}% (${item.seller.feedbackScore})`,
 				title: item.title,
 				location: item.itemLocation.country,
@@ -57,6 +70,12 @@ const EbayContainer = ({ game, platform }: EbayContainerProps) => {
 			if (!grouped[condition]) grouped[condition] = [];
 			grouped[condition].push(row);
 		});
+
+		// now sort each array by priceNum ascending
+		for (const cond of Object.keys(grouped)) {
+			grouped[cond].sort((a, b) => a.priceNum - b.priceNum);
+		}
+
 		return grouped;
 	};
 
@@ -64,14 +83,10 @@ const EbayContainer = ({ game, platform }: EbayContainerProps) => {
 
 	return (
 		<>
-			{Object.keys(listings).map((key, i) => {
-				return (
-					<EbayConditionTable
-						condition={key}
-						key={`${i}ConditionTable`}
-						listings={listings[key]}
-					/>
-				);
+			{conditionOrder.map((condition) => {
+				const rows = listings[condition];
+
+				return <EbayConditionTable key={condition} condition={condition} listings={rows} />;
 			})}
 		</>
 	);
