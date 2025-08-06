@@ -6,12 +6,14 @@ export async function GET(request: Request) {
 	const q = searchParams.get('q');
 	try {
 		const token = await getEbayToken();
-		console.log('ebay token', token);
 
 		const response = await fetch(
 			`https://api.ebay.com/buy/browse/v1/item_summary/search?q=${encodeURIComponent(q)}&category_ids=139973&filter=itemLocationCountry:US`,
 			{
-				headers: { Authorization: `Bearer ${token}` },
+				headers: {
+					Authorization: `Bearer ${token}`,
+					'X-EBAY-C-ENDUSERCTX': `affiliateCampaignId=5338707380`,
+				},
 			},
 		);
 		if (!response.ok) {

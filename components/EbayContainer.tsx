@@ -59,11 +59,11 @@ const EbayContainer = ({ game, platform }: EbayContainerProps) => {
 			const row: GameListingRow = {
 				id: item.itemId,
 				price: totalPrice,
-				priceNum: price,
+				priceNum: price, // user created property used for ordering listings ascending
 				feedback: `${item.seller.feedbackPercentage}% (${item.seller.feedbackScore})`,
 				title: item.title,
 				location: item.itemLocation.country,
-				url: item.itemWebUrl,
+				url: item.itemAffiliateWebUrl,
 			};
 
 			const condition = item.condition || 'Unknown';
@@ -75,7 +75,7 @@ const EbayContainer = ({ game, platform }: EbayContainerProps) => {
 		for (const cond of Object.keys(grouped)) {
 			grouped[cond].sort((a, b) => a.priceNum - b.priceNum);
 		}
-
+		console.log(grouped);
 		return grouped;
 	};
 

@@ -64,7 +64,7 @@ const EbayConditionTable = ({ condition, listings }: Props) => {
 						))
 					) : (
 						<TableRow sx={{ backgroundColor: '#616161' }}>
-							<TableCell colSpan={4} align="center">
+							<TableCell colSpan={4}>
 								<Typography variant="body2">
 									No for-sale listings for this condition.
 								</Typography>
