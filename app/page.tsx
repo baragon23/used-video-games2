@@ -1,13 +1,12 @@
 'use client';
 
-import { Typography, Container, Box, Grid, Divider, Button } from '@mui/material';
+import { Typography, Container, Box, Grid, Divider } from '@mui/material';
 import { styled } from '@mui/material/styles';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import platforms from '@/lib/platforms';
 import Link from 'next/link';
 import TitleShadow from '@/components/styled/TitleShadow';
 import { Game } from '@/lib/platforms';
-import { useEffect, useState } from 'react';
 
 function slugify(name: string): string {
 	return name
@@ -35,52 +34,6 @@ const TitleGrid = styled(Grid)(() => ({
 const PlatformTitleColor = '#ffffff';
 
 const HomePage = () => {
-	const [allGames, setAllGames] = useState<Game[]>([]);
-	const API_KEY = process.env.NEXT_PUBLIC_RAWG_KEY;
-	const id = 49; // for example
-
-	useEffect(() => {
-		// 1) define an async fetcher
-		async function fetchAllGames() {
-			let page = 1;
-			let hasNextPage = true;
-			const gamesAccumulator: Game[] = [];
-
-			try {
-				while (hasNextPage) {
-					const res = await fetch(
-						`https://api.rawg.io/api/games?platforms=${id}` +
-							`&page=${page}&page_size=40&key=${API_KEY}`,
-					);
-					if (!res.ok) {
-						console.error('RAWG fetch failed', res.status);
-						break;
-					}
-
-					const data = await res.json();
-					gamesAccumulator.push(...data.results);
-					hasNextPage = Boolean(data.next);
-					page++;
-				}
-
-				// 2) update state once
-				setAllGames(gamesAccumulator);
-			} catch (err) {
-				console.error('Error fetching RAWG games:', err);
-			}
-		}
-
-		// 3) call it
-		fetchAllGames();
-	}, [API_KEY, id]);
-
-	const copyToClipboard = () => {
-		const text = JSON.stringify(allGames, null, 2);
-		navigator.clipboard.writeText(text).then(() => {
-			alert('Copied JSON to clipboard!');
-		});
-	};
-
 	return (
 		<Container maxWidth="md">
 			<Box py={4}>
@@ -90,11 +43,24 @@ const HomePage = () => {
 						Used Video Games on Ebay
 					</Typography>
 				</TitleGrid>
-				<Button variant="outlined" onClick={copyToClipboard} sx={{ mr: 1 }}>
-					Copy JSON
-				</Button>
 				<Divider sx={{ my: 3 }} />
 				<Grid container spacing={4}>
+					<Grid size={12}>
+						<Typography>
+							Discover the ultimate destination for used video games, where finding the
+							best deals on used video games has never been easier. Our site aggregates
+							thousands of used video games listings from US sellers only and organizes
+							them by condition—Brand New, Like New, Very Good, Good, Acceptable—and price,
+							so you can quickly spot the cheapest or the highest-quality used video games
+							available. Each listing shows the seller’s feedback score and percentage,
+							giving you confidence when buying used video games online. Whether you’re
+							hunting for classic cartridges, modern discs, or rare collector’s editions,
+							our comprehensive catalog covers all game systems, making us your go-to
+							resource for used video games on eBay. Start browsing now and experience a
+							seamless way to shop used video games by condition, price, and seller
+							reputation.
+						</Typography>
+					</Grid>
 					{platforms.map((platform) => (
 						<Grid size={{ xs: 12, md: 4 }} key={platform.slug}>
 							<Typography variant="h6" gutterBottom>
@@ -139,7 +105,9 @@ const HomePage = () => {
 									},
 								}}
 							>
-								<Typography variant="caption">&gt; all {platform.name} games</Typography>
+								<Typography sx={{ color: '#baa3a3' }} variant="subtitle1">
+									<i>&gt; all {platform.name} games</i>
+								</Typography>
 							</Link>
 						</Grid>
 					))}

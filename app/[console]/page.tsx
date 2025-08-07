@@ -79,24 +79,31 @@ export default function ConsolePage() {
 					))}
 				</Tabs>
 			</Grid>
-			{filtered.map((game) => (
-				<Grid key={game.id} size={{ xs: 12, sm: 6, md: 4 }}>
-					<Link
-						href={{
-							pathname: `/${gameConsole}/${game.slug}`,
-							query: {
-								id: game.id,
-								name: game.name,
-								platform: platformName,
-							},
-						}}
-					>
-						<Typography variant="body1" sx={{ textDecoration: 'none' }}>
-							{game.name}
-						</Typography>
-					</Link>
+			{filtered.length === 0 ? (
+				<Grid size={12}>
+					<Typography variant="body1">No games released under this letter</Typography>
 				</Grid>
-			))}
+			) : (
+				filtered.map((game) => (
+					<Grid key={game.id} size={{ xs: 12, sm: 6, md: 4 }}>
+						<Link
+							href={{
+								pathname: `/${gameConsole}/${game.slug}`,
+								query: {
+									id: game.id,
+									name: game.name,
+									platform: platformName,
+								},
+							}}
+							passHref
+						>
+							<Typography variant="body1" sx={{ textDecoration: 'none' }}>
+								{game.name}
+							</Typography>
+						</Link>
+					</Grid>
+				))
+			)}
 		</Grid>
 	);
 }

@@ -1,0 +1,235 @@
+{
+	"platform": "Sega 32X",
+	"games": [
+		{
+			"slug": "doom-2",
+			"name": "DOOM",
+			"id": 52884
+		},
+		{
+			"slug": "mortal-kombat-2",
+			"name": "Mortal Kombat 2",
+			"id": 29426
+		},
+		{
+			"slug": "rayman",
+			"name": "Rayman",
+			"id": 5463
+		},
+		{
+			"slug": "darkwing-duck",
+			"name": "Disney's Darkwing Duck",
+			"id": 53781
+		},
+		{
+			"slug": "wwf-wrestlemania-the-arcade-game",
+			"name": "WWF WrestleMania: The Arcade Game",
+			"id": 32519
+		},
+		{
+			"slug": "ninja-gaiden-iii-the-ancient-ship-of-doom",
+			"name": "Ninja Gaiden III: The Ancient Ship of Doom (1991)",
+			"id": 53975
+		},
+		{
+			"slug": "pitfall-the-mayan-adventure",
+			"name": "Pitfall: The Mayan Adventure",
+			"id": 25886
+		},
+		{
+			"slug": "blackthorne",
+			"name": "Blackthorne",
+			"id": 32252
+		},
+		{
+			"slug": "primal-rage",
+			"name": "Primal Rage",
+			"id": 30645
+		},
+		{
+			"slug": "after-burner",
+			"name": "After Burner",
+			"id": 54174
+		},
+		{
+			"slug": "virtua-racing",
+			"name": "Virtua Racing",
+			"id": 55194
+		},
+		{
+			"slug": "fifa-international-soccer",
+			"name": "FIFA International Soccer",
+			"id": 31472
+		},
+		{
+			"slug": "space-harrier-1986",
+			"name": "Space Harrier (1986)",
+			"id": 55117
+		},
+		{
+			"slug": "virtua-fighter",
+			"name": "Virtua Fighter",
+			"id": 55193
+		},
+		{
+			"slug": "after-burner-ii",
+			"name": "After Burner II",
+			"id": 55323
+		},
+		{
+			"slug": "fifa-soccer-96",
+			"name": "FIFA Soccer 96",
+			"id": 52925
+		},
+		{
+			"slug": "knuckles-chaotix",
+			"name": "Knuckles' Chaotix",
+			"id": 55179
+		},
+		{
+			"slug": "night-trap",
+			"name": "Night Trap",
+			"id": 54288
+		},
+		{
+			"slug": "brutal-paws-of-fury",
+			"name": "Brutal: Paws of Fury",
+			"id": 29358
+		},
+		{
+			"slug": "wwf-raw",
+			"name": "WWF Raw",
+			"id": 55196
+		},
+		{
+			"slug": "bc-racers",
+			"name": "BC Racers",
+			"id": 31295
+		},
+		{
+			"slug": "romance-of-the-three-kingdoms-iv",
+			"name": "Romance of the Three Kingdoms IV: Wall of Fire",
+			"id": 54736
+		},
+		{
+			"slug": "fahrenheit",
+			"name": "Fahrenheit",
+			"id": 54258
+		},
+		{
+			"slug": "spider-man-web-of-fire",
+			"name": "The Amazing Spider-Man: Web of Fire",
+			"id": 55186
+		},
+		{
+			"slug": "segasonic-the-hedgehog",
+			"name": "SegaSonic the Hedgehog",
+			"id": 55198
+		},
+		{
+			"slug": "star-trek-starfleet-academy-starship-bridge-simula",
+			"name": "Star Trek: Starfleet Academy - Starship Bridge Simulator",
+			"id": 55188
+		},
+		{
+			"slug": "surgical-strike",
+			"name": "Surgical Strike",
+			"id": 54326
+		},
+		{
+			"slug": "supreme-warrior",
+			"name": "Supreme Warrior",
+			"id": 54325
+		},
+		{
+			"slug": "tempo",
+			"name": "Tempo",
+			"id": 55190
+		},
+		{
+			"slug": "corpse-killer",
+			"name": "Corpse Killer",
+			"id": 54245
+		},
+		{
+			"slug": "star-wars-arcade",
+			"name": "Star Wars Arcade",
+			"id": 55187
+		},
+		{
+			"slug": "world-series-baseball-95",
+			"name": "World Series Baseball '95",
+			"id": 57266
+		},
+		{
+			"slug": "kolibri",
+			"name": "Kolibri",
+			"id": 55181
+		},
+		{
+			"slug": "golf-magazine-36-great-holes-starring-fred-couples",
+			"name": "Golf Magazine: 36 Great Holes Starring Fred Couples",
+			"id": 55173
+		},
+		{
+			"slug": "cosmic-carnage",
+			"name": "Cosmic Carnage",
+			"id": 55177
+		},
+		{
+			"slug": "shadow-squadron",
+			"name": "Shadow Squadron",
+			"id": 55185
+		},
+		{
+			"slug": "metal-head",
+			"name": "Metal Head",
+			"id": 55183
+		},
+		{
+			"slug": "slam-city-with-scottie-pippen",
+			"name": "Slam City with Scottie Pippen",
+			"id": 54317
+		},
+		{
+			"slug": "t-mek",
+			"name": "T-MEK",
+			"id": 55189
+		},
+		{
+			"slug": "darxide",
+			"name": "Darxide",
+			"id": 55180
+		},
+		{
+			"slug": "nfl-quarterback-club",
+			"name": "NFL Quarterback Club",
+			"id": 55184
+		},
+		{
+			"slug": "world-series-baseball-starring-deion-sanders",
+			"name": "World Series Baseball Starring Deion Sanders",
+			"id": 55195
+		},
+		{
+			"slug": "toughman-contest",
+			"name": "Toughman Contest",
+			"id": 55192
+		},
+		{
+			"slug": "zaxxons-motherbase-2000",
+			"name": "Zaxxon's Motherbase 2000",
+			"id": 55197
+		},
+		{
+			"slug": "motocross-championship",
+			"name": "Motocross Championship",
+			"id": 369067
+		},
+		{
+			"slug": "rbi-baseball-95",
+			"name": "RBI Baseball '95",
+			"id": 369066
+		}
+	]
+}
