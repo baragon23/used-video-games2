@@ -103,7 +103,7 @@ const platforms: Platform[] = [
 			{ id: 5970, name: 'Samurai Shodown II' },
 			{ id: 54260, name: 'Fatal Fury Special' },
 			{ id: 952547, name: 'Art of Fighting 3' },
-			{ id: 816305, name: 'SNK vs. Capcom: The Match of the Millennium' },
+			{ id: 1488, name: 'Metal Slug 3' },
 			{ id: 455555, name: 'Last Resort' },
 			{ id: 2225, name: 'Blazing Star' },
 			{ id: 54306, name: 'Sengoku' },
