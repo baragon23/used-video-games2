@@ -1,3 +1,6 @@
+import Game from "@/app/Types/Game";
+import { useEffect, useState } from "react";
+
 	const [allGames, setAllGames] = useState<Game[]>([]);
 	const API_KEY = process.env.NEXT_PUBLIC_RAWG_KEY;
 	const id = 106; // platform id

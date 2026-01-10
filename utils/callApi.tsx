@@ -11,8 +11,14 @@ function CallApi<T>(config: AxiosRequestConfig) {
 			try {
 				const response = await axios.request<T>(config);
 				setData(response.data);
-			} catch (e: any) {
-				setError(e.message ?? 'Unknown CallApi error');
+			} catch (e: unknown) {
+				if (axios.isAxiosError(e)) {
+					setError(e.response?.data?.message ?? e.message);
+				} else if (e instanceof Error) {
+					setError(e.message);
+				} else {
+					setError('Unknown CallApi error');
+				}
 			} finally {
 				setLoading(false);
 			}

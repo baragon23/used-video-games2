@@ -4,10 +4,11 @@ import { useEffect, useState } from 'react';
 import EbayConditionTable from './EbayConditionTable';
 import LoadingSpinner from './LoadingSpinner';
 import { GameListingRow } from '@/app/Types/GameListingRow';
+import EbayListing from '@/app/Types/EbayListing';
 
 interface EbayContainerProps {
-	game: string;
-	platform: string;
+	game: string | null;
+	platform: string | null;
 }
 
 type ListingsMap = Record<string, GameListingRow[]>;
@@ -29,6 +30,8 @@ const EbayContainer = ({ game, platform }: EbayContainerProps) => {
 	const [loading, setLoading] = useState<boolean>(true);
 
 	useEffect(() => {
+		if (!game) return;
+
 		setLoading(true);
 		fetch(`/api/ebay/browse?q=${encodeURIComponent(game)}%20${platform}`)
 			.then((response) => response.json())
@@ -37,10 +40,10 @@ const EbayContainer = ({ game, platform }: EbayContainerProps) => {
 			.finally(() => setLoading(false));
 	}, [game, platform]);
 
-	const groupListings = (listings): Record<string, GameListingRow[]> => {
+	const groupListings = (listings: EbayListing[]): Record<string, GameListingRow[]> => {
 		const grouped: Record<string, GameListingRow[]> = {};
 
-		listings.forEach((item) => {
+		listings.forEach((item: EbayListing) => {
 			// if (item.itemLocation.country !== 'US') return;
 
 			const price =

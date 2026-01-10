@@ -15,6 +15,23 @@ const GameDetailPage = () => {
 	const gameId = searchParams.get('id');
 	const gameName = searchParams.get('name');
 
+	if (!platform || !gameId || !gameName) {
+		return (
+			<Grid container spacing={2}>
+				<Grid
+					size={12}
+					sx={{ display: 'flex', marginBottom: '2rem' }}
+					justifyContent="center"
+					alignItems="center"
+				>
+					<Typography variant="h6">
+						Missing URL parameters. Please go back and re-select a game.
+					</Typography>
+				</Grid>
+			</Grid>
+		);
+	}
+
 	return (
 		<Grid container spacing={2}>
 			<Grid
