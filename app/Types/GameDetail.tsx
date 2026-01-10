@@ -77,6 +77,33 @@ export interface ParentPlatform {
 	};
 }
 
+interface Platform {
+	platform: number;
+	name: string;
+	slug: string;
+}
+
+interface MetacriticPlatforms {
+	metascore: number;
+	url: string;
+	platform: Platform[];
+}
+
+interface Store {
+	id: number;
+	name: string;
+	slug: string;
+	domain: string;
+	games_count: number;
+	image_background: string;
+}
+
+interface Stores {
+	id: number;
+	url: string;
+	store: Store[];
+}
+
 export default interface GameDetail {
 	id: number;
 	slug: string;
@@ -84,7 +111,7 @@ export default interface GameDetail {
 	name_original: string;
 	description: string;
 	metacritic: number | null;
-	metacritic_platforms: any[];
+	metacritic_platforms: MetacriticPlatforms[];
 	released: string;
 	tba: boolean;
 	updated: string;
@@ -118,18 +145,18 @@ export default interface GameDetail {
 	parents_count: number;
 	additions_count: number;
 	game_series_count: number;
-	user_game: any | null;
+	user_game: null;
 	reviews_count: number;
 	saturated_color: string;
 	dominant_color: string;
 	parent_platforms: ParentPlatform[];
 	platforms: PlatformEntry[];
-	stores: any[];
+	stores: Stores[];
 	developers: Developer[];
 	genres: Genre[];
 	tags: Tag[];
 	publishers: Publisher[];
 	esrb_rating: EsrbRating;
-	clip: any | null;
+	clip: null;
 	description_raw: string;
 }

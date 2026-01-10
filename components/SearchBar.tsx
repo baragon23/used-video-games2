@@ -1,12 +1,8 @@
 'use client';
 
-import { Autocomplete, TextField, Box } from '@mui/material';
-import { useRouter } from 'next/navigation';
-import { allGames } from '../lib/mockData';
+import { Box } from '@mui/material';
 
 export default function SearchBar() {
-	const router = useRouter();
-
 	return (
 		<Box sx={{ maxWidth: 400 }}>
 			{/*<Autocomplete

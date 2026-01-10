@@ -22,7 +22,11 @@ export async function GET(request: Request) {
 		}
 		const data = await response.json();
 		return NextResponse.json(data);
-	} catch (err: any) {
-		return NextResponse.json({ error: err.message }, { status: 500 });
+	} catch (err: unknown) {
+		if (err instanceof Error) {
+			return NextResponse.json({ error: err.message }, { status: 500 });
+		}
+
+		return NextResponse.json({ error: 'Unknown server error' }, { status: 500 });
 	}
 }

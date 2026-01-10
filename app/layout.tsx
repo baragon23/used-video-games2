@@ -1,6 +1,6 @@
 'use client';
 
-import { ReactNode, useMemo, useState, useEffect, createContext } from 'react';
+import { ReactNode, useMemo, useState, useEffect } from 'react';
 import { ThemeProvider, CssBaseline, Box } from '@mui/material';
 import { getTheme } from '../styles/theme';
 import SearchBar from '@/components/SearchBar';
@@ -9,7 +9,6 @@ import Footer from '@/components/Footer';
 import BackToTop from '@/components/BackToTop';
 import Script from 'next/script';
 
-export const ColorModeContext = createContext({ toggleColorMode: () => {} });
 const GoogleTagId = 'G-TGVRVK2LSH';
 
 export default function RootLayout({ children }: { children: ReactNode }) {
@@ -21,19 +20,6 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 			setMode(savedMode);
 		}
 	}, []);
-
-	const colorMode = useMemo(
-		() => ({
-			toggleColorMode: () => {
-				setMode((prev) => {
-					const next = prev === 'light' ? 'dark' : 'light';
-					localStorage.setItem('theme', next);
-					return next;
-				});
-			},
-		}),
-		[],
-	);
 
 	const theme = useMemo(() => getTheme(mode), [mode]);
 
@@ -53,19 +39,17 @@ export default function RootLayout({ children }: { children: ReactNode }) {
                         gtag('config', '${GoogleTagId}', { send_page_view: false });
                     `}
 				</Script>
-				<ColorModeContext.Provider value={colorMode}>
-					<ThemeProvider theme={theme}>
-						<Box display="flex" flexDirection="column" minHeight="100vh">
-							<CssBaseline />
-							<header>
-								<SearchBar />
-							</header>
-							<main>{children}</main>
-							<Footer />
-							<BackToTop />
-						</Box>
-					</ThemeProvider>
-				</ColorModeContext.Provider>
+				<ThemeProvider theme={theme}>
+					<Box display="flex" flexDirection="column" minHeight="100vh">
+						<CssBaseline />
+						<header>
+							<SearchBar />
+						</header>
+						<main>{children}</main>
+						<Footer />
+						<BackToTop />
+					</Box>
+				</ThemeProvider>
 			</body>
 		</html>
 	);
