@@ -1,4 +1,4 @@
-export async function getStaticProps() {
+/*export async function getStaticProps() {
 	const API_KEY = process.env.RAWG_API_KEY;
 	const platformId = 112; // Atari Jaguar
 
@@ -36,3 +36,4 @@ export default function AtariJaguarPage({ games }) {
 		</div>
 	);
 }
+*/

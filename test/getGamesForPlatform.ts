@@ -1,4 +1,4 @@
-import Game from "@/app/Types/Game";
+/*import Game from "@/app/Types/Game";
 import { useEffect, useState } from "react";
 
 	const [allGames, setAllGames] = useState<Game[]>([]);
@@ -49,4 +49,4 @@ import { useEffect, useState } from "react";
 
     <Button variant="outlined" onClick={copyToClipboard} sx={{ mr: 1 }}>
         Copy JSON
-    </Button>
+    </Button>*/
