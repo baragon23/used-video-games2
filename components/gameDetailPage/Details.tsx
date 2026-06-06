@@ -12,20 +12,35 @@ interface DetailsProps {
 }
 
 const Details = ({ id, name }: DetailsProps) => {
+	if (!id) return null;
+
+	const apiKey = process.env.NEXT_PUBLIC_RAWG_KEY;
+
+	if (!apiKey) {
+		return (
+			<Typography color="error" sx={{ mt: 2 }}>
+				Missing RAWG API key.
+			</Typography>
+		);
+	}
+
 	const gameConfig = useMemo(
 		() => ({
 			method: 'get',
 			url: `https://api.rawg.io/api/games/${id}`,
 			params: {
-				key: process.env.NEXT_PUBLIC_RAWG_KEY,
+				key: apiKey,
 			},
 		}),
-		[id],
+		[id, apiKey],
 	);
 
 	const { data, loading, error } = CallApi<GameDetail>(gameConfig);
 
-	if (error) return <div>There was an error.</div>;
+	if (error)
+		return (
+			<Typography color="error">Failed to load game details: {String(error)}</Typography>
+		);
 
 	return (
 		<Grid container>

@@ -14,13 +14,14 @@ export default function ConsolePage() {
 	const platformName = searchParams.get('name');
 	const [games, setGames] = useState<Game[]>([]);
 	const [selectedGroup, setSelectedGroup] = useState<string>('123');
+	const [error, setError] = useState<string | null>(null);
 
 	useEffect(() => {
 		if (!platformId) return;
 
 		fetch(`/games/${platformId}.json`)
 			.then((res) => {
-				if (!res.ok) throw new Error(`Failed to load /data/${platformId}.json`);
+				if (!res.ok) throw new Error(`Failed to load /games/${platformId}.json`);
 				return res.json();
 			})
 			.then((data: { platform: number; games: Game[] }) => {
@@ -28,7 +29,8 @@ export default function ConsolePage() {
 				setGames(data.games);
 			})
 			.catch((e) => {
-				console.log(e);
+				console.error(e);
+				setError('Unable to load games for this platform.');
 			});
 	}, [platformId]);
 
@@ -37,6 +39,14 @@ export default function ConsolePage() {
 			<p>
 				No platform selected. Please pass ?id=&lt;platformId&gt; in the URL or return{' '}
 				<Link href="/">home</Link>.
+			</p>
+		);
+	}
+
+	if (error) {
+		return (
+			<p>
+				{error} Please refresh the page or return <Link href="/">home</Link>.
 			</p>
 		);
 	}
@@ -95,9 +105,9 @@ export default function ConsolePage() {
 									platform: platformName,
 								},
 							}}
-							passHref
+							
 						>
-							<Typography variant="body1" sx={{ textDecoration: 'none' }}>
+							<Typography component="a" variant="body1" sx={{ textDecoration: 'none', color: 'inherit' }}>
 								{game.name}
 							</Typography>
 						</Link>

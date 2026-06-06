@@ -1,7 +1,7 @@
 'use client';
 import { Screenshot, ScreenshotResponse } from '@/app/Types/Screenshot';
 import CallApi from '@/utils/callApi';
-import { Grid, Typography } from '@mui/material';
+import { Grid, Typography, Box } from '@mui/material';
 import Image from 'next/image';
 import { useMemo } from 'react';
 import LoadingSpinner from '../LoadingSpinner';
@@ -13,53 +13,71 @@ interface ScreenshotsProps {
 }
 
 const Screenshots = ({ id, name }: ScreenshotsProps) => {
+	// If there's no id, don't attempt to fetch
+	if (!id) return null;
+
+	const apiKey = process.env.NEXT_PUBLIC_RAWG_KEY;
+
+	if (!apiKey) {
+		return (
+			<Typography color="error" sx={{ mt: 2 }}>
+				Missing RAWG API key.
+			</Typography>
+		);
+	}
+
 	const gameConfig = useMemo(
 		() => ({
 			method: 'get',
 			url: `https://api.rawg.io/api/games/${id}/screenshots`,
 			params: {
-				key: process.env.NEXT_PUBLIC_RAWG_KEY,
+				key: apiKey,
 			},
 		}),
-		[id],
+		[id, apiKey],
 	);
 
 	const { data, loading, error } = CallApi<ScreenshotResponse>(gameConfig);
 
 	if (error) {
-		console.log('Screenshots error: ', error);
-		return '';
+		return (
+			<Typography color="error" sx={{ mt: 2 }}>
+				Failed to load screenshots: {String(error)}
+			</Typography>
+		);
 	}
 
+	const results = data?.results ?? [];
+
 	return (
-		<Grid container>
+		<Grid container spacing={2}>
 			<Grid size={12}>
 				<PaperSubTitle>
 					<Typography variant="h6">{name} Screenshots</Typography>
 				</PaperSubTitle>
 			</Grid>
-			<Grid size={12} display="flex" alignItems="center" flexDirection="column">
+
+			<Grid size={12}>
 				{loading ? (
 					<LoadingSpinner />
-				) : !data?.results || data.results.length === 0 ? (
+				) : results.length === 0 ? (
 					<Typography variant="body1" sx={{ mt: 2 }}>
 						No screenshots available
 					</Typography>
 				) : (
-					data.results.map((s: Screenshot, i: number) => (
-						<Image
-							key={s.id}
-							src={s.image}
-							width={256}
-							height={224}
-							alt={`screenshot ${i}`}
-							style={{
-								height: 'auto',
-								margin: '0.5rem 0',
-								maxWidth: '100%',
-							}}
-						/>
-					))
+					<Box display="flex" flexDirection="column" alignItems="center">
+						{results.map((s: Screenshot, i: number) => (
+							<Box key={s.id} sx={{ width: '100%', maxWidth: 512, my: 1 }}>
+								<Image
+									src={s.image}
+									width={512}
+									height={360}
+									alt={`${name} screenshot ${i + 1}`}
+									style={{ width: '100%', height: 'auto', display: 'block' }}
+								/>
+							</Box>
+						))}
+					</Box>
 				)}
 			</Grid>
 		</Grid>

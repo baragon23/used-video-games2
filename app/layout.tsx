@@ -3,7 +3,6 @@
 import { ReactNode, useMemo, useState, useEffect } from 'react';
 import { ThemeProvider, CssBaseline, Box } from '@mui/material';
 import { getTheme } from '../styles/theme';
-import SearchBar from '@/components/SearchBar';
 import './globals.css';
 import Footer from '@/components/Footer';
 import BackToTop from '@/components/BackToTop';
@@ -42,9 +41,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 				<ThemeProvider theme={theme}>
 					<Box display="flex" flexDirection="column" minHeight="100vh">
 						<CssBaseline />
-						<header>
-							<SearchBar />
-						</header>
+
 						<main>{children}</main>
 						<Footer />
 						<BackToTop />

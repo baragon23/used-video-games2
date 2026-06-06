@@ -2,16 +2,17 @@ let cachedToken = '';
 let expiresAt = 0;
 
 export async function getEbayToken(): Promise<string> {
-	console.log('inside getEbayToken');
-
 	// If we have a token and it hasn’t expired yet, just return it
 	if (cachedToken && Date.now() < expiresAt) {
-		console.log('returning cached token');
 		return cachedToken;
 	}
 
 	// Otherwise fetch a new one
 	const { EBAY_CLIENT_ID, EBAY_CLIENT_SECRET } = process.env;
+	if (!EBAY_CLIENT_ID || !EBAY_CLIENT_SECRET) {
+		throw new Error('Missing EBAY_CLIENT_ID or EBAY_CLIENT_SECRET env vars');
+	}
+
 	const basicAuth = Buffer.from(`${EBAY_CLIENT_ID}:${EBAY_CLIENT_SECRET}`).toString('base64');
 
 	const params = new URLSearchParams({
@@ -27,8 +28,11 @@ export async function getEbayToken(): Promise<string> {
 		},
 		body: params.toString(),
 	});
+	if (!response.ok) {
+		const text = await response.text();
+		throw new Error(`eBay token fetch failed: ${response.status} ${text}`);
+	}
 	const data = await response.json();
-	console.log('ebay token', data);
 	// cache it for slightly less than its lifetime
 	expiresAt = Date.now() + data.expires_in * 1000 - 60_000;
 	cachedToken = data.access_token;

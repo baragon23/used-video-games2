@@ -16,7 +16,7 @@ import {
 
 interface Props {
 	condition: string;
-	listings: GameListingRow[];
+	listings?: GameListingRow[];
 }
 
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
@@ -24,13 +24,13 @@ const StyledTableCell = styled(TableCell)(({ theme }) => ({
 }));
 
 const EbayConditionTable = ({ condition, listings }: Props) => {
-	const handleRowClick = (url: string) => window.open(url, '_blank');
+	const handleRowClick = (url: string) => window.open(url, '_blank', 'noopener,noreferrer');
 	const theme = useTheme();
 
 	return (
 		<TableContainer
 			component={Paper}
-			sx={{ backgroundColor: theme.palette.primary.main, maxHeight: 440, mb: 4 }}
+			sx={{ backgroundColor: theme.palette.primary.main, maxHeight: 440, mb: 4, overflowX: 'auto' }}
 		>
 			<Typography variant="h5" sx={{ margin: '1rem 1rem 0 1rem' }}>
 				{condition} Condition
@@ -48,8 +48,8 @@ const EbayConditionTable = ({ condition, listings }: Props) => {
 					</TableRow>
 				</TableHead>
 				<TableBody>
-					{listings && listings.length > 0 ? (
-						listings.map((game) => (
+					{(listings ?? []).length > 0 ? (
+						(listings ?? []).map((game) => (
 							<TableRow
 								key={game.id}
 								hover

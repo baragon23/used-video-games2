@@ -28,15 +28,24 @@ const conditionOrder = [
 const EbayContainer = ({ game, platform }: EbayContainerProps) => {
 	const [listings, setListings] = useState<ListingsMap>({});
 	const [loading, setLoading] = useState<boolean>(true);
+	const [error, setError] = useState<string | null>(null);
 
 	useEffect(() => {
 		if (!game) return;
 
 		setLoading(true);
-		fetch(`/api/ebay/browse?q=${encodeURIComponent(game)}%20${platform}`)
+		const q = `${game} ${platform ?? ''}`.trim();
+		fetch(`/api/ebay/browse?q=${encodeURIComponent(q)}`)
 			.then((response) => response.json())
-			.then((data) => setListings(groupListings(data.itemSummaries || [])))
-			.catch(console.error)
+			.then((data) => {
+				setListings(groupListings(data.itemSummaries || []));
+				setError(null);
+			})
+			.catch((err) => {
+				console.error('Ebay fetch error:', err);
+				setListings({});
+				setError('Failed to load eBay listings.');
+			})
 			.finally(() => setLoading(false));
 	}, [game, platform]);
 
@@ -44,7 +53,6 @@ const EbayContainer = ({ game, platform }: EbayContainerProps) => {
 		const grouped: Record<string, GameListingRow[]> = {};
 
 		listings.forEach((item: EbayListing) => {
-			// if (item.itemLocation.country !== 'US') return;
 
 			const price =
 				parseFloat(item.price.value) +
@@ -78,16 +86,21 @@ const EbayContainer = ({ game, platform }: EbayContainerProps) => {
 		for (const cond of Object.keys(grouped)) {
 			grouped[cond].sort((a, b) => a.priceNum - b.priceNum);
 		}
-		console.log(grouped);
 		return grouped;
 	};
 
 	if (loading) return <LoadingSpinner />;
+	if (error)
+		return (
+			<p>
+				{error}
+			</p>
+		);
 
 	return (
 		<>
 			{conditionOrder.map((condition) => {
-				const rows = listings[condition];
+				const rows = listings[condition] || [];
 
 				return <EbayConditionTable key={condition} condition={condition} listings={rows} />;
 			})}

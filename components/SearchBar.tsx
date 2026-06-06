@@ -1,21 +1,7 @@
-'use client';
+// SearchBar removed: top-of-page search UI is deprecated and references removed.
+// This file is kept as a placeholder to avoid accidental import errors during
+// incremental changes. You can safely delete this file when ready.
 
-import { Box } from '@mui/material';
-
-export default function SearchBar() {
-	return (
-		<Box sx={{ maxWidth: 400 }}>
-			{/*<Autocomplete
-				freeSolo
-				options={allGames}
-				getOptionLabel={(option) => `${option.title} (${option.platform})`}
-				renderInput={(params) => <TextField {...params} label="Search Games" variant="outlined" size="small" />}
-				onChange={(e, value) => {
-					if (value?.slug && value?.platformSlug) {
-						router.push(`/${value.platformSlug}/${value.slug}`);
-					}
-				}}
-			/>*/}
-		</Box>
-	);
+export default function SearchBarPlaceholder() {
+	return null;
 }

@@ -37,8 +37,8 @@ const GameDetailPage = () => {
 			<Grid
 				size={12}
 				sx={{ display: 'flex', marginBottom: '2rem' }}
-				justifyContent={'center'}
-				alignItems={'center'}
+				justifyContent="center"
+				alignItems="center"
 			>
 				<Typography variant="h1" display="flex" justifyContent="center">
 					<TitleShadow>
@@ -51,7 +51,7 @@ const GameDetailPage = () => {
 					Used Video Game listings from <strong>ebay</strong>
 				</Typography>
 			</Grid>
-			<Grid size={{ lg: 9, md: 9, sm: 12, xs: 12 }}>
+			<Grid size={{ xs: 12, md: 9, lg: 9 }}>
 				<EbayContainer game={gameName} platform={platform} />
 			</Grid>
 			<Grid
@@ -65,12 +65,11 @@ const GameDetailPage = () => {
 				<Videos name={gameName} platform={platform} />
 				<Divider variant="middle" sx={{ margin: '1rem 0' }} />
 				<Typography sx={{ fontSize: '0.7rem' }}>
-					<Link href="https://rawg.io/">
+					<Link href="https://rawg.io/" target="_blank" rel="noopener noreferrer">
 						{gameName} screenshots and description from RAWG Video Games Database
 					</Link>
 				</Typography>
 			</Grid>
-			<Grid size={12}></Grid>
 		</Grid>
 	);
 };

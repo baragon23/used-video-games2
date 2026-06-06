@@ -78,9 +78,9 @@ const HomePage = () => {
 									</TitleShadow>
 								</Link>
 							</Typography>
-							<ul style={{ paddingLeft: 16, marginTop: 4 }}>
-								{platform.games.map((game: Game, index: number) => (
-									<li key={index}>
+							<Box component="ul" sx={{ pl: 2, mt: 1 }}>
+								{platform.games.map((game: Game) => (
+									<li key={game.id}>
 										<Link
 											href={{
 												pathname: `/${platform.slug}/${slugify(game.name)}`,
@@ -95,7 +95,7 @@ const HomePage = () => {
 										</Link>
 									</li>
 								))}
-							</ul>
+							</Box>
 							<Link
 								href={{
 									pathname: `/${platform.slug}`,

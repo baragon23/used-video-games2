@@ -32,18 +32,31 @@ const Videos = ({ name, platform }: VideosProps) => {
 	const [open, setOpen] = useState<boolean>(false);
 	const [videoId, setVideoId] = useState<string | null>(null);
 
+	if (!name) return null;
+	if (!platform) return null;
+
+	const apiKey = process.env.NEXT_PUBLIC_YOUTUBE_KEY;
+
+	if (!apiKey) {
+		return (
+			<Typography color="error" sx={{ mt: 2 }}>
+				Missing YouTube API key.
+			</Typography>
+		);
+	}
+
 	const gameConfig = useMemo(
 		() => ({
 			method: 'get',
 			url: `https://www.googleapis.com/youtube/v3/search`,
 			params: {
-				key: process.env.NEXT_PUBLIC_YOUTUBE_KEY,
+				key: apiKey,
 				part: 'snippet',
 				q: `${name} ${platform}`,
 				type: 'video',
 			},
 		}),
-		[name, platform],
+		[name, platform, apiKey],
 	);
 
 	const { data, loading, error } = CallApi<YouTubeSearchListResponse>(gameConfig);
@@ -58,8 +71,11 @@ const Videos = ({ name, platform }: VideosProps) => {
 	};
 
 	if (error) {
-		console.log('Youtube video error: ', error);
-		return '';
+		return (
+			<Typography color="error" sx={{ mt: 2 }}>
+				Failed to load videos: {String(error)}
+			</Typography>
+		);
 	}
 	return (
 		<>
